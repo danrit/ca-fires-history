@@ -15,7 +15,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl 'https://incidents.fire.ca.gov/umbraco/api/IncidentApi/List?inactive=true' \
-          | jq > incidents-june-2025-format.json
+          | jq > incidents-2025-format.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
