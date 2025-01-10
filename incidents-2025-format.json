@@ -52,7 +52,7 @@
   {
     "Name": "Palisades Fire",
     "Final": false,
-    "Updated": "2025-01-10T11:26:18Z",
+    "Updated": "2025-01-10T12:08:38Z",
     "Started": "2025-01-07T10:30:00Z",
     "AdminUnit": "Unified Command: CAL FIRE San Bernardino-Inyo-Mono Unit, Los Angeles County Fire Department, Los Angeles City Fire Department and Los Angeles Police Department",
     "AdminUnitUrl": null,
@@ -77,7 +77,7 @@
   {
     "Name": "Eaton Fire",
     "Final": false,
-    "Updated": "2025-01-10T11:29:43Z",
+    "Updated": "2025-01-10T12:06:55Z",
     "Started": "2025-01-07T18:18:00Z",
     "AdminUnit": "Los Angeles County Fire Department, Pasadena Fire, and the United States Forest Services are in unified command ",
     "AdminUnitUrl": null,
@@ -277,13 +277,13 @@
   {
     "Name": "Archer Fire",
     "Final": false,
-    "Updated": "2025-01-10T11:29:45Z",
+    "Updated": "2025-01-10T11:50:11Z",
     "Started": "2025-01-10T11:24:44Z",
     "AdminUnit": "Los Angeles County Fire",
     "AdminUnitUrl": null,
     "County": "Los Angeles",
     "Location": "Sesnon Boulevard, North of Meadowlark Avenue, Granada Hills",
-    "AcresBurned": 1.0,
+    "AcresBurned": 31.5,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
