@@ -52,7 +52,7 @@
   {
     "Name": "Palisades Fire",
     "Final": false,
-    "Updated": "2025-01-11T09:39:30Z",
+    "Updated": "2025-01-11T11:04:04Z",
     "Started": "2025-01-07T10:30:00Z",
     "AdminUnit": "Unified Command: CAL FIRE San Bernardino-Inyo-Mono Unit, Los Angeles County Fire Department, Los Angeles City Fire Department and Los Angeles Police Department",
     "AdminUnitUrl": null,
@@ -77,7 +77,7 @@
   {
     "Name": "Eaton Fire",
     "Final": false,
-    "Updated": "2025-01-11T09:21:32Z",
+    "Updated": "2025-01-11T11:00:58Z",
     "Started": "2025-01-07T18:18:00Z",
     "AdminUnit": "Los Angeles County Fire Department, Pasadena Fire, and the United States Forest Services are in unified command ",
     "AdminUnitUrl": null,
@@ -86,7 +86,7 @@
     "AcresBurned": 14117.0,
     "PercentContained": 15.0,
     "ControlStatement": null,
-    "AgencyNames": "Southern California Edison, LA County Public Health, LA County Medical Examiner, Pasadena Water and Power, LA County Dept. Public Works, LA County Mental Health., LA County Mental Health.",
+    "AgencyNames": "LA County Mental Health, LA County Dept. Public Works, Pasadena Water and Power, LA County Medical Examiner, LA County Public Health, Southern California Edison",
     "Longitude": -118.09718,
     "Latitude": 34.1892,
     "Type": "Wildfire",
