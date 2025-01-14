@@ -298,5 +298,30 @@
     "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Auto Fire",
+    "Final": false,
+    "Updated": "2025-01-13T21:33:58Z",
+    "Started": "2025-01-13T21:25:00Z",
+    "AdminUnit": "Ventura County Fire Department",
+    "AdminUnitUrl": null,
+    "County": "Ventura",
+    "Location": "Near Auto Center Drive, Ventura",
+    "AcresBurned": 5.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.20224,
+    "Latitude": 34.23661,
+    "Type": "Wildfire",
+    "UniqueId": "11055429-59f4-49dc-b759-a0c0d1225efc",
+    "Url": "https://www.fire.ca.gov/incidents/2025/1/13/auto-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-01-13",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
