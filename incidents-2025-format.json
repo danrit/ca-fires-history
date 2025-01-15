@@ -52,7 +52,7 @@
   {
     "Name": "Palisades Fire",
     "Final": false,
-    "Updated": "2025-01-14T18:05:07Z",
+    "Updated": "2025-01-14T18:51:37Z",
     "Started": "2025-01-07T10:30:00Z",
     "AdminUnit": "Unified Command: CAL FIRE San Bernardino-Inyo-Mono Unit, Los Angeles County Fire Department, Los Angeles City Fire Department and Los Angeles Police Department",
     "AdminUnitUrl": null,
@@ -61,7 +61,7 @@
     "AcresBurned": 23713.0,
     "PercentContained": 18.0,
     "ControlStatement": null,
-    "AgencyNames": "",
+    "AgencyNames": "City of Los Angeles, Los Angeles Department of Water & Power, Los Angeles Department of Transportation, Los Angeles City Emergency Management Department, Los Angeles County Office of Emergency Managment, Los Angeles County Department of Animal Control, Los Angeles Community Brigade, Los Angeles County Department of Public Works, Los Angeles County Department of Public Health, City of Malibu, California State Parks, Los Virgenes Municipal Water District, Southern California Edison, Pepperdine University, California Highway Patrol, American Red Cross, National Park Service, Gabrieleno Band of Mission Indians-Kizh-Nation",
     "Longitude": -118.54453,
     "Latitude": 34.07022,
     "Type": "Wildfire",
