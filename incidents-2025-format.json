@@ -301,8 +301,8 @@
   },
   {
     "Name": "Auto Fire",
-    "Final": false,
-    "Updated": "2025-01-17T13:52:34Z",
+    "Final": true,
+    "Updated": "2025-01-18T00:09:04Z",
     "Started": "2025-01-13T21:25:00Z",
     "AdminUnit": "Ventura County Fire Department",
     "AdminUnitUrl": null,
@@ -320,7 +320,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-01-13",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
