@@ -373,5 +373,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Lilac Fire",
+    "Final": false,
+    "Updated": "2025-01-21T02:04:21Z",
+    "Started": "2025-01-21T01:19:23Z",
+    "AdminUnit": "CAL FIRE San Diego Unit",
+    "AdminUnitUrl": null,
+    "County": "San Diego",
+    "Location": "Near Old Highway 395 and Lilac road, Bonsall",
+    "AcresBurned": 30.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.15258,
+    "Latitude": 33.31184,
+    "Type": "Wildfire",
+    "UniqueId": "db6f387b-2654-44a6-815e-20491c5a37a2",
+    "Url": "https://www.fire.ca.gov/incidents/2025/1/21/lilac-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-01-21",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
