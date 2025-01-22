@@ -52,7 +52,7 @@
   {
     "Name": "Palisades Fire",
     "Final": false,
-    "Updated": "2025-01-22T08:51:41Z",
+    "Updated": "2025-01-22T14:34:42Z",
     "Started": "2025-01-07T10:30:00Z",
     "AdminUnit": "Unified Command: CAL FIRE San Bernardino-Inyo-Mono Unit, Los Angeles County Fire Department, Los Angeles City Fire Department and Los Angeles Police Department",
     "AdminUnitUrl": null,
@@ -527,11 +527,11 @@
   {
     "Name": "Hughes Fire",
     "Final": false,
-    "Updated": "2025-01-22T14:09:45Z",
+    "Updated": "2025-01-22T15:08:50Z",
     "Started": "2025-01-22T10:53:02Z",
     "AdminUnit": "Unified Command: Angeles National Forest and LA County Fire",
     "AdminUnitUrl": null,
-    "County": "Los Angeles",
+    "County": "Los Angeles, Ventura",
     "Location": "Lake Hughes Road near Castaic Lake, Castaic",
     "AcresBurned": 5054.0,
     "PercentContained": 0.0,
