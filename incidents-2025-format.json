@@ -52,7 +52,7 @@
   {
     "Name": "Palisades Fire",
     "Final": false,
-    "Updated": "2025-01-22T06:23:21Z",
+    "Updated": "2025-01-22T08:51:41Z",
     "Started": "2025-01-07T10:30:00Z",
     "AdminUnit": "Unified Command: CAL FIRE San Bernardino-Inyo-Mono Unit, Los Angeles County Fire Department, Los Angeles City Fire Department and Los Angeles Police Department",
     "AdminUnitUrl": null,
@@ -377,7 +377,7 @@
   {
     "Name": "Lilac Fire",
     "Final": false,
-    "Updated": "2025-01-22T07:17:34Z",
+    "Updated": "2025-01-22T08:32:12Z",
     "Started": "2025-01-21T01:19:23Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -477,13 +477,13 @@
   {
     "Name": "Clay Fire",
     "Final": false,
-    "Updated": "2025-01-21T23:09:18Z",
+    "Updated": "2025-01-22T08:32:16Z",
     "Started": "2025-01-21T17:00:13Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
     "County": "Riverside",
     "Location": "Santa Ana River Bottom near Pedley Road and Van Buren Boulevard, Jurupa Valley",
-    "AcresBurned": 38.5,
+    "AcresBurned": 39.0,
     "PercentContained": 40.0,
     "ControlStatement": null,
     "AgencyNames": "",
