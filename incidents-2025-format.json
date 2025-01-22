@@ -377,14 +377,14 @@
   {
     "Name": "Lilac Fire",
     "Final": false,
-    "Updated": "2025-01-21T15:57:18Z",
+    "Updated": "2025-01-21T17:35:06Z",
     "Started": "2025-01-21T01:19:23Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
     "County": "San Diego",
     "Location": "Old Hwy 395 and Lilac Road, Bonsall",
     "AcresBurned": 85.0,
-    "PercentContained": 35.0,
+    "PercentContained": 50.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -117.152114,
@@ -427,9 +427,9 @@
   {
     "Name": "Friars Fire",
     "Final": false,
-    "Updated": "2025-01-21T15:58:10Z",
+    "Updated": "2025-01-21T17:37:14Z",
     "Started": "2025-01-21T12:32:09Z",
-    "AdminUnit": "CAL FIRE San Diego Unit",
+    "AdminUnit": "City of San Diego Fire-Rescue",
     "AdminUnitUrl": null,
     "County": "San Diego",
     "Location": "Friars Road and Via De La Moda, San Diego",
@@ -446,7 +446,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-01-21",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
