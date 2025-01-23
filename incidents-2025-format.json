@@ -52,7 +52,7 @@
   {
     "Name": "Palisades Fire",
     "Final": false,
-    "Updated": "2025-01-22T17:47:10-08:00",
+    "Updated": "2025-01-22T18:32:58Z",
     "Started": "2025-01-07T10:30:00Z",
     "AdminUnit": "Unified Command: CAL FIRE San Bernardino-Inyo-Mono Unit, Los Angeles County Fire Department, Los Angeles City Fire Department and Los Angeles Police Department",
     "AdminUnitUrl": null,
@@ -77,7 +77,7 @@
   {
     "Name": "Eaton Fire",
     "Final": false,
-    "Updated": "2025-01-22T17:47:08-08:00",
+    "Updated": "2025-01-22T18:52:16Z",
     "Started": "2025-01-07T18:18:00Z",
     "AdminUnit": "Los Angeles County Fire Department, Pasadena Fire, and the United States Forest Services are in unified command ",
     "AdminUnitUrl": null,
@@ -477,14 +477,14 @@
   {
     "Name": "Clay Fire",
     "Final": false,
-    "Updated": "2025-01-22T10:06:06Z",
+    "Updated": "2025-01-22T19:06:22-08:00",
     "Started": "2025-01-21T17:00:13Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
     "County": "Riverside",
     "Location": "Santa Ana River Bottom near Pedley Road and Van Buren Boulevard, Jurupa Valley",
-    "AcresBurned": 38.0,
-    "PercentContained": 45.0,
+    "AcresBurned": 39.0,
+    "PercentContained": 65.0,
     "ControlStatement": null,
     "AgencyNames": "Riverside City Fire, City of Jurupa Valley, City of Eastvale",
     "Longitude": -117.47055,
@@ -527,7 +527,7 @@
   {
     "Name": "Hughes Fire",
     "Final": false,
-    "Updated": "2025-01-22T17:57:16-08:00",
+    "Updated": "2025-01-22T18:52:29Z",
     "Started": "2025-01-22T10:53:02Z",
     "AdminUnit": "Unified Command: Angeles National Forest , LA County Fire, and CAL FIRE",
     "AdminUnitUrl": null,
@@ -546,7 +546,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-01-22",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
