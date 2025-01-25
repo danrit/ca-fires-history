@@ -602,7 +602,7 @@
   {
     "Name": "Border 2 Fire",
     "Final": false,
-    "Updated": "2025-01-24T18:03:25-08:00",
+    "Updated": "2025-01-24T19:58:18Z",
     "Started": "2025-01-23T14:31:19Z",
     "AdminUnit": "Unified Command: CAL FIRE San Diego Unit & San Diego County Sheriff's Office",
     "AdminUnitUrl": null,
@@ -611,7 +611,7 @@
     "AcresBurned": 6273.0,
     "PercentContained": 10.0,
     "ControlStatement": null,
-    "AgencyNames": "",
+    "AgencyNames": "San Diego Sheriff's Office, Bureau of Land Management, San Diego County OES, Chula Vista Fire Department, Chula Vista Police Department, U.S. Customs and Border Protection, California Department of Corrections and Rehabilitation, California Highway Patrol, San Diego Fire Department, Red Cross, San Diego Gas and Electric, Cal OES, U.S. Fish and Wildlife Service, U.S. Geologic Survey, CalTrans",
     "Longitude": -116.8437,
     "Latitude": 32.5947,
     "Type": "Wildfire",
