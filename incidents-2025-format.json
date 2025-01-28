@@ -52,9 +52,9 @@
   {
     "Name": "Palisades Fire",
     "Final": false,
-    "Updated": "2025-01-27T17:22:33Z",
+    "Updated": "2025-01-28T08:45:52Z",
     "Started": "2025-01-07T10:30:00Z",
-    "AdminUnit": "Unified Command: CAL FIRE San Bernardino-Inyo-Mono Unit, Los Angeles County Fire Department, Los Angeles City Fire Department and Los Angeles Police Department",
+    "AdminUnit": "Los Angeles City Fire Department",
     "AdminUnitUrl": null,
     "County": "Los Angeles",
     "Location": "Southeast of Palisades Drive, Pacific Palisades",
@@ -77,7 +77,7 @@
   {
     "Name": "Eaton Fire",
     "Final": false,
-    "Updated": "2025-01-27T17:39:36-08:00",
+    "Updated": "2025-01-28T08:46:48Z",
     "Started": "2025-01-07T18:18:00Z",
     "AdminUnit": "Los Angeles County Fire Department",
     "AdminUnitUrl": null,
@@ -527,7 +527,7 @@
   {
     "Name": "Hughes Fire",
     "Final": false,
-    "Updated": "2025-01-27T15:31:46-08:00",
+    "Updated": "2025-01-28T08:51:03Z",
     "Started": "2025-01-22T10:53:02Z",
     "AdminUnit": "Unified Command: CAL FIRE, Angeles National Forest , LA County Fire, and Bureau of Land Management",
     "AdminUnitUrl": null,
@@ -602,7 +602,7 @@
   {
     "Name": "Border 2 Fire",
     "Final": false,
-    "Updated": "2025-01-28T05:46:08-08:00",
+    "Updated": "2025-01-28T08:47:11Z",
     "Started": "2025-01-23T13:58:00Z",
     "AdminUnit": "Unified Command: CAL FIRE San Diego Unit & San Diego County Sheriff's Office",
     "AdminUnitUrl": null,
