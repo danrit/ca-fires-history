@@ -677,14 +677,14 @@
   {
     "Name": "Rosa Fire",
     "Final": false,
-    "Updated": "2025-01-29T14:05:58Z",
+    "Updated": "2025-01-29T15:09:53Z",
     "Started": "2025-01-29T12:53:53Z",
     "AdminUnit": "CAL FIRE San Luis Obispo Unit",
     "AdminUnitUrl": null,
     "County": "San Luis Obispo",
     "Location": "Unknown / TBD",
-    "AcresBurned": 20.0,
-    "PercentContained": 10.0,
+    "AcresBurned": 85.0,
+    "PercentContained": 25.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -119.982524,
@@ -696,7 +696,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-01-29",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
