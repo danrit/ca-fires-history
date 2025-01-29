@@ -673,5 +673,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Rosa Fire",
+    "Final": false,
+    "Updated": "2025-01-29T14:05:58Z",
+    "Started": "2025-01-29T12:53:53Z",
+    "AdminUnit": "CAL FIRE San Luis Obispo Unit",
+    "AdminUnitUrl": null,
+    "County": "San Luis Obispo",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 20.0,
+    "PercentContained": 10.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.982524,
+    "Latitude": 35.303682,
+    "Type": "Wildfire",
+    "UniqueId": "460e65e4-366e-46d1-8729-7d1756fca41a",
+    "Url": "https://www.fire.ca.gov/incidents/2025/1/29/rosa-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-01-29",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
