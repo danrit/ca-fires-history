@@ -526,8 +526,8 @@
   },
   {
     "Name": "Hughes Fire",
-    "Final": false,
-    "Updated": "2025-01-30T16:51:19-08:00",
+    "Final": true,
+    "Updated": "2025-01-30T22:10:52Z",
     "Started": "2025-01-22T10:53:02Z",
     "AdminUnit": "Unified Command: CAL FIRE, Angeles National Forest , LA County Fire, and Bureau of Land Management",
     "AdminUnitUrl": null,
@@ -545,7 +545,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-01-22",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -601,8 +601,8 @@
   },
   {
     "Name": "Border 2 Fire",
-    "Final": false,
-    "Updated": "2025-01-30T08:21:50Z",
+    "Final": true,
+    "Updated": "2025-01-30T22:10:30Z",
     "Started": "2025-01-23T13:58:00Z",
     "AdminUnit": "Unified Command: CAL FIRE San Diego Unit & San Diego County Sheriff's Office",
     "AdminUnitUrl": null,
@@ -620,7 +620,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-01-23",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
