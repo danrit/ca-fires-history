@@ -76,8 +76,8 @@
   },
   {
     "Name": "Eaton Fire",
-    "Final": false,
-    "Updated": "2025-01-31T17:29:04Z",
+    "Final": true,
+    "Updated": "2025-02-01T21:02:02Z",
     "Started": "2025-01-07T18:18:00Z",
     "AdminUnit": "Los Angeles County Fire Department",
     "AdminUnitUrl": null,
@@ -95,7 +95,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-01-07",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
