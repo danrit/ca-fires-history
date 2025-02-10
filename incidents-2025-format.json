@@ -698,5 +698,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Cross Fire",
+    "Final": true,
+    "Updated": "2025-02-09T16:28:59Z",
+    "Started": "2025-02-09T13:47:06Z",
+    "AdminUnit": "CAL FIRE San Benito-Monterey Unit",
+    "AdminUnitUrl": null,
+    "County": "Monterey",
+    "Location": "Near Cross Road in Lockwood",
+    "AcresBurned": 16.1,
+    "PercentContained": 100.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.117684,
+    "Latitude": 35.945458,
+    "Type": "Wildfire",
+    "UniqueId": "6d86f896-f2e9-4189-b816-239b65f58d26",
+    "Url": "https://www.fire.ca.gov/incidents/2025/2/9/cross-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-02-09",
+    "IsActive": false,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
