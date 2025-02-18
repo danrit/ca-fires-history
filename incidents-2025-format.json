@@ -726,8 +726,8 @@
   },
   {
     "Name": "Eaton Flood",
-    "Final": false,
-    "Updated": "2025-02-13T14:16:49Z",
+    "Final": true,
+    "Updated": "2025-02-18T09:17:31Z",
     "Started": "2025-02-13T13:51:16Z",
     "AdminUnit": "Los Angeles County Fire Department",
     "AdminUnitUrl": null,
@@ -745,7 +745,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-02-13",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   }
