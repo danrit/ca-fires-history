@@ -748,5 +748,30 @@
     "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Penny Fire",
+    "Final": false,
+    "Updated": "2025-02-26T14:50:39Z",
+    "Started": "2025-02-26T14:32:43Z",
+    "AdminUnit": "Cleveland National Forest",
+    "AdminUnitUrl": null,
+    "County": "San Diego",
+    "Location": "Sunrise Highway, North of Penny Pines Trailhead",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.475667,
+    "Latitude": 32.922111,
+    "Type": "Wildfire",
+    "UniqueId": "06a7c71b-03ff-4c7b-aff8-1d8bcf3c9def",
+    "Url": "https://www.fire.ca.gov/incidents/2025/2/26/penny-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-02-26",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
