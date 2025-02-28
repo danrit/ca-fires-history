@@ -751,8 +751,8 @@
   },
   {
     "Name": "Penny Fire",
-    "Final": false,
-    "Updated": "2025-02-27T09:10:30Z",
+    "Final": true,
+    "Updated": "2025-02-27T17:04:03Z",
     "Started": "2025-02-26T14:32:43Z",
     "AdminUnit": "Cleveland National Forest",
     "AdminUnitUrl": null,
@@ -767,10 +767,10 @@
     "Type": "Wildfire",
     "UniqueId": "06a7c71b-03ff-4c7b-aff8-1d8bcf3c9def",
     "Url": "https://www.fire.ca.gov/incidents/2025/2/26/penny-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2025-02-27T17:03:46Z",
+    "ExtinguishedDateOnly": "2025-02-27",
     "StartedDateOnly": "2025-02-26",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   }
