@@ -773,5 +773,30 @@
     "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Scout Fire",
+    "Final": false,
+    "Updated": "2025-02-28T16:05:05-08:00",
+    "Started": "2025-02-28T15:43:27Z",
+    "AdminUnit": "CAL FIRE San Diego Unit",
+    "AdminUnitUrl": null,
+    "County": "San Diego",
+    "Location": "West of Highway 79 & San Felipe Road, Warner Springs",
+    "AcresBurned": 39.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.688664,
+    "Latitude": 33.250188,
+    "Type": "Fire",
+    "UniqueId": "c59146ec-ab73-416a-b66f-e4b568f5208a",
+    "Url": "https://www.fire.ca.gov/incidents/2025/2/28/scout-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-02-28",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
