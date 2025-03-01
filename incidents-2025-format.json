@@ -777,7 +777,7 @@
   {
     "Name": "Scout Fire",
     "Final": false,
-    "Updated": "2025-02-28T16:05:05-08:00",
+    "Updated": "2025-02-28T17:13:27Z",
     "Started": "2025-02-28T15:43:27Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -786,7 +786,7 @@
     "AcresBurned": 39.0,
     "PercentContained": null,
     "ControlStatement": null,
-    "AgencyNames": "",
+    "AgencyNames": "Cleveland National Forest, ",
     "Longitude": -116.688664,
     "Latitude": 33.250188,
     "Type": "Fire",
