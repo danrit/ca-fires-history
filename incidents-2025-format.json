@@ -798,5 +798,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Ranch Fire",
+    "Final": false,
+    "Updated": "2025-03-08T17:25:20-08:00",
+    "Started": "2025-03-08T11:39:00Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 60.0,
+    "PercentContained": 30.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.351944,
+    "Latitude": 34.643056,
+    "Type": "Wildfire",
+    "UniqueId": "55e18040-1f91-4e09-9c4a-d46c149c917f",
+    "Url": "https://www.fire.ca.gov/incidents/2025/3/8/ranch-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-03-08",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
