@@ -802,7 +802,7 @@
   {
     "Name": "Ranch Fire",
     "Final": true,
-    "Updated": "2025-03-09T17:55:30Z",
+    "Updated": "2025-03-10T17:07:32Z",
     "Started": "2025-03-08T11:39:00Z",
     "AdminUnit": null,
     "AdminUnitUrl": null,
@@ -820,7 +820,7 @@
     "ExtinguishedDate": "2025-03-09T17:54:58Z",
     "ExtinguishedDateOnly": "2025-03-09",
     "StartedDateOnly": "2025-03-08",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   }
