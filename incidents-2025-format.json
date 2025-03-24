@@ -873,5 +873,30 @@
     "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Buchanan Fire",
+    "Final": false,
+    "Updated": "2025-03-24T13:04:04Z",
+    "Started": "2025-03-24T11:24:11Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Southwest of Buchanan Street and Avenue 72",
+    "AcresBurned": 25.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.100296,
+    "Latitude": 33.525303,
+    "Type": "Wildfire",
+    "UniqueId": "e9a1b964-9bff-443e-aa89-f8f933c66bd6",
+    "Url": "https://www.fire.ca.gov/incidents/2025/3/24/buchanan-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-03-24",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
