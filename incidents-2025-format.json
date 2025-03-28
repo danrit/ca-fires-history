@@ -876,15 +876,15 @@
   },
   {
     "Name": "Buchanan Fire",
-    "Final": false,
-    "Updated": "2025-03-27T08:01:47Z",
+    "Final": true,
+    "Updated": "2025-03-27T19:56:46Z",
     "Started": "2025-03-24T11:24:11Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
     "County": "Riverside",
     "Location": "Highway 86 and 72nd Avenue, Thermal",
     "AcresBurned": 25.0,
-    "PercentContained": 85.0,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "Soboba Fire Department; Bureau of Land Management",
     "Longitude": -116.100296,
@@ -895,7 +895,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-03-24",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
