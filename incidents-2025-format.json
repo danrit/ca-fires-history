@@ -898,5 +898,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Silver Fire",
+    "Final": false,
+    "Updated": "2025-03-30T16:10:27Z",
+    "Started": "2025-03-30T14:11:35Z",
+    "AdminUnit": "CAL FIRE San Bernardino Unit",
+    "AdminUnitUrl": null,
+    "County": "Inyo",
+    "Location": "Highway 6 near Silver Canyon Road, North of Bishop",
+    "AcresBurned": 40.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.352523,
+    "Latitude": 37.399684,
+    "Type": "Wildfire",
+    "UniqueId": "014151c4-c77d-4fe5-9ffc-d90909ed8f4b",
+    "Url": "https://www.fire.ca.gov/incidents/2025/3/30/silver-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-03-30",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
