@@ -902,7 +902,7 @@
   {
     "Name": "Silver Fire",
     "Final": false,
-    "Updated": "2025-03-30T21:45:20Z",
+    "Updated": "2025-03-30T22:25:24Z",
     "Started": "2025-03-30T14:11:35Z",
     "AdminUnit": "CAL FIRE San Bernardino Unit",
     "AdminUnitUrl": null,
@@ -910,7 +910,7 @@
     "Location": "Highway 6 near Silver Canyon Road, North of Bishop",
     "AcresBurned": 1000.0,
     "PercentContained": null,
-    "ControlStatement": null,
+    "ControlStatement": "",
     "AgencyNames": "",
     "Longitude": -118.352523,
     "Latitude": 37.399684,
