@@ -948,5 +948,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "68 Fire",
+    "Final": false,
+    "Updated": "2025-04-02T13:06:53Z",
+    "Started": "2025-04-02T11:03:17Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 25.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.07895,
+    "Latitude": 33.554725,
+    "Type": "Wildfire",
+    "UniqueId": "d4fd55a5-d2bc-4b99-bc11-7284ece809a9",
+    "Url": "https://www.fire.ca.gov/incidents/2025/4/2/68-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-04-02",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
