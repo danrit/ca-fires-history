@@ -927,7 +927,7 @@
   {
     "Name": "Wild Fire",
     "Final": true,
-    "Updated": "2025-04-02T11:14:14Z",
+    "Updated": "2025-04-02T21:59:13Z",
     "Started": "2025-04-01T14:30:32Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
@@ -945,7 +945,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-04-01",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
