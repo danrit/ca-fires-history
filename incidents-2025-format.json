@@ -998,5 +998,30 @@
     "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Wildrose Fire",
+    "Final": false,
+    "Updated": "2025-04-08T13:32:43Z",
+    "Started": "2025-04-08T13:27:58Z",
+    "AdminUnit": "Bureau of Land Management",
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Near Sorrel Trail, North of Victorville",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.1823536,
+    "Latitude": 34.7001802,
+    "Type": "Wildfire",
+    "UniqueId": "56ea5974-d922-41cf-9cf6-ef7372a32b44",
+    "Url": "https://www.fire.ca.gov/incidents/2025/4/8/wildrose-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-04-08",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
