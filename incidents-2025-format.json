@@ -1027,14 +1027,14 @@
   {
     "Name": "Lake Fire",
     "Final": false,
-    "Updated": "2025-04-14T00:27:59-07:00",
+    "Updated": "2025-04-14T08:43:32Z",
     "Started": "2025-04-13T18:16:31Z",
     "AdminUnit": "CAL FIRE Humboldt-Del Norte Unit",
     "AdminUnitUrl": null,
     "County": "Del Norte",
-    "Location": "Unknown / TBD",
+    "Location": "Kellog Road and Lower Lake Road, Fort Dick",
     "AcresBurned": 10.0,
-    "PercentContained": null,
+    "PercentContained": 95.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -124.185699,
@@ -1046,7 +1046,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-04-13",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
