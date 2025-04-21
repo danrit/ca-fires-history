@@ -1148,5 +1148,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Panoche Fire",
+    "Final": true,
+    "Updated": "2025-04-20T21:51:36Z",
+    "Started": "2025-04-20T16:01:43Z",
+    "AdminUnit": "CAL FIRE San Benito-Monterey Unit",
+    "AdminUnitUrl": null,
+    "County": "San Benito",
+    "Location": "North of Panoche Road and Little Panoche Road, Panoche",
+    "AcresBurned": 29.3,
+    "PercentContained": 100.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.876101,
+    "Latitude": 36.656093,
+    "Type": "Wildfire",
+    "UniqueId": "00e82f13-a668-4fac-96e5-87db742562f4",
+    "Url": "https://www.fire.ca.gov/incidents/2025/4/20/panoche-fire/",
+    "ExtinguishedDate": "2025-04-20T21:51:21Z",
+    "ExtinguishedDateOnly": "2025-04-20",
+    "StartedDateOnly": "2025-04-20",
+    "IsActive": false,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
