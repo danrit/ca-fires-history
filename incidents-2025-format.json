@@ -1176,8 +1176,8 @@
   },
   {
     "Name": "Sandy Fire",
-    "Final": false,
-    "Updated": "2025-04-23T20:50:36Z",
+    "Final": true,
+    "Updated": "2025-04-23T22:02:54Z",
     "Started": "2025-04-23T19:12:53Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
@@ -1192,10 +1192,10 @@
     "Type": "Wildfire",
     "UniqueId": "d01f8246-e27f-421e-b342-58d949af2209",
     "Url": "https://www.fire.ca.gov/incidents/2025/4/23/sandy-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2025-04-23T22:02:11Z",
+    "ExtinguishedDateOnly": "2025-04-23",
     "StartedDateOnly": "2025-04-23",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
