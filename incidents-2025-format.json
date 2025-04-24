@@ -1177,14 +1177,14 @@
   {
     "Name": "Sandy Fire",
     "Final": false,
-    "Updated": "2025-04-23T20:23:35-07:00",
+    "Updated": "2025-04-23T20:50:36Z",
     "Started": "2025-04-23T19:12:53Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
     "County": "Merced",
-    "Location": "Unknown / TBD",
+    "Location": "Hwy 59/Sandy Mush Road, Merced",
     "AcresBurned": 21.0,
-    "PercentContained": null,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -120.513485,
@@ -1196,7 +1196,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-04-23",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
