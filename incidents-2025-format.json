@@ -1223,5 +1223,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Church Fire",
+    "Final": false,
+    "Updated": "2025-04-24T23:01:06-07:00",
+    "Started": "2025-04-24T22:12:58Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.142626,
+    "Latitude": 33.638422,
+    "Type": "Wildfire",
+    "UniqueId": "f2a9ea76-12dd-4bda-847e-44c747f70e08",
+    "Url": "https://www.fire.ca.gov/incidents/2025/4/24/church-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-04-24",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
