@@ -1227,12 +1227,12 @@
   {
     "Name": "Church Fire",
     "Final": false,
-    "Updated": "2025-04-25T03:39:18Z",
+    "Updated": "2025-04-25T07:10:00Z",
     "Started": "2025-04-24T22:12:58Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
     "County": "Riverside",
-    "Location": "Unknown / TBD",
+    "Location": "Church and Olive Street, Thermal",
     "AcresBurned": 50.0,
     "PercentContained": 40.0,
     "ControlStatement": null,
@@ -1246,7 +1246,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-04-24",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
