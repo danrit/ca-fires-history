@@ -1248,5 +1248,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Hwy 33 / Hwy 41 Fire",
+    "Final": false,
+    "Updated": "2025-04-25T20:42:31-07:00",
+    "Started": "2025-04-25T20:12:14Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Kings",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 100.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.046328,
+    "Latitude": 35.888879,
+    "Type": "Wildfire",
+    "UniqueId": "bdc85ac3-5b32-41f9-9731-2ed55ae7fb8f",
+    "Url": "https://www.fire.ca.gov/incidents/2025/4/25/hwy-33-hwy-41-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-04-25",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
