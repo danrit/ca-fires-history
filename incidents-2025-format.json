@@ -1273,5 +1273,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "County Fire",
+    "Final": false,
+    "Updated": "2025-04-28T20:09:31Z",
+    "Started": "2025-04-28T15:19:26Z",
+    "AdminUnit": "CAL FIRE Siskiyou Unit",
+    "AdminUnitUrl": null,
+    "County": "Siskiyou",
+    "Location": "Off County Road 101 and County Road 101B, North of Newell",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.3501,
+    "Latitude": 41.92216,
+    "Type": "Wildfire",
+    "UniqueId": "e6656c72-2905-43bb-b838-74c36adcd257",
+    "Url": "https://www.fire.ca.gov/incidents/2025/4/28/county-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-04-28",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
