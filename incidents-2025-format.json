@@ -1298,5 +1298,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Felipe Fire",
+    "Final": false,
+    "Updated": "2025-05-01T14:32:55Z",
+    "Started": "2025-05-01T14:28:21Z",
+    "AdminUnit": "CAL FIRE San Diego Unit",
+    "AdminUnitUrl": null,
+    "County": "San Diego",
+    "Location": "Highway 78, East of San Felipe Road",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.470729,
+    "Latitude": 33.098585,
+    "Type": "Wildfire",
+    "UniqueId": "3edb01e6-4e6b-4560-8309-857931f2d0d4",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/1/felipe-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-01",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
