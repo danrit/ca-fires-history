@@ -1327,9 +1327,9 @@
   {
     "Name": "Eastman Fire",
     "Final": false,
-    "Updated": "2025-05-02T15:01:31Z",
+    "Updated": "2025-05-02T15:15:11Z",
     "Started": "2025-05-02T14:55:14Z",
-    "AdminUnit": null,
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
     "County": "Madera",
     "Location": "Chowchilla Recreation Area near Eastman Lake, Madera",
