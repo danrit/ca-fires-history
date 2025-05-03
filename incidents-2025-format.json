@@ -1301,8 +1301,8 @@
   },
   {
     "Name": "Felipe Fire",
-    "Final": false,
-    "Updated": "2025-05-02T14:55:07Z",
+    "Final": true,
+    "Updated": "2025-05-03T00:44:29Z",
     "Started": "2025-05-01T13:37:00Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -1317,10 +1317,10 @@
     "Type": "Wildfire",
     "UniqueId": "3edb01e6-4e6b-4560-8309-857931f2d0d4",
     "Url": "https://www.fire.ca.gov/incidents/2025/5/1/felipe-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2025-05-02T00:42:30Z",
+    "ExtinguishedDateOnly": "2025-05-02",
     "StartedDateOnly": "2025-05-01",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
