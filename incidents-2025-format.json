@@ -1323,30 +1323,5 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
-  },
-  {
-    "Name": "Eastman Fire",
-    "Final": false,
-    "Updated": "2025-05-02T15:15:11Z",
-    "Started": "2025-05-02T14:55:14Z",
-    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
-    "AdminUnitUrl": null,
-    "County": "Madera",
-    "Location": "Chowchilla Recreation Area near Eastman Lake, Madera",
-    "AcresBurned": 20.0,
-    "PercentContained": null,
-    "ControlStatement": null,
-    "AgencyNames": "",
-    "Longitude": -119.9868107,
-    "Latitude": 37.2304128,
-    "Type": "Wildfire",
-    "UniqueId": "eb2e3d29-afa3-4e95-8393-7a2580e337ad",
-    "Url": "https://www.fire.ca.gov/incidents/2025/5/2/eastman-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
-    "StartedDateOnly": "2025-05-02",
-    "IsActive": true,
-    "CalFireIncident": false,
-    "NotificationDesired": false
   }
 ]
