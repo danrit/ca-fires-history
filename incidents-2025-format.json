@@ -1348,5 +1348,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Pioneer Fire",
+    "Final": false,
+    "Updated": "2025-05-04T20:02:41Z",
+    "Started": "2025-05-04T17:41:51Z",
+    "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
+    "AdminUnitUrl": null,
+    "County": "Tehama",
+    "Location": "Pioneer Ct, Dibble Creek",
+    "AcresBurned": 68.0,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -122.4158944,
+    "Latitude": 40.2367915,
+    "Type": "Wildfire",
+    "UniqueId": "5227a3b1-2574-449d-a60d-2c3f3a791c19",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/4/pioneer-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-04",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
