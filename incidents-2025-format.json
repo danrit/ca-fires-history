@@ -1398,5 +1398,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Putah Fire",
+    "Final": false,
+    "Updated": "2025-05-05T13:52:00Z",
+    "Started": "2025-05-05T12:53:46Z",
+    "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
+    "AdminUnitUrl": null,
+    "County": "Solano",
+    "Location": " Putah Creek Road/Olive School Lane, Winters",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "Vacaville Fire Protection District, Winters Fire Department",
+    "Longitude": -122.004577,
+    "Latitude": 38.492882,
+    "Type": "Wildfire",
+    "UniqueId": "29ba0d62-b0a1-456b-b45a-3a903e11533d",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/5/putah-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-05",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
