@@ -1452,13 +1452,13 @@
   {
     "Name": "Springs Fire",
     "Final": false,
-    "Updated": "2025-05-06T14:58:35-07:00",
+    "Updated": "2025-05-06T15:53:42Z",
     "Started": "2025-05-06T14:10:31Z",
     "AdminUnit": "CAL FIRE Tulare Unit",
     "AdminUnitUrl": null,
     "County": "Tulare",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 150.0,
+    "Location": "Avenue 56 / Road 272",
+    "AcresBurned": 700.0,
     "PercentContained": 0.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -1471,7 +1471,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-06",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
