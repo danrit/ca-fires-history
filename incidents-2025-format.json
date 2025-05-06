@@ -1448,5 +1448,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Springs Fire",
+    "Final": false,
+    "Updated": "2025-05-06T14:58:35-07:00",
+    "Started": "2025-05-06T14:10:31Z",
+    "AdminUnit": "CAL FIRE Tulare Unit",
+    "AdminUnitUrl": null,
+    "County": "Tulare",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 150.0,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.964399,
+    "Latitude": 35.891599,
+    "Type": "Wildfire",
+    "UniqueId": "a7823000-b882-4363-8cae-d92340e14a8b",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/6/springs-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-06",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
