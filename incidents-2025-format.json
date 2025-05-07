@@ -1473,30 +1473,5 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
-  },
-  {
-    "Name": "Paradise Fire",
-    "Final": false,
-    "Updated": "2025-05-06T19:07:33-07:00",
-    "Started": "2025-05-06T12:13:41Z",
-    "AdminUnit": null,
-    "AdminUnitUrl": null,
-    "County": "Imperial",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 26.0,
-    "PercentContained": null,
-    "ControlStatement": null,
-    "AgencyNames": "",
-    "Longitude": -114.640097,
-    "Latitude": 32.729466,
-    "Type": "Wildfire",
-    "UniqueId": "a14e5f65-00f5-4e65-a25b-a5f0cb523002",
-    "Url": "https://www.fire.ca.gov/incidents/2025/5/6/paradise-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
-    "StartedDateOnly": "2025-05-06",
-    "IsActive": true,
-    "CalFireIncident": false,
-    "NotificationDesired": false
   }
 ]
