@@ -1498,5 +1498,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Anchor Fire",
+    "Final": false,
+    "Updated": "2025-05-09T10:47:27Z",
+    "Started": "2025-05-09T09:59:17Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "South Anchor Avenue, West of South Hills Valley Road, near Orange Cove",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.30285,
+    "Latitude": 36.704866,
+    "Type": "Wildfire",
+    "UniqueId": "6f61252e-c7f6-4c2b-b445-ffb1a666515d",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/9/anchor-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-09",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
