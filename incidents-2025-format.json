@@ -1473,5 +1473,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Scarlet Fire",
+    "Final": false,
+    "Updated": "2025-05-08T17:17:26Z",
+    "Started": "2025-05-08T16:40:54Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Derrick Avenue and Manning Avenue, Levis",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.3885,
+    "Latitude": 36.6034,
+    "Type": "Wildfire",
+    "UniqueId": "3a26f52a-e198-480a-98bb-6a6f1caf3fc5",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/8/scarlet-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-08",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
