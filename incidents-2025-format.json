@@ -1848,5 +1848,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Globe Fire",
+    "Final": false,
+    "Updated": "2025-05-15T11:59:14Z",
+    "Started": "2025-05-15T11:35:02Z",
+    "AdminUnit": "Santa Barbara County Fire Department",
+    "AdminUnitUrl": null,
+    "County": "Santa Barbara",
+    "Location": "Off Globe Road near Vandenberg Space Force Base, Santa Barbara",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.593673,
+    "Latitude": 34.886238,
+    "Type": "Wildfire",
+    "UniqueId": "0ae5bd29-1d0f-4a1e-b1cc-400386f7d1b8",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/15/globe-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-15",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
