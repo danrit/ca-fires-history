@@ -1948,5 +1948,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Washoe Fire",
+    "Final": false,
+    "Updated": "2025-05-16T14:01:10-07:00",
+    "Started": "2025-05-16T12:36:53Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 25.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.460299,
+    "Latitude": 36.652363,
+    "Type": "Wildfire",
+    "UniqueId": "d70f377b-58e9-419a-bf5b-00117e270fac",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/16/washoe-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-16",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
