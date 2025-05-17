@@ -2052,14 +2052,14 @@
   {
     "Name": "Kahlon Fire",
     "Final": false,
-    "Updated": "2025-05-17T09:07:21-07:00",
+    "Updated": "2025-05-17T10:28:48Z",
     "Started": "2025-05-17T07:49:33Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
     "County": "Merced",
-    "Location": "Unknown / TBD",
+    "Location": "East Sandy Mush Rd and South Vista Avenue Le Grand",
     "AcresBurned": 15.0,
-    "PercentContained": null,
+    "PercentContained": 50.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -120.333898,
@@ -2071,7 +2071,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-17",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
