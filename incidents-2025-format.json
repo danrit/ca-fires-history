@@ -1998,5 +1998,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Gold Fire",
+    "Final": false,
+    "Updated": "2025-05-16T17:28:36Z",
+    "Started": "2025-05-16T14:52:23Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "44000 block of Gold Creek Lane, Aguanga",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.810306,
+    "Latitude": 33.474709,
+    "Type": "Wildfire",
+    "UniqueId": "54e5ab11-7918-421e-8ef7-54bb70edb48b",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/16/gold-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-16",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
