@@ -2098,5 +2098,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Adams Fire",
+    "Final": false,
+    "Updated": "2025-05-18T01:48:03-07:00",
+    "Started": "2025-05-17T23:42:45Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 30.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.317698,
+    "Latitude": 36.631825,
+    "Type": "Wildfire",
+    "UniqueId": "a6ce84c1-8ced-46b6-a5a1-501b7890dff6",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/17/adams-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-17",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
