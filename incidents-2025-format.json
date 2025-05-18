@@ -2127,7 +2127,7 @@
   {
     "Name": "Grange Fire",
     "Final": false,
-    "Updated": "2025-05-18T10:56:21-07:00",
+    "Updated": "2025-05-18T11:19:39Z",
     "Started": "2025-05-18T08:58:06Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -2137,8 +2137,8 @@
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -120.462378,
-    "Latitude": 37.663647,
+    "Longitude": -120.4395747,
+    "Latitude": 37.6693899,
     "Type": "Wildfire",
     "UniqueId": "70033b2a-f28f-4545-b1a4-fd29950a3c9d",
     "Url": "https://www.fire.ca.gov/incidents/2025/5/18/grange-fire/",
@@ -2146,7 +2146,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-18",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
