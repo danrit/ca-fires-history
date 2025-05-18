@@ -2073,5 +2073,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Jacobs Fire",
+    "Final": false,
+    "Updated": "2025-05-17T22:19:14-07:00",
+    "Started": "2025-05-17T21:06:13Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.313661,
+    "Latitude": 36.639031,
+    "Type": "Wildfire",
+    "UniqueId": "35d0844e-0ceb-420f-b267-ab22d3afb4df",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/17/jacobs-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-17",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
