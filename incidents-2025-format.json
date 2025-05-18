@@ -2148,5 +2148,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Sunset Fire",
+    "Final": false,
+    "Updated": "2025-05-18T14:04:37-07:00",
+    "Started": "2025-05-18T13:43:22Z",
+    "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
+    "AdminUnitUrl": null,
+    "County": "Placer",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.349272,
+    "Latitude": 38.824583,
+    "Type": "Wildfire",
+    "UniqueId": "481e4ea4-bbed-4ac9-8d4d-a09787de9d08",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/18/sunset-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-18",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
