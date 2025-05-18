@@ -2127,13 +2127,13 @@
   {
     "Name": "Grange Fire",
     "Final": false,
-    "Updated": "2025-05-18T11:19:39Z",
+    "Updated": "2025-05-18T12:13:25Z",
     "Started": "2025-05-18T08:58:06Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
     "County": "Stanislaus",
     "Location": "Highway 132 and Old La Grange Rd. , La Grange",
-    "AcresBurned": 20.0,
+    "AcresBurned": 30.0,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -2145,7 +2145,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-18",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
