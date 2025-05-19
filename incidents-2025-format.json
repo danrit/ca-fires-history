@@ -2027,7 +2027,7 @@
   {
     "Name": "Idria Fire",
     "Final": false,
-    "Updated": "2025-05-19T09:22:00Z",
+    "Updated": "2025-05-19T12:20:58Z",
     "Started": "2025-05-17T13:03:19Z",
     "AdminUnit": "CAL FIRE San Benito-Monterey Unit",
     "AdminUnitUrl": null,
@@ -2152,7 +2152,7 @@
   {
     "Name": "Sunset Fire",
     "Final": false,
-    "Updated": "2025-05-18T16:57:40Z",
+    "Updated": "2025-05-19T12:21:01Z",
     "Started": "2025-05-18T13:43:22Z",
     "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
     "AdminUnitUrl": null,
@@ -2177,7 +2177,7 @@
   {
     "Name": "Corn Fire",
     "Final": false,
-    "Updated": "2025-05-19T05:39:26Z",
+    "Updated": "2025-05-19T12:18:55Z",
     "Started": "2025-05-18T13:47:18Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
@@ -2196,13 +2196,13 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-18",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   },
   {
     "Name": "Panoche Fire",
     "Final": false,
-    "Updated": "2025-05-19T09:06:21Z",
+    "Updated": "2025-05-19T12:21:03Z",
     "Started": "2025-05-18T14:48:51Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
@@ -2277,7 +2277,7 @@
   {
     "Name": "Gunsmoke Fire",
     "Final": false,
-    "Updated": "2025-05-19T09:09:53Z",
+    "Updated": "2025-05-19T12:21:05Z",
     "Started": "2025-05-18T17:26:19Z",
     "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
     "AdminUnitUrl": null,
@@ -2296,7 +2296,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-18",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
