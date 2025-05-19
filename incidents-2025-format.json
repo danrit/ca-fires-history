@@ -2277,18 +2277,18 @@
   {
     "Name": "Gunsmoke Fire",
     "Final": false,
-    "Updated": "2025-05-18T21:16:52Z",
+    "Updated": "2025-05-19T06:47:11Z",
     "Started": "2025-05-18T17:26:19Z",
     "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
     "AdminUnitUrl": null,
     "County": "Tehama",
     "Location": "Pettyjohn Road near Pope Drive, Red Bluff",
     "AcresBurned": 11.0,
-    "PercentContained": 20.0,
+    "PercentContained": 80.0,
     "ControlStatement": "Forward rate of spread has been stopped. Crews continue to strengthen and improve containment lines.",
     "AgencyNames": "",
-    "Longitude": -122.575978,
-    "Latitude": 40.178842,
+    "Longitude": -122.5868,
+    "Latitude": 40.1624,
     "Type": "Wildfire",
     "UniqueId": "e291bb03-c0ad-411c-b616-4327c9032095",
     "Url": "https://www.fire.ca.gov/incidents/2025/5/18/gunsmoke-fire/",
@@ -2296,7 +2296,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-18",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
