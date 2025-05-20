@@ -2323,5 +2323,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Spring Fire",
+    "Final": false,
+    "Updated": "2025-05-20T00:02:44Z",
+    "Started": "2025-05-19T20:59:07Z",
+    "AdminUnit": "CAL FIRE Siskiyou Unit",
+    "AdminUnitUrl": null,
+    "County": "Siskiyou",
+    "Location": "Spring Hill Mount Shasta City ",
+    "AcresBurned": 10.0,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "Mount Shasta PD, Siskiyou County Sheriff's Office, Gazelle Fire Department, Montague Fire Department, Dunsmuir/Castella Fire Department, Grenada Fire Department, Shasta Trinity National Forest.",
+    "Longitude": -122.32687,
+    "Latitude": 41.33512,
+    "Type": "Wildfire",
+    "UniqueId": "7660065b-dc72-49fa-a5d4-c25f29f5f12d",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/19/spring-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-19",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
