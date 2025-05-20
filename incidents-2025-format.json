@@ -2373,5 +2373,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Cunningham Fire",
+    "Final": false,
+    "Updated": "2025-05-20T13:01:24Z",
+    "Started": "2025-05-20T11:34:05Z",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnitUrl": null,
+    "County": "Merced",
+    "Location": "North Cunningham Road and Bear Creek",
+    "AcresBurned": 125.0,
+    "PercentContained": 100.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.25151,
+    "Latitude": 37.344921,
+    "Type": "Wildfire",
+    "UniqueId": "741b7993-0acd-4942-8bd2-7e6984bc48f6",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/20/cunningham-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-20",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
