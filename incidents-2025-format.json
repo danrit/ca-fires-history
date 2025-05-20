@@ -2327,7 +2327,7 @@
   {
     "Name": "Spring Fire",
     "Final": false,
-    "Updated": "2025-05-20T06:48:58-07:00",
+    "Updated": "2025-05-20T08:00:50Z",
     "Started": "2025-05-19T20:59:07Z",
     "AdminUnit": "CAL FIRE Siskiyou Unit",
     "AdminUnitUrl": null,
@@ -2346,7 +2346,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-19",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
