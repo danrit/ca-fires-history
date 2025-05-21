@@ -2327,9 +2327,9 @@
   {
     "Name": "Spring Fire",
     "Final": false,
-    "Updated": "2025-05-21T06:52:30-07:00",
+    "Updated": "2025-05-21T07:52:38Z",
     "Started": "2025-05-19T20:59:07Z",
-    "AdminUnit": "CAL FIRE Siskiyou Unit and Mt. Shasta Fire",
+    "AdminUnit": "CAL FIRE Siskiyou Unit and Mt. Shasta City Fire Department\r\n",
     "AdminUnitUrl": null,
     "County": "Siskiyou",
     "Location": "Spring Hill Mount Shasta City ",
@@ -2402,7 +2402,7 @@
   {
     "Name": "Crossing Fire",
     "Final": false,
-    "Updated": "2025-05-21T06:51:44-07:00",
+    "Updated": "2025-05-21T07:52:50Z",
     "Started": "2025-05-20T14:07:56Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
