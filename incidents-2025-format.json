@@ -2548,5 +2548,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Dan Fire",
+    "Final": false,
+    "Updated": "2025-05-22T14:54:39-07:00",
+    "Started": "2025-05-22T13:48:09Z",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnitUrl": null,
+    "County": "Merced",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 100.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.670161,
+    "Latitude": 37.244432,
+    "Type": "Wildfire",
+    "UniqueId": "3862596b-1d06-4879-98a5-764e88524db6",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/22/dan-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-22",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
