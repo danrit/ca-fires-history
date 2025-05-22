@@ -2402,7 +2402,7 @@
   {
     "Name": "Crossing Fire",
     "Final": false,
-    "Updated": "2025-05-21T18:51:43-07:00",
+    "Updated": "2025-05-21T20:20:52Z",
     "Started": "2025-05-20T14:07:56Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -2502,7 +2502,7 @@
   {
     "Name": "Sierra Fire",
     "Final": false,
-    "Updated": "2025-05-21T19:34:18Z",
+    "Updated": "2025-05-21T19:47:09Z",
     "Started": "2025-05-21T18:16:40Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -2511,7 +2511,7 @@
     "AcresBurned": 20.0,
     "PercentContained": null,
     "ControlStatement": null,
-    "AgencyNames": "",
+    "AgencyNames": "Corona City Fire",
     "Longitude": -117.461546,
     "Latitude": 33.847742,
     "Type": "Wildfire",
