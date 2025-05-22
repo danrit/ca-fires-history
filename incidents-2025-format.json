@@ -2523,5 +2523,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Creston Fire",
+    "Final": false,
+    "Updated": "2025-05-22T14:04:45Z",
+    "Started": "2025-05-22T12:30:55Z",
+    "AdminUnit": "CAL FIRE San Luis Obispo Unit",
+    "AdminUnitUrl": null,
+    "County": "San Luis Obispo",
+    "Location": "Cripple Creek Road & Feenstra Road, Paso Robles",
+    "AcresBurned": 11.0,
+    "PercentContained": 100.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.560704,
+    "Latitude": 35.564837,
+    "Type": "Wildfire",
+    "UniqueId": "6dcb6454-eea6-4f54-99c9-a8048d57f06d",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/22/creston-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-22",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
