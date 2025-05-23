@@ -2577,7 +2577,7 @@
   {
     "Name": "Midway Fire",
     "Final": false,
-    "Updated": "2025-05-23T14:25:16Z",
+    "Updated": "2025-05-23T16:05:31Z",
     "Started": "2025-05-22T14:51:00Z",
     "AdminUnit": "Unified Command: CAL FIRE Santa Clara Unit and Alameda County Fire Department",
     "AdminUnitUrl": null,
@@ -2602,13 +2602,13 @@
   {
     "Name": "Inn Fire",
     "Final": false,
-    "Updated": "2025-05-23T11:08:25Z",
+    "Updated": "2025-05-23T15:24:27-07:00",
     "Started": "2025-05-22T15:35:00Z",
     "AdminUnit": "Inyo National Forest Service and CAL FIRE San-Bernardino Unit",
     "AdminUnitUrl": null,
     "County": "Mono",
     "Location": "Off Highway 395 and Mono Inn Road, South of Mono City",
-    "AcresBurned": 540.0,
+    "AcresBurned": 707.0,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -2627,7 +2627,7 @@
   {
     "Name": "Orange Fire",
     "Final": false,
-    "Updated": "2025-05-23T11:04:09Z",
+    "Updated": "2025-05-23T16:05:32Z",
     "Started": "2025-05-22T21:18:55Z",
     "AdminUnit": "Orange Cove Fire District",
     "AdminUnitUrl": null,
