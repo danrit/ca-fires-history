@@ -2648,5 +2648,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Beale Afb Grass Valley Gate Beale Fire",
+    "Final": false,
+    "Updated": "2025-05-23T13:59:41-07:00",
+    "Started": "2025-05-23T13:14:03Z",
+    "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
+    "AdminUnitUrl": null,
+    "County": "Yuba",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.331078,
+    "Latitude": 39.118918,
+    "Type": "Wildfire",
+    "UniqueId": "117f74f1-b674-4ad1-90ac-de4958715559",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/23/beale-afb-grass-valley-gate-beale-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-23",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
