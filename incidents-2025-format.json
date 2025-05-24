@@ -2673,5 +2673,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Guadalupe Fire",
+    "Final": false,
+    "Updated": "2025-05-23T20:20:46Z",
+    "Started": "2025-05-23T15:45:27Z",
+    "AdminUnit": "CAL FIRE Santa Clara Unit and San Jose Fire Department",
+    "AdminUnitUrl": null,
+    "County": "Santa Clara",
+    "Location": "Guadalupe Mine Road, San Jose",
+    "AcresBurned": 14.8,
+    "PercentContained": 70.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.8947894,
+    "Latitude": 37.2106583,
+    "Type": "Wildfire",
+    "UniqueId": "8d927633-20e5-4938-871e-8903dec1045f",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/23/guadalupe-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-23",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
