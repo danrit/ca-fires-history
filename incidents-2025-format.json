@@ -2798,5 +2798,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Gun Fire",
+    "Final": false,
+    "Updated": "2025-05-25T13:59:10-07:00",
+    "Started": "2025-05-25T12:57:18Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Near Panoche Road in Tumey Hills",
+    "AcresBurned": 11.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.657656,
+    "Latitude": 36.622453,
+    "Type": "Wildfire",
+    "UniqueId": "ca0402e9-9abd-4463-8187-074d9fcab146",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/25/gun-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-25",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
