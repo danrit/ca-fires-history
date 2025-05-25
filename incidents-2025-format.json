@@ -2773,5 +2773,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Milpas Fire",
+    "Final": false,
+    "Updated": "2025-05-25T10:07:34Z",
+    "Started": "2025-05-24T13:12:50Z",
+    "AdminUnit": "CAL FIRE San Bernardino Unit",
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Near Santa Rosa Road, Apple Valley, CA",
+    "AcresBurned": 43.2,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.102917,
+    "Latitude": 34.413935,
+    "Type": "Wildfire",
+    "UniqueId": "810ed9c5-010c-4149-ad21-4afaa724d944",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/24/milpas-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-24",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
