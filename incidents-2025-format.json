@@ -2823,5 +2823,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Lake Fire",
+    "Final": false,
+    "Updated": "2025-05-26T10:42:15-07:00",
+    "Started": "2025-05-26T10:22:53Z",
+    "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+    "AdminUnitUrl": null,
+    "County": "Stanislaus",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.492179,
+    "Latitude": 37.648407,
+    "Type": "Wildfire",
+    "UniqueId": "abe10547-4150-4df1-b847-87af8feddf72",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/26/lake-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-26",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
