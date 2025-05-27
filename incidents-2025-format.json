@@ -2877,7 +2877,7 @@
   {
     "Name": "Cherry Fire",
     "Final": false,
-    "Updated": "2025-05-27T07:50:37Z",
+    "Updated": "2025-05-27T15:41:04Z",
     "Started": "2025-05-26T13:15:41Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -2947,6 +2947,31 @@
     "StartedDateOnly": "2025-05-26",
     "IsActive": true,
     "CalFireIncident": true,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "65 Fire",
+    "Final": false,
+    "Updated": "2025-05-27T15:24:50Z",
+    "Started": "2025-05-27T15:18:40Z",
+    "AdminUnit": "Kern County Fire Department",
+    "AdminUnitUrl": null,
+    "County": "Kern",
+    "Location": "Highway 65 and Imperial Avenue, near Bakersfield",
+    "AcresBurned": 30.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.08242,
+    "Latitude": 35.46115,
+    "Type": "Wildfire",
+    "UniqueId": "27998576-98a2-4a2d-bc1a-afdf09066ecb",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/27/65-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-27",
+    "IsActive": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
