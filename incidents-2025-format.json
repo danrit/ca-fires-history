@@ -2952,18 +2952,18 @@
   {
     "Name": "Run Fire",
     "Final": false,
-    "Updated": "2025-05-26T18:24:02Z",
+    "Updated": "2025-05-27T05:06:22Z",
     "Started": "2025-05-26T14:45:12Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
     "County": "Madera",
     "Location": "RD 607/RD29  Raymond CA",
     "AcresBurned": 420.9,
-    "PercentContained": 50.0,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -119.9827,
-    "Latitude": 37.173,
+    "Longitude": -119.932289,
+    "Latitude": 37.118,
     "Type": "Wildfire",
     "UniqueId": "6b89b685-6a60-49dd-81ea-f33ec5dfa215",
     "Url": "https://www.fire.ca.gov/incidents/2025/5/26/run-fire/",
@@ -2971,7 +2971,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-26",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
