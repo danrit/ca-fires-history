@@ -2302,7 +2302,7 @@
   {
     "Name": "Jaw Fire",
     "Final": false,
-    "Updated": "2025-05-25T17:31:12-07:00",
+    "Updated": "2025-05-25T17:31:12Z",
     "Started": "2025-05-19T14:23:58Z",
     "AdminUnit": "Kern County Fire & Bureau of Land Management",
     "AdminUnitUrl": null,
@@ -2827,7 +2827,7 @@
   {
     "Name": "Lake Fire",
     "Final": false,
-    "Updated": "2025-05-27T09:37:32Z",
+    "Updated": "2025-05-27T11:55:10Z",
     "Started": "2025-05-26T10:22:53Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -2927,12 +2927,12 @@
   {
     "Name": "Run Fire",
     "Final": false,
-    "Updated": "2025-05-27T08:25:56Z",
+    "Updated": "2025-05-27T11:55:13Z",
     "Started": "2025-05-26T14:45:12Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
     "County": "Madera",
-    "Location": "RD 607/RD29  Raymond CA",
+    "Location": "Road 607 and Road D29, Raymond CA",
     "AcresBurned": 420.9,
     "PercentContained": 100.0,
     "ControlStatement": null,
