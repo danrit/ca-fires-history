@@ -3027,14 +3027,14 @@
   {
     "Name": "Stadium Fire",
     "Final": false,
-    "Updated": "2025-05-28T22:15:48-07:00",
+    "Updated": "2025-05-29T07:57:47Z",
     "Started": "2025-05-28T20:42:06Z",
-    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnit": "Orange Cove Fire Protection District",
     "AdminUnitUrl": null,
     "County": "Fresno",
     "Location": "Near Anchor Avenue and Parlier Avenue, Orange Cove ",
     "AcresBurned": 30.0,
-    "PercentContained": null,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -119.322764,
@@ -3046,7 +3046,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-28",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
