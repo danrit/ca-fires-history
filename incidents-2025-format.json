@@ -3048,5 +3048,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Paloma Fire",
+    "Final": false,
+    "Updated": "2025-05-29T15:04:17Z",
+    "Started": "2025-05-29T12:36:13Z",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnitUrl": null,
+    "County": "Merced",
+    "Location": "La Paloma Road and Snelling Road",
+    "AcresBurned": 31.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.460411,
+    "Latitude": 37.396908,
+    "Type": "Wildfire",
+    "UniqueId": "5ae072be-edb9-4553-afd2-ef8d0108a63d",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/29/paloma-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-29",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
