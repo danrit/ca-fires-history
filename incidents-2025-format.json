@@ -3077,13 +3077,13 @@
   {
     "Name": "Frazier Fire",
     "Final": false,
-    "Updated": "2025-05-29T16:05:16-07:00",
+    "Updated": "2025-05-29T17:21:25Z",
     "Started": "2025-05-29T13:55:00Z",
-    "AdminUnit": "Kern County Fire Department",
+    "AdminUnit": "Unified Command - Kern County/Los Padres National Forest",
     "AdminUnitUrl": null,
     "County": "Kern",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 43.1,
+    "Location": "Cuddy Creek at end of Cuddy Canyon Road, Lebec",
+    "AcresBurned": 43.0,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -3096,7 +3096,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-29",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
