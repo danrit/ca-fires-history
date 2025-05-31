@@ -3198,5 +3198,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Henderson Fire",
+    "Final": false,
+    "Updated": "2025-05-30T19:34:51Z",
+    "Started": "2025-05-30T17:45:04Z",
+    "AdminUnit": "CAL FIRE San Diego Unit",
+    "AdminUnitUrl": null,
+    "County": "San Diego",
+    "Location": "Henderson Road and Pala Mission Road",
+    "AcresBurned": 145.4,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.0608758,
+    "Latitude": 33.3803841,
+    "Type": "Wildfire",
+    "UniqueId": "1f30d922-c369-4462-b736-d7148c82c029",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/30/henderson-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-30",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
