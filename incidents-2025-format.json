@@ -3223,5 +3223,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "State Fire",
+    "Final": false,
+    "Updated": "2025-05-31T14:04:23-07:00",
+    "Started": "2025-05-31T11:48:32Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.3,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.972054,
+    "Latitude": 33.799855,
+    "Type": "Wildfire",
+    "UniqueId": "bce3d832-a999-4314-8f5d-dec78b6b8a2a",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/31/state-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-31",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
