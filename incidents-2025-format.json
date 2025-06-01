@@ -3302,12 +3302,12 @@
   {
     "Name": "Round Fire",
     "Final": false,
-    "Updated": "2025-05-31T20:31:14-07:00",
+    "Updated": "2025-05-31T21:15:52Z",
     "Started": "2025-05-31T19:48:31Z",
-    "AdminUnit": null,
+    "AdminUnit": "Los Padres National Forest",
     "AdminUnitUrl": null,
     "County": "Ventura",
-    "Location": "Unknown / TBD",
+    "Location": "near Highway 33 and Lockwood Valley Road, Scheideck",
     "AcresBurned": 15.0,
     "PercentContained": null,
     "ControlStatement": null,
@@ -3321,7 +3321,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-31",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
