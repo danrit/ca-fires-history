@@ -3327,14 +3327,14 @@
   {
     "Name": "Cove Fire",
     "Final": false,
-    "Updated": "2025-05-31T22:05:41-07:00",
+    "Updated": "2025-05-31T22:14:08Z",
     "Started": "2025-05-31T15:07:37Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
     "County": "Fresno",
-    "Location": "Unknown / TBD",
+    "Location": "Cove Road X Adams Avenue ",
     "AcresBurned": 14.0,
-    "PercentContained": null,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -119.3495,
@@ -3346,7 +3346,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-31",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
