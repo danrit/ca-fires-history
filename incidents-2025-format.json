@@ -3101,8 +3101,8 @@
   },
   {
     "Name": "Grubbs Fire",
-    "Final": false,
-    "Updated": "2025-05-31T09:55:49Z",
+    "Final": true,
+    "Updated": "2025-05-31T22:07:50Z",
     "Started": "2025-05-30T10:32:48Z",
     "AdminUnit": "CAL FIRE Butte Unit",
     "AdminUnitUrl": null,
@@ -3120,7 +3120,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-30",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -3176,8 +3176,8 @@
   },
   {
     "Name": "Emily Fire",
-    "Final": false,
-    "Updated": "2025-05-31T06:58:30Z",
+    "Final": true,
+    "Updated": "2025-05-31T22:07:27Z",
     "Started": "2025-05-30T16:07:41Z",
     "AdminUnit": "Los Angeles County Fire Department",
     "AdminUnitUrl": null,
@@ -3195,7 +3195,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-30",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -3226,8 +3226,8 @@
   },
   {
     "Name": "State Fire",
-    "Final": false,
-    "Updated": "2025-05-31T15:43:46Z",
+    "Final": true,
+    "Updated": "2025-05-31T22:08:35Z",
     "Started": "2025-05-31T11:48:32Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -3245,7 +3245,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-31",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -3276,8 +3276,8 @@
   },
   {
     "Name": "Mccabe Fire",
-    "Final": false,
-    "Updated": "2025-05-31T18:04:13Z",
+    "Final": true,
+    "Updated": "2025-05-31T22:07:00Z",
     "Started": "2025-05-31T16:23:33Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
@@ -3295,7 +3295,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-31",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -3322,6 +3322,31 @@
     "StartedDateOnly": "2025-05-31",
     "IsActive": true,
     "CalFireIncident": false,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Cove Fire",
+    "Final": false,
+    "Updated": "2025-05-31T22:05:41-07:00",
+    "Started": "2025-05-31T15:07:37Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 14.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.3495,
+    "Latitude": 36.63234,
+    "Type": "Wildfire",
+    "UniqueId": "c1e1567d-4ce5-427a-9070-7be99a793ce3",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/31/cove-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-31",
+    "IsActive": true,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
