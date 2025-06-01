@@ -3298,5 +3298,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Round Fire",
+    "Final": false,
+    "Updated": "2025-05-31T20:31:14-07:00",
+    "Started": "2025-05-31T19:48:31Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Ventura",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.336243,
+    "Latitude": 34.709092,
+    "Type": "Wildfire",
+    "UniqueId": "b3bc4084-0e2f-4f6f-8075-7bde64d7dc8c",
+    "Url": "https://www.fire.ca.gov/incidents/2025/5/31/round-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-05-31",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
