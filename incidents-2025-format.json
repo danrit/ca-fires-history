@@ -3002,7 +3002,7 @@
   {
     "Name": "Juniper Fire",
     "Final": false,
-    "Updated": "2025-06-01T05:48:29Z",
+    "Updated": "2025-06-01T18:13:47Z",
     "Started": "2025-05-28T15:10:38Z",
     "AdminUnit": "CAL FIRE Siskiyou Unit",
     "AdminUnitUrl": null,
@@ -3021,7 +3021,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-28",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   },
   {
@@ -3252,14 +3252,14 @@
   {
     "Name": "Coyote Fire",
     "Final": false,
-    "Updated": "2025-05-31T16:23:40Z",
+    "Updated": "2025-06-01T17:42:33Z",
     "Started": "2025-05-31T13:24:49Z",
     "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
     "AdminUnitUrl": null,
     "County": "Lassen",
     "Location": "Rice Canyon Road north of Coyote Lane, Susanville",
     "AcresBurned": 21.6,
-    "PercentContained": 85.0,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -120.526195,
@@ -3327,7 +3327,7 @@
   {
     "Name": "Cove Fire",
     "Final": false,
-    "Updated": "2025-05-31T22:14:08Z",
+    "Updated": "2025-06-01T18:15:15Z",
     "Started": "2025-05-31T15:07:37Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
@@ -3346,7 +3346,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-05-31",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
