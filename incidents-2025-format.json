@@ -3373,5 +3373,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Rose Fire",
+    "Final": false,
+    "Updated": "2025-06-02T13:10:31-07:00",
+    "Started": "2025-06-02T12:43:10Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 60.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.178698,
+    "Latitude": 36.60343,
+    "Type": "Wildfire",
+    "UniqueId": "bf459045-cd6d-46ca-b6b5-7c3383132dad",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/2/rose-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-02",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
