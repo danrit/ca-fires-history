@@ -3473,5 +3473,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Fish Fire",
+    "Final": false,
+    "Updated": "2025-06-03T17:31:35Z",
+    "Started": "2025-06-03T13:29:48Z",
+    "AdminUnit": "CAL FIRE San Bernardino Unit",
+    "AdminUnitUrl": null,
+    "County": "Inyo",
+    "Location": "Fish Springs Road & Griffith Road, Fish Springs",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.252778,
+    "Latitude": 37.075,
+    "Type": "Wildfire",
+    "UniqueId": "441b3d1a-907d-4ace-a1aa-b62ee3e1d93c",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/3/fish-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-03",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
