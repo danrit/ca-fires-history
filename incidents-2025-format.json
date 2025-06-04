@@ -3523,5 +3523,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Baxter Fire",
+    "Final": false,
+    "Updated": "2025-06-03T20:39:36-07:00",
+    "Started": "2025-06-03T20:38:12Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Inyo",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 30.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.314192,
+    "Latitude": 37.070967,
+    "Type": "Wildfire",
+    "UniqueId": "d48d9e60-63ec-466a-9ea7-eed0ecc46ff4",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/3/baxter-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-03",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
