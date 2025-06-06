@@ -1,8 +1,8 @@
 [
   {
     "Name": "Quail Fire",
-    "Final": false,
-    "Updated": "2025-06-05T09:26:12Z",
+    "Final": true,
+    "Updated": "2025-06-05T21:38:50Z",
     "Started": "2025-06-04T15:02:01Z",
     "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
     "AdminUnitUrl": null,
@@ -17,10 +17,10 @@
     "Type": "Wildfire",
     "UniqueId": "8cce41e0-a556-4472-b351-9d835122e9dc",
     "Url": "https://www.fire.ca.gov/incidents/2025/6/4/quail-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2025-06-05T06:00:00Z",
+    "ExtinguishedDateOnly": "2025-06-05",
     "StartedDateOnly": "2025-06-04",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
