@@ -3698,5 +3698,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Perez Fire",
+    "Final": false,
+    "Updated": "2025-06-06T17:14:46Z",
+    "Started": "2025-06-06T15:19:59Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Perez Street and Barboza, Mendota",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.384115,
+    "Latitude": 36.766702,
+    "Type": "Wildfire",
+    "UniqueId": "d8c67864-71fe-44f7-b36c-0e18df46af61",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/6/perez-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-06",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
