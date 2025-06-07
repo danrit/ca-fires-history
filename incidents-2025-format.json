@@ -2627,14 +2627,14 @@
   {
     "Name": "Inn Fire",
     "Final": false,
-    "Updated": "2025-05-30T18:19:57Z",
+    "Updated": "2025-06-07T11:51:55Z",
     "Started": "2025-05-22T15:35:00Z",
     "AdminUnit": "Inyo National Forest Service",
     "AdminUnitUrl": null,
     "County": "Mono",
     "Location": "Off Highway 395 and Mono Inn Road, South of Mono City",
     "AcresBurned": 728.0,
-    "PercentContained": 94.0,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -119.156506,
@@ -3527,7 +3527,7 @@
   {
     "Name": "Byers Fire",
     "Final": false,
-    "Updated": "2025-06-05T18:43:06-07:00",
+    "Updated": "2025-06-07T11:32:03Z",
     "Started": "2025-06-03T18:51:21Z",
     "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
     "AdminUnitUrl": null,
@@ -3652,7 +3652,7 @@
   {
     "Name": "Jack Fire",
     "Final": false,
-    "Updated": "2025-06-07T09:46:02Z",
+    "Updated": "2025-06-07T11:52:33Z",
     "Started": "2025-06-05T18:52:35Z",
     "AdminUnit": "Kern County Fire Department",
     "AdminUnitUrl": null,
@@ -3670,7 +3670,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-06-05",
-    "IsActive": false,
+    "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
