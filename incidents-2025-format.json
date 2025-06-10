@@ -3773,5 +3773,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Windy Fire",
+    "Final": false,
+    "Updated": "2025-06-09T19:57:19-07:00",
+    "Started": "2025-06-09T15:42:39Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Madera",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 12.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.327,
+    "Latitude": 37.34,
+    "Type": "Wildfire",
+    "UniqueId": "a826b1bf-cb1f-4f11-9d1c-e8c6a70b9419",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/9/windy-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-09",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
