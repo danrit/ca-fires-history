@@ -3827,7 +3827,7 @@
   {
     "Name": "Ranch Fire",
     "Final": false,
-    "Updated": "2025-06-12T06:28:44Z",
+    "Updated": "2025-06-12T11:37:47Z",
     "Started": "2025-06-10T14:33:13Z",
     "AdminUnit": "CAL FIRE San Bernardino-Inyo-Mono Unit, Apple Valley Fire Protection District, and the Bureau of Land Management",
     "AdminUnitUrl": null,
@@ -3927,7 +3927,7 @@
   {
     "Name": "Letter Fire",
     "Final": false,
-    "Updated": "2025-06-12T08:56:54Z",
+    "Updated": "2025-06-12T11:21:52Z",
     "Started": "2025-06-08T22:04:46Z",
     "AdminUnit": "Plumas National Forest",
     "AdminUnitUrl": null,
@@ -3946,7 +3946,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-06-08",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
@@ -4002,13 +4002,13 @@
   {
     "Name": "Little Fire",
     "Final": false,
-    "Updated": "2025-06-12T08:50:54Z",
+    "Updated": "2025-06-12T11:18:26-07:00",
     "Started": "2025-06-11T13:56:00Z",
     "AdminUnit": "CAL FIRE San Benito-Monterey Unit",
     "AdminUnitUrl": null,
     "County": "San Benito",
     "Location": "Little Panoche Road & Yturriarte Road, Panoche",
-    "AcresBurned": 450.0,
+    "AcresBurned": 592.0,
     "PercentContained": 95.0,
     "ControlStatement": null,
     "AgencyNames": "Hollister Fire Department, San Benito County Sheriff ",
@@ -4127,7 +4127,7 @@
   {
     "Name": "Lobinger Fire",
     "Final": false,
-    "Updated": "2025-06-12T09:28:22Z",
+    "Updated": "2025-06-12T11:20:41Z",
     "Started": "2025-06-11T15:56:59Z",
     "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
     "AdminUnitUrl": null,
@@ -4152,13 +4152,13 @@
   {
     "Name": "River Fire",
     "Final": false,
-    "Updated": "2025-06-12T08:53:12Z",
+    "Updated": "2025-06-12T11:52:34-07:00",
     "Started": "2025-06-11T20:01:21Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
     "County": "Madera",
     "Location": "Avenue 7.5 and River Drive, Madera Valley",
-    "AcresBurned": 12.0,
+    "AcresBurned": 20.0,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
