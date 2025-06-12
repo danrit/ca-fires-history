@@ -4148,5 +4148,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "River Fire",
+    "Final": false,
+    "Updated": "2025-06-11T23:54:54-07:00",
+    "Started": "2025-06-11T20:01:21Z",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnitUrl": null,
+    "County": "Madera",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 12.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.442537,
+    "Latitude": 36.858259,
+    "Type": "Wildfire",
+    "UniqueId": "f71c1c56-b75f-4afa-bb35-8d65ed87bc9b",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/11/river-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-11",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
