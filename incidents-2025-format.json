@@ -4225,14 +4225,14 @@
     "NotificationDesired": false
   },
   {
-    "Name": "Airline",
+    "Name": "Airline Fire",
     "Final": false,
-    "Updated": "2025-06-12T20:06:02-07:00",
+    "Updated": "2025-06-12T21:07:40Z",
     "Started": "2025-06-12T19:01:00Z",
-    "AdminUnit": "San Benito - Monterey",
+    "AdminUnit": "CAL FIRE San Benito-Monterey",
     "AdminUnitUrl": null,
     "County": "San Benito",
-    "Location": "49859 Airline Highway ",
+    "Location": "Highway 25 and Bitterwater Road, Bitterwater",
     "AcresBurned": 60.0,
     "PercentContained": 0.0,
     "ControlStatement": null,
@@ -4241,12 +4241,12 @@
     "Latitude": 36.351124,
     "Type": "Wildfire",
     "UniqueId": "473966df-9c8c-4030-8d6a-3f99304e088f",
-    "Url": "https://www.fire.ca.gov/incidents/2025/6/12/airline/",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/12/airline-fire/",
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-06-12",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
