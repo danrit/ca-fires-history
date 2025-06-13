@@ -4248,5 +4248,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Hudson Fire",
+    "Final": false,
+    "Updated": "2025-06-13T03:07:54-07:00",
+    "Started": "2025-06-12T22:11:00Z",
+    "AdminUnit": "Kern County Fire Department",
+    "AdminUnitUrl": null,
+    "County": "Kern",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 280.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.403,
+    "Latitude": 34.9578,
+    "Type": "Wildfire",
+    "UniqueId": "3ddaa74b-f795-4e8d-8e53-d837f98be748",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/12/hudson-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-12",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
