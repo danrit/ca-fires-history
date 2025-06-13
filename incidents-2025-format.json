@@ -4126,8 +4126,8 @@
   },
   {
     "Name": "Lobinger Fire",
-    "Final": false,
-    "Updated": "2025-06-12T11:20:41Z",
+    "Final": true,
+    "Updated": "2025-06-12T22:02:01Z",
     "Started": "2025-06-11T15:56:59Z",
     "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
     "AdminUnitUrl": null,
@@ -4145,7 +4145,7 @@
     "ExtinguishedDate": "2025-06-12T07:00:00Z",
     "ExtinguishedDateOnly": "2025-06-12",
     "StartedDateOnly": "2025-06-11",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
