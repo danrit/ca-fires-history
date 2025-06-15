@@ -4448,5 +4448,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Riosa Fire",
+    "Final": false,
+    "Updated": "2025-06-15T13:09:07Z",
+    "Started": "2025-06-15T12:03:13Z",
+    "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
+    "AdminUnitUrl": null,
+    "County": "Placer",
+    "Location": "Sheridan Lincoln Blvd just South of Sheridan",
+    "AcresBurned": 27.0,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.3711948,
+    "Latitude": 38.9750021,
+    "Type": "Wildfire",
+    "UniqueId": "ae42afac-b38f-4d58-968d-d876d5e29ced",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/15/riosa-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-15",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
