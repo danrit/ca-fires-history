@@ -3926,8 +3926,8 @@
   },
   {
     "Name": "Letter Fire",
-    "Final": false,
-    "Updated": "2025-06-13T09:50:59Z",
+    "Final": true,
+    "Updated": "2025-06-16T07:54:02Z",
     "Started": "2025-06-08T22:04:46Z",
     "AdminUnit": "Plumas National Forest",
     "AdminUnitUrl": null,
@@ -3951,8 +3951,8 @@
   },
   {
     "Name": "Lake Fire",
-    "Final": false,
-    "Updated": "2025-06-13T09:13:36Z",
+    "Final": true,
+    "Updated": "2025-06-16T07:53:43Z",
     "Started": "2025-06-10T19:00:41Z",
     "AdminUnit": "Kern County Fire Department  ",
     "AdminUnitUrl": null,
@@ -4151,8 +4151,8 @@
   },
   {
     "Name": "River Fire",
-    "Final": false,
-    "Updated": "2025-06-13T09:51:16Z",
+    "Final": true,
+    "Updated": "2025-06-16T07:53:33Z",
     "Started": "2025-06-11T20:01:21Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
