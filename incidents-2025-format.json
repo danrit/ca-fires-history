@@ -5227,14 +5227,14 @@
   {
     "Name": "Happy Fire",
     "Final": false,
-    "Updated": "2025-06-20T17:58:25Z",
+    "Updated": "2025-06-20T19:54:44Z",
     "Started": "2025-06-20T15:43:16Z",
     "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
     "AdminUnitUrl": null,
     "County": "Shasta",
     "Location": "Happy Canyon Road, Anderson",
     "AcresBurned": 2.0,
-    "PercentContained": null,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -122.393131,
@@ -5246,7 +5246,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-06-20",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
