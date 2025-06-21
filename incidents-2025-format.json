@@ -4777,7 +4777,7 @@
   {
     "Name": "Monte Fire ",
     "Final": false,
-    "Updated": "2025-06-20T16:02:25Z",
+    "Updated": "2025-06-20T16:27:14Z",
     "Started": "2025-06-17T14:59:23Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -5127,7 +5127,7 @@
   {
     "Name": "Rush Fire",
     "Final": false,
-    "Updated": "2025-06-20T16:09:55Z",
+    "Updated": "2025-06-20T17:22:53Z",
     "Started": "2025-06-20T14:32:25Z",
     "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
     "AdminUnitUrl": null,
@@ -5202,9 +5202,9 @@
   {
     "Name": "Happy Fire",
     "Final": false,
-    "Updated": "2025-06-20T15:49:10Z",
+    "Updated": "2025-06-20T16:31:51Z",
     "Started": "2025-06-20T15:43:16Z",
-    "AdminUnit": null,
+    "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
     "AdminUnitUrl": null,
     "County": "Shasta",
     "Location": "Happy Canyon Road, Anderson",
