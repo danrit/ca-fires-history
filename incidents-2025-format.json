@@ -5273,5 +5273,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Colvin Fire",
+    "Final": false,
+    "Updated": "2025-06-21T15:22:39Z",
+    "Started": "2025-06-21T14:19:08Z",
+    "AdminUnit": "CAL FIRE Tulare Unit",
+    "AdminUnitUrl": null,
+    "County": "Tulare",
+    "Location": "Avenue 376 and Piedra Avenue",
+    "AcresBurned": 46.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.167075,
+    "Latitude": 36.470737,
+    "Type": "Wildfire",
+    "UniqueId": "a347e4a0-e25d-4fd8-aec2-eeb90773fe53",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/21/colvin-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-21",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
