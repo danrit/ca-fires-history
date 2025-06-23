@@ -5373,5 +5373,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Ward Fire",
+    "Final": false,
+    "Updated": "2025-06-23T11:07:02-07:00",
+    "Started": "2025-06-23T07:35:40Z",
+    "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
+    "AdminUnitUrl": null,
+    "County": "Lassen",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.42736,
+    "Latitude": 40.396723,
+    "Type": "Wildfire",
+    "UniqueId": "2aa79a44-8202-4483-bee9-4e8315f8e76e",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/23/ward-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-23",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
