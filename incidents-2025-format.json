@@ -5573,5 +5573,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "B20 Fire",
+    "Final": false,
+    "Updated": "2025-06-25T04:33:36-07:00",
+    "Started": "2025-06-25T03:25:50Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 200.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.3988,
+    "Latitude": 36.0498,
+    "Type": "Wildfire",
+    "UniqueId": "a691fef4-eefe-4f79-bff8-64fa7e0fe8c5",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/25/b20-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-25",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
