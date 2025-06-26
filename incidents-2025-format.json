@@ -4777,13 +4777,13 @@
   {
     "Name": "Monte Fire ",
     "Final": false,
-    "Updated": "2025-06-24T17:36:42Z",
+    "Updated": "2025-06-25T20:29:32-07:00",
     "Started": "2025-06-17T14:59:23Z",
     "AdminUnit": "United States Forest Service - Cleveland National Forest",
     "AdminUnitUrl": null,
     "County": "San Diego",
     "Location": "El Monte Road, Near Lakeside",
-    "AcresBurned": 1051.0,
+    "AcresBurned": 1495.0,
     "PercentContained": 90.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -5627,9 +5627,9 @@
   {
     "Name": "Dry Fire",
     "Final": false,
-    "Updated": "2025-06-25T19:30:54Z",
+    "Updated": "2025-06-25T20:19:17Z",
     "Started": "2025-06-25T16:19:47Z",
-    "AdminUnit": "CAL FIRE San Bernadino Unit",
+    "AdminUnit": "Inyo National Forest",
     "AdminUnitUrl": null,
     "County": "Mono",
     "Location": "Near Highway 395 & Forest Road 2S85",
@@ -5637,8 +5637,8 @@
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -118.964379,
-    "Latitude": 37.719471,
+    "Longitude": -118.966856,
+    "Latitude": 37.720963,
     "Type": "Wildfire",
     "UniqueId": "1d1fe063-d67c-41f3-837b-99d7da818aa2",
     "Url": "https://www.fire.ca.gov/incidents/2025/6/25/dry-fire/",
@@ -5646,7 +5646,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-06-25",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
