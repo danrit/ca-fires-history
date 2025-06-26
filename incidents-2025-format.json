@@ -5577,7 +5577,7 @@
   {
     "Name": "Dias Fire",
     "Final": false,
-    "Updated": "2025-06-26T06:15:35-07:00",
+    "Updated": "2025-06-26T08:43:35Z",
     "Started": "2025-06-25T03:25:50Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
@@ -5602,7 +5602,7 @@
   {
     "Name": "Fleming Fire",
     "Final": false,
-    "Updated": "2025-06-25T21:53:14Z",
+    "Updated": "2025-06-26T08:53:15Z",
     "Started": "2025-06-25T15:23:07Z",
     "AdminUnit": "Bureau of Land Management",
     "AdminUnitUrl": null,
@@ -5621,7 +5621,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-06-25",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
