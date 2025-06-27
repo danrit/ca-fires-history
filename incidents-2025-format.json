@@ -5723,5 +5723,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Saddle Fire",
+    "Final": false,
+    "Updated": "2025-06-26T23:45:32-07:00",
+    "Started": "2025-06-26T22:55:30Z",
+    "AdminUnit": "CAL FIRE Tulare Unit",
+    "AdminUnitUrl": null,
+    "County": "Tulare",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.9425,
+    "Latitude": 36.385833,
+    "Type": "Wildfire",
+    "UniqueId": "58a0c153-985b-4481-961c-92af3023bb6b",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/26/saddle-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-26",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
