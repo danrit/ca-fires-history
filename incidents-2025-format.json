@@ -5673,5 +5673,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Red Fire",
+    "Final": false,
+    "Updated": "2025-06-26T19:37:19Z",
+    "Started": "2025-06-26T18:21:18Z",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnitUrl": null,
+    "County": "Madera",
+    "Location": "Road 211 cross of Sierra Oaks Ln, O'neals. CA",
+    "AcresBurned": 20.0,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "Madera County Sheriff",
+    "Longitude": -119.69518,
+    "Latitude": 37.07636,
+    "Type": "Wildfire",
+    "UniqueId": "ba050422-aa00-4d3b-8025-4169b9d9f84a",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/26/red-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-26",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
