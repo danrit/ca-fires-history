@@ -5698,5 +5698,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Orange 2 Fire",
+    "Final": false,
+    "Updated": "2025-06-26T22:53:33-07:00",
+    "Started": "2025-06-26T21:54:42Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.327231,
+    "Latitude": 36.617488,
+    "Type": "Wildfire",
+    "UniqueId": "208363bf-46b4-45e8-b40c-5913b5404df8",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/26/orange-2-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-26",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
