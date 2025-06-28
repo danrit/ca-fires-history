@@ -5823,5 +5823,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Llano Fire",
+    "Final": false,
+    "Updated": "2025-06-28T15:00:31Z",
+    "Started": "2025-06-28T13:46:19Z",
+    "AdminUnit": "Atascadero Fire Department",
+    "AdminUnitUrl": null,
+    "County": "San Luis Obispo",
+    "Location": "Near Llano Road and Balboa Road, Atascadero",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.720399,
+    "Latitude": 35.489202,
+    "Type": "Wildfire",
+    "UniqueId": "f0f3d279-102e-42f2-a8ab-824dd1240549",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/28/llano-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-28",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
