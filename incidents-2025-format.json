@@ -5798,5 +5798,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Springs Fire",
+    "Final": false,
+    "Updated": "2025-06-27T19:19:12Z",
+    "Started": "2025-06-27T16:40:09Z",
+    "AdminUnit": "CAL FIRE Siskiyou Unit",
+    "AdminUnitUrl": null,
+    "County": "Siskiyou",
+    "Location": "Big springs Rd x East of Macdonald Ln, 1 mile northeast of Lake Shastina ",
+    "AcresBurned": 14.0,
+    "PercentContained": 5.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -122.3668324,
+    "Latitude": 41.5625133,
+    "Type": "Wildfire",
+    "UniqueId": "d4c0aebc-cfdf-4b78-abce-dd7fbd3e7042",
+    "Url": "https://www.fire.ca.gov/incidents/2025/6/27/springs-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-06-27",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
