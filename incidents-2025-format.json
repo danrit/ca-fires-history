@@ -5827,7 +5827,7 @@
   {
     "Name": "Llano Fire",
     "Final": false,
-    "Updated": "2025-06-28T20:36:52Z",
+    "Updated": "2025-06-28T20:53:12Z",
     "Started": "2025-06-28T13:46:19Z",
     "AdminUnit": "Atascadero Fire Department",
     "AdminUnitUrl": null,
@@ -5877,7 +5877,7 @@
   {
     "Name": "Smiley Fire",
     "Final": false,
-    "Updated": "2025-06-28T20:29:36Z",
+    "Updated": "2025-06-28T20:49:33Z",
     "Started": "2025-06-28T14:36:09Z",
     "AdminUnit": "Unified Command: CAL FIRE, Redlands Fire Department, and Riverside County Fire Department",
     "AdminUnitUrl": null,
@@ -5902,7 +5902,7 @@
   {
     "Name": "Lake Fire",
     "Final": false,
-    "Updated": "2025-06-28T20:29:48Z",
+    "Updated": "2025-06-28T20:48:52Z",
     "Started": "2025-06-28T15:58:09Z",
     "AdminUnit": "Unified Command: USFS: San Bernardino National Forest, CAL FIRE San Bernardino Unit, San Bernardino County Fire and San Bernardino County Sheriff",
     "AdminUnitUrl": null,
@@ -5912,8 +5912,8 @@
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -117.3125,
-    "Latitude": 34.304722,
+    "Longitude": -117.349169,
+    "Latitude": 34.28816,
     "Type": "Wildfire",
     "UniqueId": "9163f470-265d-422f-92fb-5d8ea9ca1acf",
     "Url": "https://www.fire.ca.gov/incidents/2025/6/28/lake-fire/",
