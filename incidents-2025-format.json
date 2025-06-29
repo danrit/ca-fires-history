@@ -5877,7 +5877,7 @@
   {
     "Name": "Smiley Fire",
     "Final": false,
-    "Updated": "2025-06-29T07:15:57Z",
+    "Updated": "2025-06-29T09:51:47Z",
     "Started": "2025-06-28T14:36:09Z",
     "AdminUnit": "Unified Command: CAL FIRE, Redlands Fire Department, and Riverside County Fire Department",
     "AdminUnitUrl": null,
@@ -5886,7 +5886,7 @@
     "AcresBurned": 83.0,
     "PercentContained": 65.0,
     "ControlStatement": null,
-    "AgencyNames": "CAL FIRE/Riverside County Fire Department",
+    "AgencyNames": "CAL FIRE Riverside County Fire Department",
     "Longitude": -117.192261,
     "Latitude": 34.005867,
     "Type": "Wildfire",
