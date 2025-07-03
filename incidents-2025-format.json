@@ -6448,5 +6448,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Jacket Fire",
+    "Final": false,
+    "Updated": "2025-07-03T11:08:29Z",
+    "Started": "2025-07-03T08:57:00Z",
+    "AdminUnit": "Klamath National Forest",
+    "AdminUnitUrl": null,
+    "County": "Siskiyou",
+    "Location": "Salmon River Road and Sawyers Bar Road, Northwest of Forks of Salmon",
+    "AcresBurned": 50.0,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -123.294104,
+    "Latitude": 41.295824,
+    "Type": "Wildfire",
+    "UniqueId": "d457fa4b-f7c5-4991-891d-d5a700780ddf",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/3/jacket-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-03",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
