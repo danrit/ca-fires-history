@@ -7048,5 +7048,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Zediker Fire",
+    "Final": false,
+    "Updated": "2025-07-06T00:03:45-07:00",
+    "Started": "2025-07-05T22:05:27Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 40.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.520899,
+    "Latitude": 36.611938,
+    "Type": "Wildfire",
+    "UniqueId": "79f430c5-2150-453d-931d-71bf0e777565",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/5/zediker-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-05",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
