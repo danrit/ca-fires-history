@@ -6973,5 +6973,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Soboba Fire",
+    "Final": false,
+    "Updated": "2025-07-05T19:55:59Z",
+    "Started": "2025-07-05T18:33:10Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "near Soboba Road and Lake Park Drive",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.923214,
+    "Latitude": 33.786094,
+    "Type": "Wildfire",
+    "UniqueId": "c883666b-ccbc-45ca-b800-bdd60443e6f2",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/5/soboba-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-05",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
