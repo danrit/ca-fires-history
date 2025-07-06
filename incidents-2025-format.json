@@ -7098,5 +7098,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Wildcat Fire",
+    "Final": false,
+    "Updated": "2025-07-06T10:49:39Z",
+    "Started": "2025-07-06T10:20:50Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Elwood Road and Wildcat Drive, Sanger",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.291499,
+    "Latitude": 36.78559,
+    "Type": "Wildfire",
+    "UniqueId": "562c8080-c9ae-47df-90b1-76ca089b9cc5",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/6/wildcat-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-06",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
