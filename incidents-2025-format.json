@@ -7198,5 +7198,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Fish Fire",
+    "Final": false,
+    "Updated": "2025-07-07T06:16:45Z",
+    "Started": "2025-07-07T05:25:04Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Trimmer Springs Road, north of Avocado Lake",
+    "AcresBurned": 30.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.411635,
+    "Latitude": 36.794181,
+    "Type": "Wildfire",
+    "UniqueId": "f5c8200f-94df-4fb9-bb8b-c6079bf67cea",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/7/fish-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-07",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
