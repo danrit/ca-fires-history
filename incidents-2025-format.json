@@ -7348,5 +7348,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Pyrite Fire",
+    "Final": false,
+    "Updated": "2025-07-07T20:27:48-07:00",
+    "Started": "2025-07-07T19:54:13Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.462368,
+    "Latitude": 34.017805,
+    "Type": "Wildfire",
+    "UniqueId": "acf7159e-eb73-4cbd-ba94-20871e0edb11",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/7/pyrite-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-07",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
