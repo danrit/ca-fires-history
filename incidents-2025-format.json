@@ -7623,5 +7623,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Scavenger Fire",
+    "Final": false,
+    "Updated": "2025-07-12T16:08:11Z",
+    "Started": "2025-07-12T15:18:18Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Marmon Avenue & Colusa Avenue, Huron",
+    "AcresBurned": 150.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.193833,
+    "Latitude": 36.226722,
+    "Type": "Wildfire",
+    "UniqueId": "22cea9ae-fd92-4502-8ae6-f3470dfbc8f0",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/12/scavenger-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-12",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
