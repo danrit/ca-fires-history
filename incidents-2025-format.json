@@ -7673,5 +7673,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Island Fire",
+    "Final": false,
+    "Updated": "2025-07-12T19:55:26Z",
+    "Started": "2025-07-12T16:56:05Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Vandalen Drive, north of Island Park Campsite",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.315821,
+    "Latitude": 36.864545,
+    "Type": "Wildfire",
+    "UniqueId": "f7583812-6b99-4429-9ee1-cb016865ba44",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/12/island-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-12",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
