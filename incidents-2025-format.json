@@ -7748,5 +7748,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Max Fire",
+    "Final": false,
+    "Updated": "2025-07-13T14:59:43Z",
+    "Started": "2025-07-13T13:11:54Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Southeast of Barnes Mountain",
+    "AcresBurned": 100.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.352245,
+    "Latitude": 36.933131,
+    "Type": "Wildfire",
+    "UniqueId": "357031c1-f5cb-40af-a634-754e427f7fb0",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/13/max-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-13",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
