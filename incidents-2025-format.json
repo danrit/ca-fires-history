@@ -6352,7 +6352,7 @@
   {
     "Name": "Madre Fire",
     "Final": false,
-    "Updated": "2025-07-12T18:02:51-07:00",
+    "Updated": "2025-07-12T18:54:10Z",
     "Started": "2025-07-02T13:07:32Z",
     "AdminUnit": "Unified Command: Los Padres National Forest, Bureau of Land Management",
     "AdminUnitUrl": null,
@@ -7647,6 +7647,31 @@
     "StartedDateOnly": "2025-07-12",
     "IsActive": true,
     "CalFireIncident": true,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Canon Fire",
+    "Final": false,
+    "Updated": "2025-07-12T18:58:52Z",
+    "Started": "2025-07-12T18:55:25Z",
+    "AdminUnit": "Fairfield Fire Delartmemt",
+    "AdminUnitUrl": null,
+    "County": "Solano",
+    "Location": "Canon Road & Gate Road, Fairfield",
+    "AcresBurned": 68.1,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.933483,
+    "Latitude": 38.2986878,
+    "Type": "Wildfire",
+    "UniqueId": "5672f0d9-db24-48c3-817c-e7b99cf25711",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/12/canon-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-12",
+    "IsActive": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
