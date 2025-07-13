@@ -7698,5 +7698,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Ivory Fire",
+    "Final": false,
+    "Updated": "2025-07-13T08:56:10Z",
+    "Started": "2025-07-13T08:45:29Z",
+    "AdminUnit": "Mendocino National\r\nForest",
+    "AdminUnitUrl": null,
+    "County": "Glenn",
+    "Location": "Forest Route M3 and Forest Route 20N01",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -122.707,
+    "Latitude": 39.574,
+    "Type": "Wildfire",
+    "UniqueId": "686318b6-46bf-41f4-b9ce-c935c4e875fc",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/13/ivory-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-13",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
