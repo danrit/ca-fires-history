@@ -7723,5 +7723,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Marie Fire",
+    "Final": false,
+    "Updated": "2025-07-13T13:29:38-07:00",
+    "Started": "2025-07-13T11:37:36Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 40.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.369387,
+    "Latitude": 36.748969,
+    "Type": "Wildfire",
+    "UniqueId": "dd9ec694-07b3-45ee-a17f-a1729ef2460d",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/13/marie-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-13",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
