@@ -7798,5 +7798,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Fandango Fire",
+    "Final": false,
+    "Updated": "2025-07-14T03:51:08-07:00",
+    "Started": "2025-07-14T00:46:49Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Modoc",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 11.9,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.19432,
+    "Latitude": 41.79792,
+    "Type": "Wildfire",
+    "UniqueId": "0dfbed5a-c4ff-4d44-a777-ede21cc385ac",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/14/fandango-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-14",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
