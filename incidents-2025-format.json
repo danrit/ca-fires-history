@@ -7823,5 +7823,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Jefferson Fire",
+    "Final": false,
+    "Updated": "2025-07-14T05:55:56-07:00",
+    "Started": "2025-07-14T05:34:59Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.315699,
+    "Latitude": 36.654009,
+    "Type": "Wildfire",
+    "UniqueId": "0ac52778-b57a-40d3-a456-a2695c8d1114",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/14/jefferson-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-14",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
