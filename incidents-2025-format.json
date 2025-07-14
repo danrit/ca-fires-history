@@ -6352,7 +6352,7 @@
   {
     "Name": "Madre Fire",
     "Final": false,
-    "Updated": "2025-07-13T17:52:40-07:00",
+    "Updated": "2025-07-13T20:05:26Z",
     "Started": "2025-07-02T13:07:32Z",
     "AdminUnit": "Unified Command: Los Padres National Forest, Bureau of Land Management",
     "AdminUnitUrl": null,
@@ -7772,6 +7772,31 @@
     "StartedDateOnly": "2025-07-13",
     "IsActive": true,
     "CalFireIncident": false,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Chowchilla Fire",
+    "Final": false,
+    "Updated": "2025-07-13T20:07:14Z",
+    "Started": "2025-07-13T17:44:22Z",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnitUrl": null,
+    "County": "Madera",
+    "Location": "Road 15 1/2, Chowchilla",
+    "AcresBurned": 13.0,
+    "PercentContained": 100.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.265957,
+    "Latitude": 37.098778,
+    "Type": "Wildfire",
+    "UniqueId": "ad2c68a3-7e84-4da9-aa45-32831db93a91",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/13/chowchilla-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-13",
+    "IsActive": true,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
