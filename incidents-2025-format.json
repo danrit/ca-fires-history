@@ -7848,5 +7848,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Piedra Fire",
+    "Final": false,
+    "Updated": "2025-07-15T13:07:22Z",
+    "Started": "2025-07-15T12:27:51Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "North Piedra Road and North Frankwood Avenue, Sanger",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.450866,
+    "Latitude": 36.745812,
+    "Type": "Wildfire",
+    "UniqueId": "b4d57fe0-8b23-4c00-9b32-140f485698ec",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/15/piedra-fire/",
+    "ExtinguishedDate": "2025-07-15T13:06:46Z",
+    "ExtinguishedDateOnly": "2025-07-15",
+    "StartedDateOnly": "2025-07-15",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
