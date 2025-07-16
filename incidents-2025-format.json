@@ -7752,7 +7752,7 @@
   {
     "Name": "Max Fire",
     "Final": false,
-    "Updated": "2025-07-15T17:37:41-07:00",
+    "Updated": "2025-07-15T18:52:11Z",
     "Started": "2025-07-13T13:11:54Z",
     "AdminUnit": "United States Forest Service: Sierra National Forest",
     "AdminUnitUrl": null,
@@ -7922,6 +7922,31 @@
     "StartedDateOnly": "2025-07-15",
     "IsActive": true,
     "CalFireIncident": false,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "High Fire",
+    "Final": false,
+    "Updated": "2025-07-15T19:45:37Z",
+    "Started": "2025-07-15T13:40:59Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Highway 41 and American Avenue, Easton.",
+    "AcresBurned": 20.0,
+    "PercentContained": 100.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.786,
+    "Latitude": 36.66331,
+    "Type": "Wildfire",
+    "UniqueId": "0fe66384-ed74-40d2-8cef-f78ee5e7fbd8",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/15/high-fire/",
+    "ExtinguishedDate": "2025-07-15T19:00:29Z",
+    "ExtinguishedDateOnly": "2025-07-15",
+    "StartedDateOnly": "2025-07-15",
+    "IsActive": true,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
