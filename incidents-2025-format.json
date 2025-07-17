@@ -8073,5 +8073,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Bradford Branch Fire",
+    "Final": false,
+    "Updated": "2025-07-16T22:21:53-07:00",
+    "Started": "2025-07-16T12:50:20Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 1071.6,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.79812,
+    "Latitude": 33.501354,
+    "Type": "Wildfire",
+    "UniqueId": "186edc4c-ab72-42d3-948f-86520e8d6b20",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/16/bradford-branch-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-16",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
