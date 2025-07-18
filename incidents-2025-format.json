@@ -6352,7 +6352,7 @@
   {
     "Name": "Madre Fire",
     "Final": false,
-    "Updated": "2025-07-16T08:42:56Z",
+    "Updated": "2025-07-18T08:53:02Z",
     "Started": "2025-07-02T13:07:32Z",
     "AdminUnit": "Unified Command: Los Padres National Forest, Bureau of Land Management",
     "AdminUnitUrl": null,
@@ -7877,7 +7877,7 @@
   {
     "Name": "Fobes Fire",
     "Final": false,
-    "Updated": "2025-07-15T16:41:26-07:00",
+    "Updated": "2025-07-18T09:10:54Z",
     "Started": "2025-07-15T13:22:00Z",
     "AdminUnit": "United States Forest Service: San Bernardino National Forest",
     "AdminUnitUrl": null,
@@ -7895,7 +7895,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-07-15",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -7977,13 +7977,13 @@
   {
     "Name": "Dale Fire",
     "Final": false,
-    "Updated": "2025-07-18T08:08:44Z",
+    "Updated": "2025-07-18T08:36:53Z",
     "Started": "2025-07-16T12:37:21Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
     "County": "Riverside",
     "Location": "Lugo Road near Highway 371, Aguanga",
-    "AcresBurned": 1096.1,
+    "AcresBurned": 1096.0,
     "PercentContained": 34.0,
     "ControlStatement": null,
     "AgencyNames": "Cahuilla Fire Department; United States Forest Service - San Bernardino; CAL FIRE San Diego; Pechanga Fire Department; Murrieta Fire Department",
