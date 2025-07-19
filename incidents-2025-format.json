@@ -8148,5 +8148,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Willow Fire",
+    "Final": false,
+    "Updated": "2025-07-19T03:05:49-07:00",
+    "Started": "2025-07-19T00:59:43Z",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnitUrl": null,
+    "County": "Madera",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 31.5,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.932289,
+    "Latitude": 37.118,
+    "Type": "Wildfire",
+    "UniqueId": "a587f706-5428-44f7-aa94-ead7be01edac",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/19/willow-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-19",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
