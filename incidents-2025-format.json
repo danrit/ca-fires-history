@@ -6577,13 +6577,13 @@
   {
     "Name": "Marble Complex Fire",
     "Final": false,
-    "Updated": "2025-07-19T10:32:41Z",
+    "Updated": "2025-07-21T11:20:27Z",
     "Started": "2025-07-03T11:20:53Z",
     "AdminUnit": "United States Forest Service: Klamath National Forest",
     "AdminUnitUrl": null,
     "County": "Siskiyou",
     "Location": "Marble Mountain Wilderness",
-    "AcresBurned": 746.0,
+    "AcresBurned": 747.0,
     "PercentContained": 70.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -7977,7 +7977,7 @@
   {
     "Name": "Dale Fire",
     "Final": false,
-    "Updated": "2025-07-21T09:16:10Z",
+    "Updated": "2025-07-21T11:17:37Z",
     "Started": "2025-07-16T12:37:21Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -8277,7 +8277,7 @@
   {
     "Name": "Alta Fire",
     "Final": false,
-    "Updated": "2025-07-20T20:30:16Z",
+    "Updated": "2025-07-21T11:31:06Z",
     "Started": "2025-07-20T12:51:36Z",
     "AdminUnit": "CAL FIRE Butte Unit",
     "AdminUnitUrl": null,
