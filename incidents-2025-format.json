@@ -8323,5 +8323,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Frontage Fire",
+    "Final": false,
+    "Updated": "2025-07-21T19:37:44Z",
+    "Started": "2025-07-20T16:18:00Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": " E Street and Frontage Road ",
+    "AcresBurned": 46.2,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.296674,
+    "Latitude": 34.548782,
+    "Type": "Wildfire",
+    "UniqueId": "9b226bc1-de53-4e6b-abd2-a743d7f1c121",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/20/frontage-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-20",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
