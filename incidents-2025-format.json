@@ -8348,5 +8348,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Stokes Fire ",
+    "Final": false,
+    "Updated": "2025-07-22T12:09:00Z",
+    "Started": "2025-07-22T11:10:00Z",
+    "AdminUnit": "Tulare County Fire Department ",
+    "AdminUnitUrl": null,
+    "County": "Tulare",
+    "Location": "Orosi, North of Avenue 392",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "CAL FIRE Tulare Unit",
+    "Longitude": -119.196666,
+    "Latitude": 36.518055,
+    "Type": "Wildfire",
+    "UniqueId": "84026364-cfae-4482-b14b-b749a71d5ddb",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/22/stokes-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-22",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
