@@ -8373,5 +8373,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Orange Fire",
+    "Final": false,
+    "Updated": "2025-07-22T18:27:34-07:00",
+    "Started": "2025-07-22T15:23:08Z",
+    "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+    "AdminUnitUrl": null,
+    "County": "Stanislaus",
+    "Location": "Orange Blossom Road and Highway 108, Knights Ferry",
+    "AcresBurned": 13.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.744427,
+    "Latitude": 37.789557,
+    "Type": "Wildfire",
+    "UniqueId": "a59d32cc-2d6d-4440-a666-13e425d335aa",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/22/orange-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-22",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
