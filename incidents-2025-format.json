@@ -8398,5 +8398,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Euclid Fire",
+    "Final": false,
+    "Updated": "2025-07-23T15:10:50Z",
+    "Started": "2025-07-23T14:50:01Z",
+    "AdminUnit": "CAL FIRE San Bernardino-Inyo-Mono Unit",
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Highway 71 and Euclid Road, Chino Hills",
+    "AcresBurned": 100.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.65797,
+    "Latitude": 33.93368,
+    "Type": "Wildfire",
+    "UniqueId": "ee3f98a9-3e34-4ac0-a032-78afd6c1b0b1",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/23/euclid-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-23",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
