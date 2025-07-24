@@ -8402,7 +8402,7 @@
   {
     "Name": "Euclid Fire",
     "Final": false,
-    "Updated": "2025-07-24T06:57:04-07:00",
+    "Updated": "2025-07-24T10:03:19Z",
     "Started": "2025-07-23T14:50:01Z",
     "AdminUnit": "Unified Command: Chino Valley Fire Protection District, CAL FIRE San Bernardino-Inyo-Mono Unit, CAL FIRE Riverside County Fire, San Bernardino County Sheriff's Department",
     "AdminUnitUrl": null,
@@ -8427,7 +8427,7 @@
   {
     "Name": "Mitchell Fire",
     "Final": false,
-    "Updated": "2025-07-24T06:39:24Z",
+    "Updated": "2025-07-24T09:55:43Z",
     "Started": "2025-07-23T15:27:09Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -8437,8 +8437,8 @@
     "PercentContained": 90.0,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -116.700816,
-    "Latitude": 33.560732,
+    "Longitude": -116.695847,
+    "Latitude": 33.563156,
     "Type": "Wildfire",
     "UniqueId": "ee23cc11-ce64-4edf-83ac-930943e2ed52",
     "Url": "https://www.fire.ca.gov/incidents/2025/7/23/mitchell-fire/",
