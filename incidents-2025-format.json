@@ -8448,5 +8448,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Posta Fire",
+    "Final": false,
+    "Updated": "2025-07-24T13:10:44Z",
+    "Started": "2025-07-24T12:20:00Z",
+    "AdminUnit": "CAL FIRE San Diego Unit ",
+    "AdminUnitUrl": null,
+    "County": "San Diego",
+    "Location": "La Posta Road, North of the Community of Campo",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.430132,
+    "Latitude": 32.667663,
+    "Type": "Wildfire",
+    "UniqueId": "310efa03-a8be-465b-b30f-102a76b15080",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/24/posta-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-24",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
