@@ -8498,5 +8498,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Sliger Fire",
+    "Final": false,
+    "Updated": "2025-07-24T22:50:28-07:00",
+    "Started": "2025-07-24T21:25:50Z",
+    "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
+    "AdminUnitUrl": null,
+    "County": "El Dorado",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.926046,
+    "Latitude": 38.943781,
+    "Type": "Wildfire",
+    "UniqueId": "34e4304f-08ba-4f21-a702-4194334667d8",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/24/sliger-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-24",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
