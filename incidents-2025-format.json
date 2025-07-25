@@ -8523,5 +8523,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Shady Fire",
+    "Final": false,
+    "Updated": "2025-07-25T15:59:13Z",
+    "Started": "2025-07-25T14:53:03Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "54 Shady Lane, Coachella ",
+    "AcresBurned": 40.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.172565,
+    "Latitude": 33.656632,
+    "Type": "Wildfire",
+    "UniqueId": "110f3c65-1507-4c6f-aeee-e9170a835f1f",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/25/shady-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-25",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
