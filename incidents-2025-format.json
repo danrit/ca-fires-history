@@ -8402,9 +8402,9 @@
   {
     "Name": "Euclid Fire",
     "Final": false,
-    "Updated": "2025-07-24T18:05:47-07:00",
+    "Updated": "2025-07-24T20:17:31Z",
     "Started": "2025-07-23T14:50:01Z",
-    "AdminUnit": "Unified Command: Chino Valley Fire Protection District, CAL FIRE San Bernardino-Inyo-Mono Unit, CAL FIRE Riverside County Fire, San Bernardino County Sheriff's Department",
+    "AdminUnit": "Unified Command: Chino Valley Fire Protection District, CAL FIRE San Bernardino Unit, CAL FIRE Riverside/ Riverside County Fire",
     "AdminUnitUrl": null,
     "County": "San Bernardino",
     "Location": "Highway 71 and Euclid Road, Chino Hills",
@@ -8427,7 +8427,7 @@
   {
     "Name": "Mitchell Fire",
     "Final": false,
-    "Updated": "2025-07-24T09:55:43Z",
+    "Updated": "2025-07-24T20:36:27Z",
     "Started": "2025-07-23T15:27:09Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
