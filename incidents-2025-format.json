@@ -8623,5 +8623,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Boneyard Fire",
+    "Final": false,
+    "Updated": "2025-07-26T14:04:27Z",
+    "Started": "2025-07-26T13:19:36Z",
+    "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+    "AdminUnitUrl": null,
+    "County": "Tuolumne",
+    "Location": "Priest Coulterville Road, south of Highway 120",
+    "AcresBurned": 50.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.271682,
+    "Latitude": 37.81327,
+    "Type": "Wildfire",
+    "UniqueId": "e68315fd-ee43-4666-baaf-5d02e7c741c2",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/26/boneyard-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-26",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
