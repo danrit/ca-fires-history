@@ -8748,5 +8748,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Needles Fire Fire",
+    "Final": false,
+    "Updated": "2025-07-28T12:05:26-07:00",
+    "Started": "2025-07-27T16:07:19Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 12.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -114.583454,
+    "Latitude": 34.828072,
+    "Type": "Wildfire",
+    "UniqueId": "2f318308-6d04-4f05-8834-9f7cdce2383a",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/27/needles-fire-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-27",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
