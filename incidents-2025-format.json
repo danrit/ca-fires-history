@@ -8552,7 +8552,7 @@
   {
     "Name": "Mammoth Fire ",
     "Final": false,
-    "Updated": "2025-07-27T18:15:45-07:00",
+    "Updated": "2025-07-28T12:57:14Z",
     "Started": "2025-07-25T16:23:50Z",
     "AdminUnit": "United States Forest Service: Modoc National Forest",
     "AdminUnitUrl": null,
@@ -8562,8 +8562,8 @@
     "PercentContained": 42.0,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -121.331306,
-    "Latitude": 41.704722,
+    "Longitude": -121.323879,
+    "Latitude": 41.684141,
     "Type": "Wildfire",
     "UniqueId": "b664fdcf-0407-4dfd-8aaa-422e53915089",
     "Url": "https://www.fire.ca.gov/incidents/2025/7/25/mammoth-fire/",
@@ -8727,7 +8727,7 @@
   {
     "Name": "Medicine Fire",
     "Final": false,
-    "Updated": "2025-07-28T10:01:09Z",
+    "Updated": "2025-07-28T12:58:45Z",
     "Started": "2025-07-27T15:25:05Z",
     "AdminUnit": "CAL FIRE Mendocino Unit",
     "AdminUnitUrl": null,
@@ -8736,7 +8736,7 @@
     "AcresBurned": 263.0,
     "PercentContained": 40.0,
     "ControlStatement": null,
-    "AgencyNames": "",
+    "AgencyNames": "Mendocino County Sheriff's Office, Covelo Fire Protection, US Forest Service",
     "Longitude": -123.267618,
     "Latitude": 39.831628,
     "Type": "Wildfire",
@@ -8750,9 +8750,9 @@
     "NotificationDesired": false
   },
   {
-    "Name": "Needles Fire Fire",
-    "Final": false,
-    "Updated": "2025-07-28T12:05:26-07:00",
+    "Name": "Needles Fires",
+    "Final": true,
+    "Updated": "2025-07-28T12:42:34Z",
     "Started": "2025-07-27T16:07:19Z",
     "AdminUnit": null,
     "AdminUnitUrl": null,
@@ -8766,12 +8766,12 @@
     "Latitude": 34.828072,
     "Type": "Wildfire",
     "UniqueId": "2f318308-6d04-4f05-8834-9f7cdce2383a",
-    "Url": "https://www.fire.ca.gov/incidents/2025/7/27/needles-fire-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/27/needles-fires/",
+    "ExtinguishedDate": "2025-07-26T08:00:00Z",
+    "ExtinguishedDateOnly": "2025-07-26",
     "StartedDateOnly": "2025-07-27",
-    "IsActive": true,
-    "CalFireIncident": true,
+    "IsActive": false,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
