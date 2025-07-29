@@ -8773,5 +8773,30 @@
     "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Berry Fire",
+    "Final": false,
+    "Updated": "2025-07-28T21:21:42Z",
+    "Started": "2025-07-28T21:13:31Z",
+    "AdminUnit": "United States Forest Service Six Rivers National Forest",
+    "AdminUnitUrl": null,
+    "County": "Humboldt",
+    "Location": "47000 block of Highway 36",
+    "AcresBurned": 11.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -123.5474,
+    "Latitude": 40.467519,
+    "Type": "Wildfire",
+    "UniqueId": "85815fe2-daa4-493a-bd4d-26310a62e5c3",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/28/berry-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-28",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
