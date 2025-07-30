@@ -8801,8 +8801,8 @@
   },
   {
     "Name": "19 Fire",
-    "Final": false,
-    "Updated": "2025-07-29T18:30:21Z",
+    "Final": true,
+    "Updated": "2025-07-29T21:50:16Z",
     "Started": "2025-07-29T14:53:43Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
@@ -8820,7 +8820,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-07-29",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
