@@ -7427,7 +7427,7 @@
   {
     "Name": "Orleans Complex ",
     "Final": false,
-    "Updated": "2025-07-30T08:34:17Z",
+    "Updated": "2025-07-30T12:41:11Z",
     "Started": "2025-07-09T17:39:03Z",
     "AdminUnit": "United States Forest Service: Six Rivers National Forest ",
     "AdminUnitUrl": null,
@@ -8822,6 +8822,31 @@
     "StartedDateOnly": "2025-07-29",
     "IsActive": false,
     "CalFireIncident": true,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Cosumnes Fire ",
+    "Final": false,
+    "Updated": "2025-07-30T13:03:22Z",
+    "Started": "2025-07-30T12:43:04Z",
+    "AdminUnit": "Sacramento Metropolitan Fire Department ",
+    "AdminUnitUrl": null,
+    "County": "Sacramento",
+    "Location": "Cosumnes River Blvd & Franklin Blvd, South of Parkway ",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.450554,
+    "Latitude": 38.462353,
+    "Type": "Wildfire",
+    "UniqueId": "00a1b1c1-7baf-405c-914f-615fb82b8605",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/30/cosumnes-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-30",
+    "IsActive": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
