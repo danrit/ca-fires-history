@@ -8798,5 +8798,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Turkey Fire",
+    "Final": false,
+    "Updated": "2025-07-31T14:02:25-07:00",
+    "Started": "2025-07-31T13:34:36Z",
+    "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
+    "AdminUnitUrl": null,
+    "County": "Yolo",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 40.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -122.060388,
+    "Latitude": 38.759454,
+    "Type": "Wildfire",
+    "UniqueId": "fb19fedb-52d5-450e-8aae-79339f4e7878",
+    "Url": "https://www.fire.ca.gov/incidents/2025/7/31/turkey-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-07-31",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
