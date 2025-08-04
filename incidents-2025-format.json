@@ -9173,5 +9173,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Santa Fire",
+    "Final": false,
+    "Updated": "2025-08-03T23:45:57-07:00",
+    "Started": "2025-08-03T21:09:56Z",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnitUrl": null,
+    "County": "Merced",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 30.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.966641,
+    "Latitude": 37.053702,
+    "Type": "Wildfire",
+    "UniqueId": "e66a9f93-dd3c-41bf-8a95-ec2671bd116f",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/3/santa-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-03",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
