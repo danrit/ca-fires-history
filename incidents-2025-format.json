@@ -9373,5 +9373,30 @@
     "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Bridge Fire",
+    "Final": false,
+    "Updated": "2025-08-05T00:53:41-07:00",
+    "Started": "2025-08-04T19:01:27Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 57.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.337696,
+    "Latitude": 36.733265,
+    "Type": "Wildfire",
+    "UniqueId": "632408e7-21ae-4c17-93b0-98150158978b",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/4/bridge-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-04",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
