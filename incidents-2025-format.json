@@ -7427,7 +7427,7 @@
   {
     "Name": "Orleans Complex ",
     "Final": false,
-    "Updated": "2025-08-06T07:51:22Z",
+    "Updated": "2025-08-06T22:13:02-07:00",
     "Started": "2025-07-09T17:39:03Z",
     "AdminUnit": "Unified Command: Six Rivers National Forest and Klamath National Forest",
     "AdminUnitUrl": null,
@@ -9426,8 +9426,8 @@
   },
   {
     "Name": "Calaveras Fire",
-    "Final": false,
-    "Updated": "2025-08-06T14:54:38Z",
+    "Final": true,
+    "Updated": "2025-08-06T21:52:22Z",
     "Started": "2025-08-05T15:59:19Z",
     "AdminUnit": "CAL FIRE Santa Clara Unit",
     "AdminUnitUrl": null,
@@ -9445,7 +9445,7 @@
     "ExtinguishedDate": "2025-08-06T10:02:00Z",
     "ExtinguishedDateOnly": "2025-08-06",
     "StartedDateOnly": "2025-08-05",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -9502,7 +9502,7 @@
   {
     "Name": "Pond Fire",
     "Final": false,
-    "Updated": "2025-08-06T21:14:14Z",
+    "Updated": "2025-08-06T21:29:25Z",
     "Started": "2025-08-06T15:37:37Z",
     "AdminUnit": "CAL FIRE Mendocino Unit",
     "AdminUnitUrl": null,
