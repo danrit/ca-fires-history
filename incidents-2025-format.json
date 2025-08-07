@@ -9548,5 +9548,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Van Vleck Fire",
+    "Final": false,
+    "Updated": "2025-08-06T20:33:16-07:00",
+    "Started": "2025-08-06T14:46:47Z",
+    "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
+    "AdminUnitUrl": null,
+    "County": "Sacramento",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.2,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.074404,
+    "Latitude": 38.483838,
+    "Type": "Wildfire",
+    "UniqueId": "f9818c6f-7638-4425-96ef-1ba8703c127f",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/6/van-vleck-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-06",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
