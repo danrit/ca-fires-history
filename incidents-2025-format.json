@@ -9673,5 +9673,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Philadelphia Fire",
+    "Final": false,
+    "Updated": "2025-08-08T03:01:08Z",
+    "Started": "2025-08-08T02:12:02Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Country Village Road / Philadelphia Avenue, Jurupa Valley",
+    "AcresBurned": 25.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "San Bernardino County Fire Department ",
+    "Longitude": -117.50691,
+    "Latitude": 34.033455,
+    "Type": "Wildfire",
+    "UniqueId": "f6fd378d-cb6e-429a-b871-7f9bcc82025a",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/8/philadelphia-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-08",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
