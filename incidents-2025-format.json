@@ -8952,7 +8952,7 @@
   {
     "Name": "Gifford Fire ",
     "Final": false,
-    "Updated": "2025-08-07T21:12:05Z",
+    "Updated": "2025-08-08T07:54:04Z",
     "Started": "2025-08-01T15:44:29Z",
     "AdminUnit": "Unified Command: Los Padres National Forest, Santa Barbara County Fire Department, Santa Barbara County Sheriffs Office, CAL FIRE",
     "AdminUnitUrl": null,
@@ -8962,8 +8962,8 @@
     "PercentContained": 15.0,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -120.116814,
-    "Latitude": 35.102947,
+    "Longitude": -120.097902,
+    "Latitude": 35.111258,
     "Type": "Wildfire",
     "UniqueId": "fb7c1cc7-8104-4776-b89e-fd27cb9b7be9",
     "Url": "https://www.fire.ca.gov/incidents/2025/8/1/gifford-fire/",
@@ -9627,7 +9627,7 @@
   {
     "Name": "Panoche Fire",
     "Final": false,
-    "Updated": "2025-08-08T07:01:03-07:00",
+    "Updated": "2025-08-08T07:40:39Z",
     "Started": "2025-08-07T16:10:56Z",
     "AdminUnit": "CAL FIRE San Benito-Monterey Unit",
     "AdminUnitUrl": null,
