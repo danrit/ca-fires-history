@@ -9227,7 +9227,7 @@
   {
     "Name": "Rosa Fire",
     "Final": false,
-    "Updated": "2025-08-09T07:24:58Z",
+    "Updated": "2025-08-09T15:08:14Z",
     "Started": "2025-08-04T12:27:50Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -9827,18 +9827,18 @@
   {
     "Name": "Mariposa Fire",
     "Final": false,
-    "Updated": "2025-08-09T13:48:30-07:00",
+    "Updated": "2025-08-09T14:35:49Z",
     "Started": "2025-08-09T12:17:17Z",
-    "AdminUnit": null,
+    "AdminUnit": "San Bernadino National Forest",
     "AdminUnitUrl": null,
     "County": "San Bernardino",
-    "Location": "Unknown / TBD",
+    "Location": "Santa Fe Road near Interstate 15, Cajon Pass",
     "AcresBurned": 30.0,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -117.466057,
-    "Latitude": 34.339832,
+    "Longitude": -117.477459,
+    "Latitude": 34.325756,
     "Type": "Wildfire",
     "UniqueId": "c8df0d76-a014-495f-be50-250593d901ef",
     "Url": "https://www.fire.ca.gov/incidents/2025/8/9/mariposa-fire/",
@@ -9846,7 +9846,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-08-09",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
