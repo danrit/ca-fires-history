@@ -8952,7 +8952,7 @@
   {
     "Name": "Gifford Fire ",
     "Final": false,
-    "Updated": "2025-08-08T17:51:17-07:00",
+    "Updated": "2025-08-08T21:47:43Z",
     "Started": "2025-08-01T15:44:29Z",
     "AdminUnit": "Unified Command: Los Padres National Forest, Santa Barbara County Fire Department, Santa Barbara County Sheriffs Office, CAL FIRE",
     "AdminUnitUrl": null,
@@ -8971,7 +8971,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-08-01",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   },
   {
