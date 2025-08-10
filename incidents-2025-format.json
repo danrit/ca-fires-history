@@ -8952,7 +8952,7 @@
   {
     "Name": "Gifford Fire ",
     "Final": false,
-    "Updated": "2025-08-09T19:09:23Z",
+    "Updated": "2025-08-09T20:01:32Z",
     "Started": "2025-08-01T15:44:29Z",
     "AdminUnit": "Unified Command: Los Padres National Forest, Santa Barbara County Fire Department, Santa Barbara County Sheriffs Office, CAL FIRE",
     "AdminUnitUrl": null,
@@ -9577,7 +9577,7 @@
   {
     "Name": "Canyon Fire",
     "Final": false,
-    "Updated": "2025-08-09T17:42:34-07:00",
+    "Updated": "2025-08-09T20:02:43Z",
     "Started": "2025-08-07T13:25:00Z",
     "AdminUnit": "Unified Command: Ventura County Fire Department & Los Angeles County Fire Department",
     "AdminUnitUrl": null,
@@ -9852,7 +9852,7 @@
   {
     "Name": "Arden Fire",
     "Final": false,
-    "Updated": "2025-08-09T17:15:41Z",
+    "Updated": "2025-08-09T20:16:24Z",
     "Started": "2025-08-09T14:09:57Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -9877,12 +9877,12 @@
   {
     "Name": "Richbar Fire",
     "Final": false,
-    "Updated": "2025-08-09T19:45:09-07:00",
+    "Updated": "2025-08-09T19:57:09Z",
     "Started": "2025-08-09T17:39:17Z",
-    "AdminUnit": null,
+    "AdminUnit": "Sequioa National Forest",
     "AdminUnitUrl": null,
     "County": "Kern",
-    "Location": "Unknown / TBD",
+    "Location": "Highway 178 and Upper Richbar, Lake Isabella",
     "AcresBurned": 80.0,
     "PercentContained": null,
     "ControlStatement": null,
@@ -9896,7 +9896,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-08-09",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
