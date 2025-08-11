@@ -8952,7 +8952,7 @@
   {
     "Name": "Gifford Fire ",
     "Final": false,
-    "Updated": "2025-08-11T08:29:39Z",
+    "Updated": "2025-08-11T11:38:11-07:00",
     "Started": "2025-08-01T15:44:29Z",
     "AdminUnit": "Unified Command: Los Padres National Forest, Santa Barbara County Fire Department, Santa Barbara County Sheriffs Office, CAL FIRE",
     "AdminUnitUrl": null,
@@ -9777,7 +9777,7 @@
   {
     "Name": "Tiger Fire",
     "Final": false,
-    "Updated": "2025-08-11T09:07:10Z",
+    "Updated": "2025-08-11T11:46:40Z",
     "Started": "2025-08-08T12:43:09Z",
     "AdminUnit": null,
     "AdminUnitUrl": null,
@@ -9902,12 +9902,12 @@
   {
     "Name": "Clark Fire",
     "Final": false,
-    "Updated": "2025-08-11T06:41:56-07:00",
+    "Updated": "2025-08-11T11:33:44Z",
     "Started": "2025-08-10T15:24:29Z",
     "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
     "AdminUnitUrl": null,
     "County": "Lassen",
-    "Location": "north of Loomis Cabin Road, Little Valley",
+    "Location": "North of Loomis Cabin Road, Little Valley",
     "AcresBurned": 50.7,
     "PercentContained": 15.0,
     "ControlStatement": null,
