@@ -8952,9 +8952,9 @@
   {
     "Name": "Gifford Fire ",
     "Final": false,
-    "Updated": "2025-08-12T05:48:17-07:00",
+    "Updated": "2025-08-12T07:57:06Z",
     "Started": "2025-08-01T15:44:29Z",
-    "AdminUnit": "Unified Command: Los Padres National Forest, Santa Barbara County Fire Department, Santa Barbara County Sheriffs Office, CAL FIRE",
+    "AdminUnit": "Unified Command: Los Padres National Forest, San Luis Obispo County Sheriff's Office, CAL FIRE",
     "AdminUnitUrl": null,
     "County": "San Luis Obispo, Santa Barbara",
     "Location": "Highway 166, Northeast of Santa Maria",
@@ -9227,7 +9227,7 @@
   {
     "Name": "Rosa Fire",
     "Final": false,
-    "Updated": "2025-08-12T05:54:49-07:00",
+    "Updated": "2025-08-12T07:57:12Z",
     "Started": "2025-08-04T12:27:50Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -9877,7 +9877,7 @@
   {
     "Name": "Richbar Fire",
     "Final": false,
-    "Updated": "2025-08-11T22:09:51-07:00",
+    "Updated": "2025-08-12T07:17:22Z",
     "Started": "2025-08-09T17:39:17Z",
     "AdminUnit": "Sequioa National Forest",
     "AdminUnitUrl": null,
