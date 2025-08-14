@@ -10048,5 +10048,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Preston Fire",
+    "Final": false,
+    "Updated": "2025-08-14T01:51:28-07:00",
+    "Started": "2025-08-13T23:32:41Z",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnitUrl": null,
+    "County": "Mariposa",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 12.7,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.97478,
+    "Latitude": 37.257358,
+    "Type": "Wildfire",
+    "UniqueId": "a28bd151-9463-4ea3-8a4f-d6e720f01c60",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/13/preston-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-13",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
