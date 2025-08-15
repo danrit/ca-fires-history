@@ -9551,8 +9551,8 @@
   },
   {
     "Name": "Canyon Fire",
-    "Final": false,
-    "Updated": "2025-08-14T17:01:51Z",
+    "Final": true,
+    "Updated": "2025-08-14T21:58:18Z",
     "Started": "2025-08-07T13:25:00Z",
     "AdminUnit": "Unified Command: Ventura County Fire Department & Los Angeles County Fire Department",
     "AdminUnitUrl": null,
@@ -9570,7 +9570,7 @@
     "ExtinguishedDate": "2025-08-14T05:52:00Z",
     "ExtinguishedDateOnly": "2025-08-14",
     "StartedDateOnly": "2025-08-07",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -9901,8 +9901,8 @@
   },
   {
     "Name": "Clark Fire",
-    "Final": false,
-    "Updated": "2025-08-14T17:02:34Z",
+    "Final": true,
+    "Updated": "2025-08-14T21:58:34Z",
     "Started": "2025-08-10T15:24:29Z",
     "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
     "AdminUnitUrl": null,
@@ -9920,7 +9920,7 @@
     "ExtinguishedDate": "2025-08-14T08:15:00Z",
     "ExtinguishedDateOnly": "2025-08-14",
     "StartedDateOnly": "2025-08-10",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -10051,8 +10051,8 @@
   },
   {
     "Name": "Preston Fire",
-    "Final": false,
-    "Updated": "2025-08-14T17:04:01Z",
+    "Final": true,
+    "Updated": "2025-08-14T21:58:47Z",
     "Started": "2025-08-13T23:32:41Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
@@ -10070,7 +10070,7 @@
     "ExtinguishedDate": "2025-08-14T01:00:00Z",
     "ExtinguishedDateOnly": "2025-08-14",
     "StartedDateOnly": "2025-08-13",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -10102,7 +10102,7 @@
   {
     "Name": "Hawk Fire",
     "Final": false,
-    "Updated": "2025-08-14T19:01:45-07:00",
+    "Updated": "2025-08-14T21:17:34Z",
     "Started": "2025-08-14T15:03:15Z",
     "AdminUnit": "Los Angeles County Fire Department",
     "AdminUnitUrl": null,
@@ -10127,7 +10127,7 @@
   {
     "Name": "Heather Fire",
     "Final": false,
-    "Updated": "2025-08-14T19:07:38Z",
+    "Updated": "2025-08-14T21:42:13Z",
     "Started": "2025-08-14T15:58:27Z",
     "AdminUnit": "CAL FIRE Siskiyou Unit",
     "AdminUnitUrl": null,
