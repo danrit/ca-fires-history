@@ -8927,7 +8927,7 @@
   {
     "Name": "Gifford Fire ",
     "Final": false,
-    "Updated": "2025-08-16T05:49:53-07:00",
+    "Updated": "2025-08-16T09:25:20Z",
     "Started": "2025-08-01T15:44:29Z",
     "AdminUnit": "Unified Command: Los Padres National Forest, San Luis Obispo County Sheriff's Office, CAL FIRE",
     "AdminUnitUrl": null,
@@ -9177,7 +9177,7 @@
   {
     "Name": "Rosa Fire",
     "Final": false,
-    "Updated": "2025-08-13T09:15:45Z",
+    "Updated": "2025-08-16T09:25:29Z",
     "Started": "2025-08-04T12:27:50Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -10127,7 +10127,7 @@
   {
     "Name": "Heather Fire",
     "Final": false,
-    "Updated": "2025-08-16T06:25:34Z",
+    "Updated": "2025-08-16T09:25:37Z",
     "Started": "2025-08-14T15:58:27Z",
     "AdminUnit": "CAL FIRE Siskiyou Unit",
     "AdminUnitUrl": null,
@@ -10136,7 +10136,7 @@
     "AcresBurned": 240.0,
     "PercentContained": 75.0,
     "ControlStatement": null,
-    "AgencyNames": "South Yreka Fire Protection District, Copco Lake Fire Protection District, Yreka City Fire Department, Montague Fire Department and Klamath National Forest.",
+    "AgencyNames": "",
     "Longitude": -122.4019,
     "Latitude": 41.932642,
     "Type": "Wildfire",
