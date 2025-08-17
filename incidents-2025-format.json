@@ -7402,7 +7402,7 @@
   {
     "Name": "Orleans Complex ",
     "Final": false,
-    "Updated": "2025-08-14T22:11:13-07:00",
+    "Updated": "2025-08-14T22:11:13Z",
     "Started": "2025-07-09T17:39:03Z",
     "AdminUnit": "Unified Command: Six Rivers National Forest and Klamath National Forest",
     "AdminUnitUrl": null,
@@ -8927,7 +8927,7 @@
   {
     "Name": "Gifford Fire ",
     "Final": false,
-    "Updated": "2025-08-16T22:13:38-07:00",
+    "Updated": "2025-08-16T22:13:38Z",
     "Started": "2025-08-01T15:44:29Z",
     "AdminUnit": "Unified Command: Los Padres National Forest, San Luis Obispo County Sheriff's Office, CAL FIRE",
     "AdminUnitUrl": null,
@@ -9152,7 +9152,7 @@
   {
     "Name": "Gold Fire",
     "Final": false,
-    "Updated": "2025-08-16T17:57:04-07:00",
+    "Updated": "2025-08-16T17:57:04Z",
     "Started": "2025-08-04T09:23:02Z",
     "AdminUnit": "United States Forest Service",
     "AdminUnitUrl": null,
@@ -9752,7 +9752,7 @@
   {
     "Name": "Tiger Fire",
     "Final": false,
-    "Updated": "2025-08-16T07:01:04-07:00",
+    "Updated": "2025-08-16T07:01:04Z",
     "Started": "2025-08-08T12:43:09Z",
     "AdminUnit": null,
     "AdminUnitUrl": null,
@@ -9852,7 +9852,7 @@
   {
     "Name": "Richbar Fire",
     "Final": false,
-    "Updated": "2025-08-16T22:13:31-07:00",
+    "Updated": "2025-08-16T22:13:31Z",
     "Started": "2025-08-09T17:39:17Z",
     "AdminUnit": "Sequioa National Forest",
     "AdminUnitUrl": null,
@@ -9927,7 +9927,7 @@
   {
     "Name": "Mountain Fire",
     "Final": false,
-    "Updated": "2025-08-16T16:50:42-07:00",
+    "Updated": "2025-08-16T16:50:42Z",
     "Started": "2025-08-11T16:39:39Z",
     "AdminUnit": "Modoc National Forest ",
     "AdminUnitUrl": null,
@@ -10077,7 +10077,7 @@
   {
     "Name": "King Fire",
     "Final": false,
-    "Updated": "2025-08-16T17:16:49-07:00",
+    "Updated": "2025-08-16T17:16:49Z",
     "Started": "2025-08-14T01:04:01Z",
     "AdminUnit": "Unified Command: Los Angeles County Fire Department and Angeles National Forest ",
     "AdminUnitUrl": null,
@@ -10102,7 +10102,7 @@
   {
     "Name": "Hawk Fire",
     "Final": false,
-    "Updated": "2025-08-16T17:32:57-07:00",
+    "Updated": "2025-08-16T17:32:57Z",
     "Started": "2025-08-14T15:03:15Z",
     "AdminUnit": "Los Angeles County Fire Department",
     "AdminUnitUrl": null,
