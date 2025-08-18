@@ -10198,5 +10198,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Carlos Fire",
+    "Final": false,
+    "Updated": "2025-08-18T16:03:55-07:00",
+    "Started": "2025-08-18T14:04:22Z",
+    "AdminUnit": "CAL FIRE San Luis Obispo Unit",
+    "AdminUnitUrl": null,
+    "County": "San Luis Obispo",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 40.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.66952,
+    "Latitude": 35.453419,
+    "Type": "Wildfire",
+    "UniqueId": "fa144dab-4ddd-45f8-83b6-1a90f50d67b3",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/18/carlos-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-18",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
