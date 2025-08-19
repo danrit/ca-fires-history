@@ -10077,7 +10077,7 @@
   {
     "Name": "King Fire",
     "Final": false,
-    "Updated": "2025-08-18T16:47:08-07:00",
+    "Updated": "2025-08-18T16:47:08Z",
     "Started": "2025-08-14T01:04:01Z",
     "AdminUnit": "Unified Command: Los Angeles County Fire Department and Angeles National Forest ",
     "AdminUnitUrl": null,
@@ -10102,7 +10102,7 @@
   {
     "Name": "Hawk Fire",
     "Final": false,
-    "Updated": "2025-08-18T17:36:22-07:00",
+    "Updated": "2025-08-18T17:36:22Z",
     "Started": "2025-08-14T15:03:15Z",
     "AdminUnit": "Los Angeles County Fire Department",
     "AdminUnitUrl": null,
@@ -10202,7 +10202,7 @@
   {
     "Name": "Carlos Fire",
     "Final": false,
-    "Updated": "2025-08-18T16:54:09-07:00",
+    "Updated": "2025-08-18T16:54:09Z",
     "Started": "2025-08-18T14:04:22Z",
     "AdminUnit": "CAL FIRE San Luis Obispo Unit",
     "AdminUnitUrl": null,
