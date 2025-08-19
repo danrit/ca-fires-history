@@ -8927,7 +8927,7 @@
   {
     "Name": "Gifford Fire ",
     "Final": false,
-    "Updated": "2025-08-18T21:01:28Z",
+    "Updated": "2025-08-19T06:23:51Z",
     "Started": "2025-08-01T15:44:29Z",
     "AdminUnit": "Unified Command: Los Padres National Forest, San Luis Obispo County Sheriff's Office, CAL FIRE",
     "AdminUnitUrl": null,
@@ -10102,7 +10102,7 @@
   {
     "Name": "Hawk Fire",
     "Final": false,
-    "Updated": "2025-08-18T17:36:22Z",
+    "Updated": "2025-08-19T06:34:45Z",
     "Started": "2025-08-14T15:03:15Z",
     "AdminUnit": "Los Angeles County Fire Department",
     "AdminUnitUrl": null,
@@ -10112,8 +10112,8 @@
     "PercentContained": 98.0,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -118.2291,
-    "Latitude": 34.52926,
+    "Longitude": -118.22721147,
+    "Latitude": 34.53142583,
     "Type": "Wildfire",
     "UniqueId": "33ce048a-b003-4336-a9ee-fa2d9511d760",
     "Url": "https://www.fire.ca.gov/incidents/2025/8/14/hawk-fire/",
