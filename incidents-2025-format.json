@@ -8927,9 +8927,9 @@
   {
     "Name": "Gifford Fire ",
     "Final": false,
-    "Updated": "2025-08-19T06:23:51Z",
+    "Updated": "2025-08-19T08:05:58Z",
     "Started": "2025-08-01T15:44:29Z",
-    "AdminUnit": "Unified Command: Los Padres National Forest, San Luis Obispo County Sheriff's Office, CAL FIRE",
+    "AdminUnit": "Los Padres National Forest",
     "AdminUnitUrl": null,
     "County": "San Luis Obispo, Santa Barbara",
     "Location": "Highway 166, Northeast of Santa Maria",
@@ -8946,7 +8946,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-08-01",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
