@@ -10223,5 +10223,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Vineyard Fire",
+    "Final": false,
+    "Updated": "2025-08-19T21:01:33-07:00",
+    "Started": "2025-08-19T20:08:35Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Madera",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.140056,
+    "Latitude": 36.865734,
+    "Type": "Wildfire",
+    "UniqueId": "d94d8f86-a05c-4a9f-a309-cd5f7823a656",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/19/vineyard-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-19",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
