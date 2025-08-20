@@ -10248,5 +10248,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Coyote Fire",
+    "Final": false,
+    "Updated": "2025-08-20T16:00:02Z",
+    "Started": "2025-08-20T14:16:37Z",
+    "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
+    "AdminUnitUrl": null,
+    "County": "El Dorado",
+    "Location": "Coyoteville Lane & Cedar Creek Road, Somerset",
+    "AcresBurned": 38.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.674303,
+    "Latitude": 38.551454,
+    "Type": "Wildfire",
+    "UniqueId": "c70ae143-c751-48fe-a10a-f1c0347c3bd6",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/20/coyote-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-20",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
