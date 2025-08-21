@@ -10101,8 +10101,8 @@
   },
   {
     "Name": "Hawk Fire",
-    "Final": false,
-    "Updated": "2025-08-20T14:57:38Z",
+    "Final": true,
+    "Updated": "2025-08-20T22:00:14Z",
     "Started": "2025-08-14T15:03:15Z",
     "AdminUnit": "Los Angeles County Fire Department",
     "AdminUnitUrl": null,
@@ -10120,7 +10120,7 @@
     "ExtinguishedDate": "2025-08-20T13:52:00Z",
     "ExtinguishedDateOnly": "2025-08-20",
     "StartedDateOnly": "2025-08-14",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
