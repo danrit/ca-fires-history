@@ -9152,7 +9152,7 @@
   {
     "Name": "Gold Fire",
     "Final": false,
-    "Updated": "2025-08-19T09:30:08Z",
+    "Updated": "2025-08-21T09:35:45Z",
     "Started": "2025-08-04T09:23:02Z",
     "AdminUnit": "San Bernardino National Forest",
     "AdminUnitUrl": null,
@@ -9171,15 +9171,15 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-08-04",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
     "Name": "Rosa Fire",
     "Final": false,
-    "Updated": "2025-08-19T09:27:15Z",
+    "Updated": "2025-08-21T09:35:06Z",
     "Started": "2025-08-04T12:27:50Z",
-    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnit": "San Bernardino National Forest ",
     "AdminUnitUrl": null,
     "County": "Riverside",
     "Location": " Highway 74, Mountain Center Community",
@@ -9196,7 +9196,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-08-04",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
