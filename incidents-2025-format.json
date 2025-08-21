@@ -10298,5 +10298,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Pickett Fire",
+    "Final": false,
+    "Updated": "2025-08-21T16:08:21Z",
+    "Started": "2025-08-21T14:57:11Z",
+    "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
+    "AdminUnitUrl": null,
+    "County": "Napa",
+    "Location": "2343 Picket Road, Calistoga North ",
+    "AcresBurned": 60.0,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -122.550064,
+    "Latitude": 38.591983,
+    "Type": "Wildfire",
+    "UniqueId": "5b4fef80-5eca-4bc6-acae-02aa42a7a18b",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/21/pickett-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-21",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
