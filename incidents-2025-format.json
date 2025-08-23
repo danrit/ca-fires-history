@@ -10302,7 +10302,7 @@
   {
     "Name": "Pickett Fire",
     "Final": false,
-    "Updated": "2025-08-23T08:57:33-07:00",
+    "Updated": "2025-08-23T10:04:45Z",
     "Started": "2025-08-21T14:57:11Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -10422,6 +10422,31 @@
     "StartedDateOnly": "2025-08-22",
     "IsActive": true,
     "CalFireIncident": false,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Vail Fire",
+    "Final": false,
+    "Updated": "2025-08-23T10:06:52-07:00",
+    "Started": "2025-08-23T08:30:34Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Near Vail Lake Dam, north of Highway 79S, northeast of Temecula ",
+    "AcresBurned": 25.0,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "Murrieta Fire Department; Hemet Fire Department; Pechanga Fire Department",
+    "Longitude": -116.980426,
+    "Latitude": 33.491489,
+    "Type": "Wildfire",
+    "UniqueId": "6b986ba9-e86a-4c6d-8de5-8c44228793f8",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/23/vail-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-23",
+    "IsActive": true,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
