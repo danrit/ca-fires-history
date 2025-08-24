@@ -10573,30 +10573,5 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
-  },
-  {
-    "Name": "De Portola Rd / Pauba Rd Fire",
-    "Final": false,
-    "Updated": "2025-08-24T00:53:32Z",
-    "Started": "2025-08-23T08:31:14Z",
-    "AdminUnit": "CAL FIRE Riverside Unit",
-    "AdminUnitUrl": null,
-    "County": "Riverside",
-    "Location": "37000 De Portola Road & Pauba Road",
-    "AcresBurned": 55.0,
-    "PercentContained": null,
-    "ControlStatement": null,
-    "AgencyNames": "",
-    "Longitude": -117.022849,
-    "Latitude": 33.505329,
-    "Type": "Wildfire",
-    "UniqueId": "d57a0f8b-4d56-4e88-a863-fb76d889311d",
-    "Url": "https://www.fire.ca.gov/incidents/2025/8/23/de-portola-rd-pauba-rd-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
-    "StartedDateOnly": "2025-08-23",
-    "IsActive": true,
-    "CalFireIncident": true,
-    "NotificationDesired": false
   }
 ]
