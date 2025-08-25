@@ -10773,5 +10773,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "R-10 Fire",
+    "Final": false,
+    "Updated": "2025-08-25T15:06:21-07:00",
+    "Started": "2025-08-25T12:23:56Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Lassen",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 100.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.24025,
+    "Latitude": 40.678028,
+    "Type": "Wildfire",
+    "UniqueId": "99c6e291-683f-4922-88b8-deb713154b5e",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/25/r-10-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-25",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
