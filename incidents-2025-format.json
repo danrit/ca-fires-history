@@ -10852,9 +10852,9 @@
   {
     "Name": "Dillon Fire",
     "Final": false,
-    "Updated": "2025-08-25T20:19:00Z",
+    "Updated": "2025-08-25T20:43:38Z",
     "Started": "2025-08-25T18:24:33Z",
-    "AdminUnit": "Unified Command: Six Rivers National Forest and CAL FIRE Siskiyou Unit",
+    "AdminUnit": "Six Rivers National Forest",
     "AdminUnitUrl": null,
     "County": "Siskiyou",
     "Location": "Dillion Mountain, 10 miles north of Somes Bar",
@@ -10872,6 +10872,31 @@
     "StartedDateOnly": "2025-08-25",
     "IsActive": true,
     "CalFireIncident": false,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "3-22 Fire",
+    "Final": false,
+    "Updated": "2025-08-25T20:45:01Z",
+    "Started": "2025-08-25T19:56:05Z",
+    "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
+    "AdminUnitUrl": null,
+    "County": "Lassen",
+    "Location": "South of Third Butte and Muck Valley Road, North of Little Valley",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.227729,
+    "Latitude": 40.97749,
+    "Type": "Wildfire",
+    "UniqueId": "23e74ed4-dda9-4762-bbcf-3e7a339758c0",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/25/3-22-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-25",
+    "IsActive": true,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
