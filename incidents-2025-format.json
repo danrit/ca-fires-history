@@ -10998,5 +10998,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "3-27 Fire",
+    "Final": false,
+    "Updated": "2025-08-26T16:42:58-07:00",
+    "Started": "2025-08-26T15:24:02Z",
+    "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
+    "AdminUnitUrl": null,
+    "County": "Lassen",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.057196,
+    "Latitude": 41.088854,
+    "Type": "Wildfire",
+    "UniqueId": "270ab2cc-1c68-4ffc-a7b2-5990bebe1de6",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/26/3-27-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-26",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
