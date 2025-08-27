@@ -9152,7 +9152,7 @@
   {
     "Name": "Gold Fire",
     "Final": false,
-    "Updated": "2025-08-25T19:21:17Z",
+    "Updated": "2025-08-27T09:43:55Z",
     "Started": "2025-08-04T09:23:02Z",
     "AdminUnit": "San Bernardino National Forest",
     "AdminUnitUrl": null,
@@ -9170,7 +9170,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-08-04",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -10852,7 +10852,7 @@
   {
     "Name": "Dillon Fire",
     "Final": false,
-    "Updated": "2025-08-27T06:31:01-07:00",
+    "Updated": "2025-08-27T10:03:07Z",
     "Started": "2025-08-25T18:24:33Z",
     "AdminUnit": "Six Rivers National Forest",
     "AdminUnitUrl": null,
@@ -10927,7 +10927,7 @@
   {
     "Name": "Peak Fire",
     "Final": false,
-    "Updated": "2025-08-26T22:10:03-07:00",
+    "Updated": "2025-08-27T09:59:46Z",
     "Started": "2025-08-25T15:30:36Z",
     "AdminUnit": "Shasta-Trinity National Forest ",
     "AdminUnitUrl": null,
