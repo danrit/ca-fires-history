@@ -8927,7 +8927,7 @@
   {
     "Name": "Gifford Fire ",
     "Final": false,
-    "Updated": "2025-08-27T08:27:56Z",
+    "Updated": "2025-08-27T13:01:27Z",
     "Started": "2025-08-01T15:44:29Z",
     "AdminUnit": "Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -10402,7 +10402,7 @@
   {
     "Name": "Little Fire",
     "Final": false,
-    "Updated": "2025-08-27T10:49:17Z",
+    "Updated": "2025-08-27T12:54:44Z",
     "Started": "2025-08-22T15:03:00Z",
     "AdminUnit": "Sequoia National Forest",
     "AdminUnitUrl": null,
@@ -10777,13 +10777,13 @@
   {
     "Name": "SKU Late August Lightning Complex",
     "Final": false,
-    "Updated": "2025-08-26T22:10:43-07:00",
+    "Updated": "2025-08-27T13:07:52Z",
     "Started": "2025-08-25T08:00:00Z",
     "AdminUnit": "CAL FIRE Siskiyou Unit",
     "AdminUnitUrl": null,
     "County": "Siskiyou",
     "Location": "SKU Unit Headquarters",
-    "AcresBurned": 119.1,
+    "AcresBurned": 113.0,
     "PercentContained": 50.0,
     "ControlStatement": null,
     "AgencyNames": "",
