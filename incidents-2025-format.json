@@ -11198,5 +11198,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Hutton Fire",
+    "Final": false,
+    "Updated": "2025-08-28T14:44:34Z",
+    "Started": "2025-08-28T13:38:57Z",
+    "AdminUnit": "CAL FIRE San Luis Obispo Unit",
+    "AdminUnitUrl": null,
+    "County": "San Luis Obispo",
+    "Location": "Highway 166 & Santa Maria River, Santa Maria",
+    "AcresBurned": 13.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.437696,
+    "Latitude": 34.990911,
+    "Type": "Wildfire",
+    "UniqueId": "4782d694-390c-4f8a-8e9f-d34cb123216b",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/28/hutton-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-28",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
