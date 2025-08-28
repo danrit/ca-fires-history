@@ -10302,12 +10302,12 @@
   {
     "Name": "Pickett Fire",
     "Final": false,
-    "Updated": "2025-08-28T09:19:42Z",
+    "Updated": "2025-08-28T11:25:02Z",
     "Started": "2025-08-21T14:57:11Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
     "County": "Napa",
-    "Location": "2343 Pickett Road, Calistoga North ",
+    "Location": "Pickett Road East of Silverado Trail, Calistoga ",
     "AcresBurned": 6803.0,
     "PercentContained": 33.0,
     "ControlStatement": null,
@@ -10402,7 +10402,7 @@
   {
     "Name": "Little Fire",
     "Final": false,
-    "Updated": "2025-08-28T07:55:14Z",
+    "Updated": "2025-08-28T12:04:39Z",
     "Started": "2025-08-22T15:03:00Z",
     "AdminUnit": "Sequoia National Forest",
     "AdminUnitUrl": null,
@@ -10627,7 +10627,7 @@
   {
     "Name": "Garnet Fire",
     "Final": false,
-    "Updated": "2025-08-28T05:53:52-07:00",
+    "Updated": "2025-08-28T11:48:36Z",
     "Started": "2025-08-24T14:13:05Z",
     "AdminUnit": "Sierra National Forest",
     "AdminUnitUrl": null,
