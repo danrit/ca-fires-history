@@ -10302,7 +10302,7 @@
   {
     "Name": "Pickett Fire",
     "Final": false,
-    "Updated": "2025-08-29T19:27:51Z",
+    "Updated": "2025-08-30T10:06:13Z",
     "Started": "2025-08-21T14:57:11Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -10852,13 +10852,13 @@
   {
     "Name": "Dillon Fire",
     "Final": false,
-    "Updated": "2025-08-29T13:08:22Z",
+    "Updated": "2025-08-30T09:23:05Z",
     "Started": "2025-08-25T18:24:33Z",
     "AdminUnit": "Six Rivers National Forest",
     "AdminUnitUrl": null,
     "County": "Siskiyou",
     "Location": "Dillion Mountain, 10 miles north of Somes Bar",
-    "AcresBurned": 4016.0,
+    "AcresBurned": 4922.0,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -11277,7 +11277,7 @@
   {
     "Name": "Peter Fire",
     "Final": false,
-    "Updated": "2025-08-30T06:48:00-07:00",
+    "Updated": "2025-08-30T09:52:32Z",
     "Started": "2025-08-29T12:06:45Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -11352,7 +11352,7 @@
   {
     "Name": "Scott Fire",
     "Final": false,
-    "Updated": "2025-08-30T08:17:15Z",
+    "Updated": "2025-08-30T09:50:04Z",
     "Started": "2025-08-29T16:41:57Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
