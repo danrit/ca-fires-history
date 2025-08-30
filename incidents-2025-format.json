@@ -11423,5 +11423,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Coach Fire",
+    "Final": false,
+    "Updated": "2025-08-30T13:46:13Z",
+    "Started": "2025-08-30T11:30:38Z",
+    "AdminUnit": "CAL FIRE San Benito-Monterey Unit",
+    "AdminUnitUrl": null,
+    "County": "Monterey",
+    "Location": "Old Stage Road and San Juan Canyon Road, French Canyon",
+    "AcresBurned": 12.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.561084,
+    "Latitude": 36.805649,
+    "Type": "Wildfire",
+    "UniqueId": "814f890b-75ab-443d-9cdf-badffd41e9f9",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/30/coach-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-30",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
