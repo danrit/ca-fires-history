@@ -11473,5 +11473,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Baldwin Fire",
+    "Final": false,
+    "Updated": "2025-08-31T04:10:18-07:00",
+    "Started": "2025-08-31T03:34:14Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 11.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.468349,
+    "Latitude": 33.971615,
+    "Type": "Wildfire",
+    "UniqueId": "f1492e8f-a7ba-4493-91ec-d9d460518573",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/31/baldwin-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-31",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
