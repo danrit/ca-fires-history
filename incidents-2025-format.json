@@ -11498,5 +11498,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "R-3 Fire",
+    "Final": false,
+    "Updated": "2025-08-31T15:00:57-07:00",
+    "Started": "2025-08-24T11:47:11Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Lassen",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 145.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.477333,
+    "Latitude": 40.435833,
+    "Type": "Wildfire",
+    "UniqueId": "102b9e4a-8ab8-439f-99af-f05caa240298",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/24/r-3-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-24",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
