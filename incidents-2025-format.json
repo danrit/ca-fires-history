@@ -11548,5 +11548,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "S-14 Fire",
+    "Final": false,
+    "Updated": "2025-09-01T05:05:13-07:00",
+    "Started": "2025-09-01T00:55:45Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Modoc",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 50.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.115829,
+    "Latitude": 41.317155,
+    "Type": "Wildfire",
+    "UniqueId": "9e256520-38d3-4c92-84f5-d09ca04fcd94",
+    "Url": "https://www.fire.ca.gov/incidents/2025/9/1/s-14-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-09-01",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
