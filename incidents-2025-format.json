@@ -11598,5 +11598,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Kibbie Fire",
+    "Final": false,
+    "Updated": "2025-09-01T12:57:02-07:00",
+    "Started": "2025-08-26T15:35:32Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Tuolumne",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 13.4,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.825562,
+    "Latitude": 38.02692,
+    "Type": "Wildfire",
+    "UniqueId": "717fbc19-c59b-4e59-ab00-bfd9d28006ef",
+    "Url": "https://www.fire.ca.gov/incidents/2025/8/26/kibbie-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-08-26",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
