@@ -11748,5 +11748,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Fuel Fire",
+    "Final": false,
+    "Updated": "2025-09-01T22:39:45-07:00",
+    "Started": "2025-09-01T17:22:27Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.1,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.472565,
+    "Latitude": 37.044697,
+    "Type": "Wildfire",
+    "UniqueId": "178b7844-a934-45b4-8f9a-e83dda369eaf",
+    "Url": "https://www.fire.ca.gov/incidents/2025/9/1/fuel-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-09-01",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
