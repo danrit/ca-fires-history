@@ -12423,5 +12423,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "F22 Fire",
+    "Final": false,
+    "Updated": "2025-09-03T03:48:18-07:00",
+    "Started": "2025-09-02T08:45:47Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.349833,
+    "Latitude": 35.944667,
+    "Type": "Wildfire",
+    "UniqueId": "bb9b7499-20f7-4511-879f-b9b14c82f146",
+    "Url": "https://www.fire.ca.gov/incidents/2025/9/2/f22-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-09-02",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
