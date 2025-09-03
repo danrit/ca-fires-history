@@ -12402,13 +12402,13 @@
   {
     "Name": "Marmon Fire",
     "Final": false,
-    "Updated": "2025-09-02T23:38:39Z",
+    "Updated": "2025-09-03T01:52:02Z",
     "Started": "2025-09-02T23:35:42Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
     "County": "Fresno",
     "Location": "South Lassen Ave and Marmon Ave, North of Huron",
-    "AcresBurned": 300.0,
+    "AcresBurned": 2248.0,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -12421,7 +12421,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-02",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
