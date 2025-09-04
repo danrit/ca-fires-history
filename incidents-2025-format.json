@@ -11901,8 +11901,8 @@
   },
   {
     "Name": "Rock Fire",
-    "Final": false,
-    "Updated": "2025-09-03T17:09:03Z",
+    "Final": true,
+    "Updated": "2025-09-03T23:23:45Z",
     "Started": "2025-09-02T06:47:34Z",
     "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
     "AdminUnitUrl": null,
@@ -11920,7 +11920,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-02",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
