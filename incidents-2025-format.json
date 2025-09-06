@@ -11977,7 +11977,7 @@
   {
     "Name": "Pyrite Fire",
     "Final": false,
-    "Updated": "2025-09-06T11:06:07Z",
+    "Updated": "2025-09-06T11:53:01Z",
     "Started": "2025-09-05T17:19:31Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -12027,7 +12027,7 @@
   {
     "Name": "2-7 Fire",
     "Final": false,
-    "Updated": "2025-09-06T09:17:45Z",
+    "Updated": "2025-09-06T11:12:19Z",
     "Started": "2025-09-02T06:30:00Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit ",
     "AdminUnitUrl": null,
@@ -12377,7 +12377,7 @@
   {
     "Name": "Granite Fire",
     "Final": false,
-    "Updated": "2025-09-06T07:43:14Z",
+    "Updated": "2025-09-06T12:00:41Z",
     "Started": "2025-09-02T22:21:36Z",
     "AdminUnit": "CAL FIRE Butte Unit",
     "AdminUnitUrl": null,
@@ -12627,7 +12627,7 @@
   {
     "Name": "Lodge Fire",
     "Final": false,
-    "Updated": "2025-09-06T11:00:38Z",
+    "Updated": "2025-09-06T11:58:47Z",
     "Started": "2025-09-05T14:01:39Z",
     "AdminUnit": "US Fish and Wildlife Service",
     "AdminUnitUrl": null,
@@ -12677,13 +12677,13 @@
   {
     "Name": "Springs Fire",
     "Final": false,
-    "Updated": "2025-09-06T11:03:12-07:00",
+    "Updated": "2025-09-06T12:05:48Z",
     "Started": "2025-09-05T11:03:37Z",
     "AdminUnit": null,
     "AdminUnitUrl": null,
     "County": "San Bernardino",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 37.0,
+    "Location": "Hot Springs Trail and Bowen Ranch Road, Apple Valley",
+    "AcresBurned": 33.0,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
