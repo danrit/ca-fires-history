@@ -11702,7 +11702,7 @@
   {
     "Name": "Root Fire",
     "Final": false,
-    "Updated": "2025-09-05T10:24:00Z",
+    "Updated": "2025-09-06T11:10:14Z",
     "Started": "2025-09-01T12:34:02Z",
     "AdminUnit": "Shasta Trinity National Forest",
     "AdminUnitUrl": null,
@@ -11952,7 +11952,7 @@
   {
     "Name": "Salt 14-2 Fire",
     "Final": false,
-    "Updated": "2025-09-06T10:02:55Z",
+    "Updated": "2025-09-06T10:52:09Z",
     "Started": "2025-09-02T03:00:54Z",
     "AdminUnit": "Unified Command: CAL FIRE Fresno-Kings Unit, Fresno County Sheriff, Monterey County Sheriff",
     "AdminUnitUrl": null,
@@ -11977,7 +11977,7 @@
   {
     "Name": "Pyrite Fire",
     "Final": false,
-    "Updated": "2025-09-06T10:09:27Z",
+    "Updated": "2025-09-06T11:06:07Z",
     "Started": "2025-09-05T17:19:31Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -12627,12 +12627,12 @@
   {
     "Name": "Lodge Fire",
     "Final": false,
-    "Updated": "2025-09-06T10:08:18Z",
+    "Updated": "2025-09-06T11:00:38Z",
     "Started": "2025-09-05T14:01:39Z",
-    "AdminUnit": "CAL FIRE San Diego Unit",
+    "AdminUnit": "US Fish and Wildlife Service",
     "AdminUnitUrl": null,
     "County": "San Diego",
-    "Location": "Jamacha Blvd and Double Tree Road, Spring Valley, CA",
+    "Location": "Jamacha Boulevard and Double Tree Road, Spring Valley",
     "AcresBurned": 75.0,
     "PercentContained": 35.0,
     "ControlStatement": null,
@@ -12646,7 +12646,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-05",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
@@ -12672,6 +12672,31 @@
     "StartedDateOnly": "2025-08-25",
     "IsActive": true,
     "CalFireIncident": false,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Springs Fire",
+    "Final": false,
+    "Updated": "2025-09-06T11:03:12-07:00",
+    "Started": "2025-09-05T11:03:37Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 37.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.16674,
+    "Latitude": 34.361588,
+    "Type": "Wildfire",
+    "UniqueId": "6289cfc9-cacf-4db5-94a0-0b8b7e8f8895",
+    "Url": "https://www.fire.ca.gov/incidents/2025/9/5/springs-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-09-05",
+    "IsActive": true,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
