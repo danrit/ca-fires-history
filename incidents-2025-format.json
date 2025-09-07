@@ -11802,14 +11802,14 @@
   {
     "Name": "6-5 Fire",
     "Final": false,
-    "Updated": "2025-09-06T20:21:31Z",
+    "Updated": "2025-09-07T07:38:42Z",
     "Started": "2025-09-02T20:23:27Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
     "County": "Tuolumne",
     "Location": "North of Don Pedro Overlook Trail and Old Pedro Road, near Red Hills",
     "AcresBurned": 7069.5,
-    "PercentContained": 25.0,
+    "PercentContained": 40.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -120.437333,
@@ -12277,7 +12277,7 @@
   {
     "Name": "TCU September Lightning Complex ",
     "Final": false,
-    "Updated": "2025-09-07T06:35:16-07:00",
+    "Updated": "2025-09-07T07:33:44Z",
     "Started": "2025-09-02T16:05:03Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -12302,7 +12302,7 @@
   {
     "Name": "2-2 Fire",
     "Final": false,
-    "Updated": "2025-09-06T19:56:21Z",
+    "Updated": "2025-09-07T07:33:51Z",
     "Started": "2025-09-02T20:53:55Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras County",
     "AdminUnitUrl": null,
@@ -12327,7 +12327,7 @@
   {
     "Name": "2-8 Fire",
     "Final": false,
-    "Updated": "2025-09-06T20:04:00Z",
+    "Updated": "2025-09-07T07:33:59Z",
     "Started": "2025-09-02T20:59:41Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -12477,7 +12477,7 @@
   {
     "Name": "6-2 Fire",
     "Final": false,
-    "Updated": "2025-09-06T20:17:30Z",
+    "Updated": "2025-09-07T07:56:14Z",
     "Started": "2025-09-02T13:44:00Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -12552,7 +12552,7 @@
   {
     "Name": "2-3 Fire",
     "Final": false,
-    "Updated": "2025-09-06T19:56:23Z",
+    "Updated": "2025-09-07T07:45:45Z",
     "Started": "2025-09-02T08:00:00Z",
     "AdminUnit": "CAL FIRE Tuolumne Calaveras Unit",
     "AdminUnitUrl": null,
