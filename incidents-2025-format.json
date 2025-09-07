@@ -11952,13 +11952,13 @@
   {
     "Name": "Salt 14-2 Fire",
     "Final": false,
-    "Updated": "2025-09-07T11:53:01Z",
+    "Updated": "2025-09-07T15:46:51Z",
     "Started": "2025-09-02T03:00:54Z",
     "AdminUnit": "Unified Command: CAL FIRE Fresno-Kings Unit, Fresno County Sheriff, Monterey County Sheriff",
     "AdminUnitUrl": null,
     "County": "Fresno, Monterey",
     "Location": "Jacalitos Creek Rd, Coalinga ",
-    "AcresBurned": 25537.0,
+    "AcresBurned": 25579.0,
     "PercentContained": 29.0,
     "ControlStatement": null,
     "AgencyNames": "California Highway Patrol, California Department of Transportation, Bureau of Land Management, Pacific Gas & Electric, Coalinga Fire Department, Coalinga Police Department, American Medical Response, California Conservation Corps, California Department of Corrections and Rehabilitation, California Governor's Office of Emergency Services, Fresno County Office of Emergency Services, Fresno County Road Maintenance and Operations Division, Monterey County Department of Emergency Management.",
@@ -12652,7 +12652,7 @@
   {
     "Name": "Aqueduct Fire",
     "Final": false,
-    "Updated": "2025-09-07T15:04:37Z",
+    "Updated": "2025-09-07T15:27:56Z",
     "Started": "2025-09-07T09:39:49Z",
     "AdminUnit": "Kern County Fire Department",
     "AdminUnitUrl": null,
@@ -12677,9 +12677,9 @@
   {
     "Name": "Springs Fire",
     "Final": false,
-    "Updated": "2025-09-06T12:13:17Z",
+    "Updated": "2025-09-07T15:37:19Z",
     "Started": "2025-09-05T11:03:37Z",
-    "AdminUnit": "CAL FIRE San Bernardino Unit",
+    "AdminUnit": "Bureau of Land Management",
     "AdminUnitUrl": null,
     "County": "San Bernardino",
     "Location": "Hot Springs Trail and Bowen Ranch Road, Apple Valley",
@@ -12696,7 +12696,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-05",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
