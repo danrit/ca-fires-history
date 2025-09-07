@@ -10627,13 +10627,13 @@
   {
     "Name": "Garnet Fire",
     "Final": false,
-    "Updated": "2025-09-07T05:40:44-07:00",
+    "Updated": "2025-09-07T13:35:15-07:00",
     "Started": "2025-08-24T14:13:05Z",
     "AdminUnit": "Sierra National Forest",
     "AdminUnitUrl": null,
     "County": "Fresno",
     "Location": "South of Rodgers Ridge, Garnet Dike",
-    "AcresBurned": 36451.0,
+    "AcresBurned": 41000.6,
     "PercentContained": 14.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -12277,7 +12277,7 @@
   {
     "Name": "TCU September Lightning Complex ",
     "Final": false,
-    "Updated": "2025-09-07T08:46:24Z",
+    "Updated": "2025-09-07T14:07:54Z",
     "Started": "2025-09-02T16:05:03Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -12702,7 +12702,7 @@
   {
     "Name": "Crump Fire",
     "Final": false,
-    "Updated": "2025-09-07T06:36:42-07:00",
+    "Updated": "2025-09-07T14:05:35Z",
     "Started": "2025-09-06T13:31:48Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
