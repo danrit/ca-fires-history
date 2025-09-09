@@ -8927,7 +8927,7 @@
   {
     "Name": "Gifford Fire ",
     "Final": false,
-    "Updated": "2025-09-08T17:29:34-07:00",
+    "Updated": "2025-09-08T17:29:34Z",
     "Started": "2025-08-01T15:44:29Z",
     "AdminUnit": "Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -10627,7 +10627,7 @@
   {
     "Name": "Garnet Fire",
     "Final": false,
-    "Updated": "2025-09-08T18:53:49-07:00",
+    "Updated": "2025-09-08T18:53:49Z",
     "Started": "2025-08-24T14:13:05Z",
     "AdminUnit": "Sierra National Forest",
     "AdminUnitUrl": null,
@@ -10852,7 +10852,7 @@
   {
     "Name": "Dillon Fire",
     "Final": false,
-    "Updated": "2025-09-08T17:53:41-07:00",
+    "Updated": "2025-09-08T17:53:41Z",
     "Started": "2025-08-25T18:24:33Z",
     "AdminUnit": "Six Rivers National Forest",
     "AdminUnitUrl": null,
@@ -11652,7 +11652,7 @@
   {
     "Name": "Root Fire",
     "Final": false,
-    "Updated": "2025-09-08T17:56:37-07:00",
+    "Updated": "2025-09-08T17:56:37Z",
     "Started": "2025-09-01T12:34:02Z",
     "AdminUnit": "Shasta Trinity National Forest",
     "AdminUnitUrl": null,
@@ -11877,7 +11877,7 @@
   {
     "Name": "Swift Complex",
     "Final": false,
-    "Updated": "2025-09-08T22:13:40-07:00",
+    "Updated": "2025-09-08T22:13:40Z",
     "Started": "2025-09-02T09:28:47Z",
     "AdminUnit": "Shasta-Trinity National Forest ",
     "AdminUnitUrl": null,
@@ -12752,7 +12752,7 @@
   {
     "Name": "Tombstone Fire",
     "Final": false,
-    "Updated": "2025-09-08T17:04:27-07:00",
+    "Updated": "2025-09-08T17:04:27Z",
     "Started": "2025-08-30T11:17:27Z",
     "AdminUnit": "Kings Canyon National Park",
     "AdminUnitUrl": null,
@@ -12777,7 +12777,7 @@
   {
     "Name": "Lake Fire",
     "Final": false,
-    "Updated": "2025-09-08T16:11:14-07:00",
+    "Updated": "2025-09-08T16:11:14Z",
     "Started": "2025-09-08T14:08:49Z",
     "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
     "AdminUnitUrl": null,
