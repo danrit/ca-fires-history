@@ -12177,7 +12177,7 @@
   {
     "Name": "2-7 Fire",
     "Final": false,
-    "Updated": "2025-09-09T11:30:36Z",
+    "Updated": "2025-09-09T12:47:57Z",
     "Started": "2025-09-02T06:30:00Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit ",
     "AdminUnitUrl": null,
@@ -12195,7 +12195,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-02",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -12502,7 +12502,7 @@
   {
     "Name": "2-3 Fire",
     "Final": false,
-    "Updated": "2025-09-09T07:03:37Z",
+    "Updated": "2025-09-09T12:50:04Z",
     "Started": "2025-09-02T08:00:00Z",
     "AdminUnit": "CAL FIRE Tuolumne Calaveras Unit",
     "AdminUnitUrl": null,
@@ -12520,8 +12520,8 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-02",
-    "IsActive": true,
-    "CalFireIncident": false,
+    "IsActive": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   },
   {
