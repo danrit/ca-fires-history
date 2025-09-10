@@ -10627,7 +10627,7 @@
   {
     "Name": "Garnet Fire",
     "Final": false,
-    "Updated": "2025-09-09T17:41:52-07:00",
+    "Updated": "2025-09-09T17:41:52Z",
     "Started": "2025-08-24T14:13:05Z",
     "AdminUnit": "Sierra National Forest",
     "AdminUnitUrl": null,
@@ -10852,7 +10852,7 @@
   {
     "Name": "Dillon Fire",
     "Final": false,
-    "Updated": "2025-09-09T18:11:01-07:00",
+    "Updated": "2025-09-09T18:11:01Z",
     "Started": "2025-08-25T18:24:33Z",
     "AdminUnit": "Six Rivers National Forest",
     "AdminUnitUrl": null,
@@ -11152,7 +11152,7 @@
   {
     "Name": "Blue Fire",
     "Final": false,
-    "Updated": "2025-09-09T18:05:58-07:00",
+    "Updated": "2025-09-09T18:05:58Z",
     "Started": "2025-08-26T20:15:42Z",
     "AdminUnit": "Klamath National Forest ",
     "AdminUnitUrl": null,
@@ -11652,7 +11652,7 @@
   {
     "Name": "Root Fire",
     "Final": false,
-    "Updated": "2025-09-09T17:38:48-07:00",
+    "Updated": "2025-09-09T17:38:48Z",
     "Started": "2025-09-01T12:34:02Z",
     "AdminUnit": "Shasta Trinity National Forest",
     "AdminUnitUrl": null,
@@ -11877,14 +11877,14 @@
   {
     "Name": "Swift Complex",
     "Final": false,
-    "Updated": "2025-09-08T22:13:40Z",
+    "Updated": "2025-09-09T22:10:53-07:00",
     "Started": "2025-09-02T09:28:47Z",
     "AdminUnit": "Shasta-Trinity National Forest ",
     "AdminUnitUrl": null,
     "County": "Shasta",
     "Location": "North of Mule Creek ",
     "AcresBurned": 644.0,
-    "PercentContained": 84.0,
+    "PercentContained": 95.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -122.8508333,
@@ -12052,7 +12052,7 @@
   {
     "Name": "TCU September Lightning Complex ",
     "Final": false,
-    "Updated": "2025-09-09T18:49:20-07:00",
+    "Updated": "2025-09-09T18:49:20Z",
     "Started": "2025-09-02T16:05:03Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
