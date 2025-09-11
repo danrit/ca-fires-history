@@ -11252,7 +11252,7 @@
   {
     "Name": "Log Fire",
     "Final": false,
-    "Updated": "2025-09-08T11:28:32Z",
+    "Updated": "2025-09-11T09:13:48Z",
     "Started": "2025-08-26T13:34:53Z",
     "AdminUnit": "Klamath National Forest",
     "AdminUnitUrl": null,
@@ -12052,7 +12052,7 @@
   {
     "Name": "TCU September Lightning Complex ",
     "Final": false,
-    "Updated": "2025-09-11T09:02:00Z",
+    "Updated": "2025-09-11T09:41:21Z",
     "Started": "2025-09-02T16:05:03Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -12227,13 +12227,13 @@
   {
     "Name": "6-5 Fire",
     "Final": false,
-    "Updated": "2025-09-11T07:52:45Z",
+    "Updated": "2025-09-11T09:47:16Z",
     "Started": "2025-09-02T20:23:27Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
     "County": "Tuolumne",
     "Location": "North of Don Pedro Overlook Trail and Old Pedro Road, near Red Hills",
-    "AcresBurned": 6935.4,
+    "AcresBurned": 7037.0,
     "PercentContained": 94.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -12452,7 +12452,7 @@
   {
     "Name": "6-2 Fire",
     "Final": false,
-    "Updated": "2025-09-11T08:58:38Z",
+    "Updated": "2025-09-11T09:47:56Z",
     "Started": "2025-09-02T13:44:00Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -12752,7 +12752,7 @@
   {
     "Name": "Tombstone Fire",
     "Final": false,
-    "Updated": "2025-09-10T13:11:53-07:00",
+    "Updated": "2025-09-11T09:16:50Z",
     "Started": "2025-08-30T11:17:27Z",
     "AdminUnit": "Kings Canyon National Park",
     "AdminUnitUrl": null,
@@ -12771,7 +12771,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-08-30",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
@@ -12952,12 +12952,12 @@
   {
     "Name": "Buell Fire",
     "Final": false,
-    "Updated": "2025-09-10T19:52:32-07:00",
+    "Updated": "2025-09-11T09:16:52Z",
     "Started": "2025-09-10T14:21:13Z",
     "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
     "AdminUnitUrl": null,
     "County": "Shasta",
-    "Location": "Unknown / TBD",
+    "Location": "Platina Road and Buell Road",
     "AcresBurned": 13.0,
     "PercentContained": null,
     "ControlStatement": null,
