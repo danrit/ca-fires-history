@@ -11152,13 +11152,13 @@
   {
     "Name": "Blue Fire",
     "Final": false,
-    "Updated": "2025-09-10T16:54:51-07:00",
+    "Updated": "2025-09-11T10:47:16-07:00",
     "Started": "2025-08-26T20:15:42Z",
     "AdminUnit": "Klamath National Forest ",
     "AdminUnitUrl": null,
     "County": "Siskiyou",
     "Location": "Blue Mountain, 9 Miles East of Happy Camp ",
-    "AcresBurned": 3625.0,
+    "AcresBurned": 3648.0,
     "PercentContained": 54.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -12226,8 +12226,8 @@
   },
   {
     "Name": "6-5 Fire",
-    "Final": false,
-    "Updated": "2025-09-11T09:47:16Z",
+    "Final": true,
+    "Updated": "2025-09-11T10:24:27Z",
     "Started": "2025-09-02T20:23:27Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -12245,7 +12245,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-02",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -12451,8 +12451,8 @@
   },
   {
     "Name": "6-2 Fire",
-    "Final": false,
-    "Updated": "2025-09-11T09:47:56Z",
+    "Final": true,
+    "Updated": "2025-09-11T10:24:58Z",
     "Started": "2025-09-02T13:44:00Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -12470,7 +12470,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-02",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -12927,7 +12927,7 @@
   {
     "Name": "Boggs Fire",
     "Final": false,
-    "Updated": "2025-09-11T08:39:51Z",
+    "Updated": "2025-09-11T10:27:21Z",
     "Started": "2025-09-10T18:01:00Z",
     "AdminUnit": "CAL FIRE Tehama Glenn Unit",
     "AdminUnitUrl": null,
@@ -12945,7 +12945,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-10",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
