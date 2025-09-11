@@ -12973,30 +12973,5 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
-  },
-  {
-    "Name": "2-4 2 Fire",
-    "Final": false,
-    "Updated": "2025-09-11T08:41:37-07:00",
-    "Started": "2025-09-02T08:39:16Z",
-    "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
-    "AdminUnitUrl": null,
-    "County": "Stanislaus",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 47.0,
-    "PercentContained": null,
-    "ControlStatement": null,
-    "AgencyNames": "",
-    "Longitude": -120.863833,
-    "Latitude": 37.906,
-    "Type": "Wildfire",
-    "UniqueId": "b004848f-4a90-4797-a337-eceff9ca8642",
-    "Url": "https://www.fire.ca.gov/incidents/2025/9/2/2-4-2-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
-    "StartedDateOnly": "2025-09-02",
-    "IsActive": true,
-    "CalFireIncident": true,
-    "NotificationDesired": false
   }
 ]
