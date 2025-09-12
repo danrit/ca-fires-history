@@ -10627,13 +10627,13 @@
   {
     "Name": "Garnet Fire",
     "Final": false,
-    "Updated": "2025-09-12T05:51:55-07:00",
+    "Updated": "2025-09-12T07:13:54Z",
     "Started": "2025-08-24T14:13:05Z",
     "AdminUnit": "Sierra National Forest",
     "AdminUnitUrl": null,
     "County": "Fresno",
     "Location": "South of Rodgers Ridge, Garnet Dike",
-    "AcresBurned": 57100.0,
+    "AcresBurned": 57412.0,
     "PercentContained": 23.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -11852,7 +11852,7 @@
   {
     "Name": "Salt 14-2 Fire",
     "Final": false,
-    "Updated": "2025-09-12T06:50:48Z",
+    "Updated": "2025-09-12T07:13:59Z",
     "Started": "2025-09-02T03:00:54Z",
     "AdminUnit": "Unified Command: CAL FIRE Fresno-Kings Unit, Fresno County Sheriff, Monterey County Sheriff",
     "AdminUnitUrl": null,
@@ -12052,7 +12052,7 @@
   {
     "Name": "TCU September Lightning Complex ",
     "Final": false,
-    "Updated": "2025-09-12T06:25:17-07:00",
+    "Updated": "2025-09-12T07:40:29Z",
     "Started": "2025-09-02T16:05:03Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
