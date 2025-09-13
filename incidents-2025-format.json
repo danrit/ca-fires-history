@@ -12998,5 +12998,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Shale Fire",
+    "Final": false,
+    "Updated": "2025-09-12T22:00:51Z",
+    "Started": "2025-09-12T19:35:00Z",
+    "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
+    "AdminUnitUrl": null,
+    "County": "Solano",
+    "Location": "Pleasant Valley Road, Vacaville",
+    "AcresBurned": 13.1,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -122.056304,
+    "Latitude": 38.458292,
+    "Type": "Wildfire",
+    "UniqueId": "d6d4577f-661b-42c1-8fb8-90ff55f60844",
+    "Url": "https://www.fire.ca.gov/incidents/2025/9/12/shale-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-09-12",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
