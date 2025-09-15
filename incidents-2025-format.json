@@ -12051,8 +12051,8 @@
   },
   {
     "Name": "TCU September Lightning Complex ",
-    "Final": false,
-    "Updated": "2025-09-13T07:36:34Z",
+    "Final": true,
+    "Updated": "2025-09-14T21:48:23Z",
     "Started": "2025-09-02T16:05:03Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -12070,7 +12070,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-02",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -12976,8 +12976,8 @@
   },
   {
     "Name": "Elephant Fire",
-    "Final": false,
-    "Updated": "2025-09-14T20:34:54Z",
+    "Final": true,
+    "Updated": "2025-09-14T21:49:17Z",
     "Started": "2025-09-11T13:29:00Z",
     "AdminUnit": "Sequoia National Forest",
     "AdminUnitUrl": null,
@@ -12995,14 +12995,14 @@
     "ExtinguishedDate": "2025-09-14T10:00:00Z",
     "ExtinguishedDateOnly": "2025-09-14",
     "StartedDateOnly": "2025-09-11",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
     "Name": "Shale Fire",
-    "Final": false,
-    "Updated": "2025-09-14T00:13:28Z",
+    "Final": true,
+    "Updated": "2025-09-14T21:50:30Z",
     "Started": "2025-09-12T19:35:00Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -13020,7 +13020,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-12",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
