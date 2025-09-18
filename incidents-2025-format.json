@@ -10852,7 +10852,7 @@
   {
     "Name": "Dillon Fire",
     "Final": false,
-    "Updated": "2025-09-17T17:46:17-07:00",
+    "Updated": "2025-09-18T11:41:02Z",
     "Started": "2025-08-25T18:24:33Z",
     "AdminUnit": "Six Rivers National Forest",
     "AdminUnitUrl": null,
@@ -12452,7 +12452,7 @@
   {
     "Name": "Pass Fire",
     "Final": false,
-    "Updated": "2025-09-17T15:38:25Z",
+    "Updated": "2025-09-18T11:41:32Z",
     "Started": "2025-09-17T11:16:12Z",
     "AdminUnit": "Inyo National Forest",
     "AdminUnitUrl": null,
@@ -12471,7 +12471,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-17",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
