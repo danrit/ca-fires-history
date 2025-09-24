@@ -13098,5 +13098,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Springs Fire",
+    "Final": false,
+    "Updated": "2025-09-24T13:08:15-07:00",
+    "Started": "2025-09-24T11:43:18Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Juniper Springs Road, Juniper Springs",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.084452,
+    "Latitude": 33.768255,
+    "Type": "Wildfire",
+    "UniqueId": "98426066-4586-4ebc-a8ae-573eb3b663fe",
+    "Url": "https://www.fire.ca.gov/incidents/2025/9/24/springs-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-09-24",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
