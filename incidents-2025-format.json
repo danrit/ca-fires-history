@@ -13148,5 +13148,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Joaquin Fire",
+    "Final": false,
+    "Updated": "2025-09-25T06:56:30-07:00",
+    "Started": "2025-09-24T21:56:39Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 13.4,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.498195,
+    "Latitude": 36.219908,
+    "Type": "Wildfire",
+    "UniqueId": "d5765fe2-4b65-4dcd-8e1e-923926c23d35",
+    "Url": "https://www.fire.ca.gov/incidents/2025/9/24/joaquin-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-09-24",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
