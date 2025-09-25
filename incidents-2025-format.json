@@ -13123,5 +13123,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Baldy Fire",
+    "Final": false,
+    "Updated": "2025-09-24T22:57:41-07:00",
+    "Started": "2025-09-24T21:44:02Z",
+    "AdminUnit": "CAL FIRE Mendocino Unit",
+    "AdminUnitUrl": null,
+    "County": "Mendocino",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -123.341945,
+    "Latitude": 39.926657,
+    "Type": "Wildfire",
+    "UniqueId": "15701491-c78d-4cef-af34-06398c665132",
+    "Url": "https://www.fire.ca.gov/incidents/2025/9/24/baldy-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-09-24",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
