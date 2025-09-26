@@ -13173,5 +13173,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Martell Fire",
+    "Final": false,
+    "Updated": "2025-09-26T15:08:08-07:00",
+    "Started": "2025-09-26T14:45:08Z",
+    "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+    "AdminUnitUrl": null,
+    "County": "Stanislaus",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 40.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.784698,
+    "Latitude": 37.870482,
+    "Type": "Wildfire",
+    "UniqueId": "2d15d2af-d4a5-4f41-a17c-b17e3030ea93",
+    "Url": "https://www.fire.ca.gov/incidents/2025/9/26/martell-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-09-26",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
