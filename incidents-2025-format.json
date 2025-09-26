@@ -13173,30 +13173,5 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
-  },
-  {
-    "Name": "Dome Fire",
-    "Final": false,
-    "Updated": "2025-09-25T16:10:36-07:00",
-    "Started": "2025-09-23T14:59:16Z",
-    "AdminUnit": null,
-    "AdminUnitUrl": null,
-    "County": "Tulare",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 34.0,
-    "PercentContained": null,
-    "ControlStatement": null,
-    "AgencyNames": "",
-    "Longitude": -34.0,
-    "Latitude": 23.0,
-    "Type": "Wildfire",
-    "UniqueId": "3d99091e-76c8-4b1c-966f-abd4e7ffddf5",
-    "Url": "https://www.fire.ca.gov/incidents/2025/9/23/dome-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
-    "StartedDateOnly": "2025-09-23",
-    "IsActive": true,
-    "CalFireIncident": true,
-    "NotificationDesired": false
   }
 ]
