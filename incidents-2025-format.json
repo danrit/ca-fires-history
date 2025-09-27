@@ -13198,5 +13198,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Cobb Fire",
+    "Final": false,
+    "Updated": "2025-09-27T16:02:28Z",
+    "Started": "2025-09-26T15:56:10Z",
+    "AdminUnit": "Six Rivers National Forest",
+    "AdminUnitUrl": null,
+    "County": "Humboldt",
+    "Location": "Cobb Road and Rattlesnake Bridge Road, Dinsmore",
+    "AcresBurned": 12.2,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -123.527677,
+    "Latitude": 40.463864,
+    "Type": "Wildfire",
+    "UniqueId": "793418f8-d217-44c3-8409-617b2a3107a2",
+    "Url": "https://www.fire.ca.gov/incidents/2025/9/26/cobb-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-09-26",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
