@@ -13202,14 +13202,14 @@
   {
     "Name": "Cobb Fire",
     "Final": false,
-    "Updated": "2025-09-27T16:02:28Z",
+    "Updated": "2025-09-29T07:11:02-07:00",
     "Started": "2025-09-26T15:56:10Z",
     "AdminUnit": "Six Rivers National Forest",
     "AdminUnitUrl": null,
     "County": "Humboldt",
     "Location": "Cobb Road and Rattlesnake Bridge Road, Dinsmore",
     "AcresBurned": 12.2,
-    "PercentContained": null,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -123.527677,
@@ -13221,7 +13221,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-09-26",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
