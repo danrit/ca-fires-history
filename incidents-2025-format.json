@@ -10827,7 +10827,7 @@
   {
     "Name": "Dillon Fire",
     "Final": false,
-    "Updated": "2025-09-29T10:35:38-07:00",
+    "Updated": "2025-09-29T10:35:38Z",
     "Started": "2025-08-25T18:24:33Z",
     "AdminUnit": "Six Rivers National Forest",
     "AdminUnitUrl": null,
@@ -11127,7 +11127,7 @@
   {
     "Name": "Blue Fire",
     "Final": false,
-    "Updated": "2025-09-29T10:28:37-07:00",
+    "Updated": "2025-09-29T10:28:37Z",
     "Started": "2025-08-26T20:15:42Z",
     "AdminUnit": "Klamath National Forest ",
     "AdminUnitUrl": null,
@@ -11227,7 +11227,7 @@
   {
     "Name": "Log Fire",
     "Final": false,
-    "Updated": "2025-09-29T10:35:15-07:00",
+    "Updated": "2025-09-29T10:35:15Z",
     "Started": "2025-08-26T13:34:53Z",
     "AdminUnit": "Klamath National Forest",
     "AdminUnitUrl": null,
@@ -13127,7 +13127,7 @@
   {
     "Name": "Joaquin Fire",
     "Final": false,
-    "Updated": "2025-09-29T13:04:30-07:00",
+    "Updated": "2025-09-29T13:04:30Z",
     "Started": "2025-09-24T21:56:39Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
@@ -13227,7 +13227,7 @@
   {
     "Name": "Vleck Fire",
     "Final": false,
-    "Updated": "2025-09-29T13:32:50-07:00",
+    "Updated": "2025-09-29T13:32:50Z",
     "Started": "2025-09-29T12:02:36Z",
     "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
     "AdminUnitUrl": null,
@@ -13252,7 +13252,7 @@
   {
     "Name": "Paloma Fire",
     "Final": false,
-    "Updated": "2025-09-30T03:44:27-07:00",
+    "Updated": "2025-09-30T03:44:27Z",
     "Started": "2025-09-30T01:08:26Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
