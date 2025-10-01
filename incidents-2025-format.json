@@ -13251,8 +13251,8 @@
   },
   {
     "Name": "Paloma Fire",
-    "Final": false,
-    "Updated": "2025-09-30T18:58:51-07:00",
+    "Final": true,
+    "Updated": "2025-09-30T21:41:00Z",
     "Started": "2025-09-30T01:08:26Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
@@ -13267,10 +13267,10 @@
     "Type": "Wildfire",
     "UniqueId": "5fa1beec-2657-45ff-8f6c-3c16313ad424",
     "Url": "https://www.fire.ca.gov/incidents/2025/9/30/paloma-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2025-09-30T18:44:00Z",
+    "ExtinguishedDateOnly": "2025-09-30",
     "StartedDateOnly": "2025-09-30",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
