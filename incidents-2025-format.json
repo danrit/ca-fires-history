@@ -13273,5 +13273,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Alma Fire",
+    "Final": false,
+    "Updated": "2025-10-04T15:00:35-07:00",
+    "Started": "2025-10-04T13:54:36Z",
+    "AdminUnit": "CAL FIRE San Luis Obispo Unit",
+    "AdminUnitUrl": null,
+    "County": "San Luis Obispo",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 40.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.860559,
+    "Latitude": 35.307304,
+    "Type": "Wildfire",
+    "UniqueId": "e88762cb-c444-463b-a9fa-bd131be581b4",
+    "Url": "https://www.fire.ca.gov/incidents/2025/10/4/alma-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-10-04",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
