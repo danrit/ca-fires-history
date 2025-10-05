@@ -13276,8 +13276,8 @@
   },
   {
     "Name": "Alma Fire",
-    "Final": false,
-    "Updated": "2025-10-04T20:11:26-07:00",
+    "Final": true,
+    "Updated": "2025-10-05T11:27:02Z",
     "Started": "2025-10-04T13:54:36Z",
     "AdminUnit": "CAL FIRE San Luis Obispo Unit",
     "AdminUnitUrl": null,
@@ -13292,10 +13292,10 @@
     "Type": "Wildfire",
     "UniqueId": "e88762cb-c444-463b-a9fa-bd131be581b4",
     "Url": "https://www.fire.ca.gov/incidents/2025/10/4/alma-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2025-10-04T15:41:00Z",
+    "ExtinguishedDateOnly": "2025-10-04",
     "StartedDateOnly": "2025-10-04",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
