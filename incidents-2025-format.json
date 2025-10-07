@@ -13298,5 +13298,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "School Fire",
+    "Final": false,
+    "Updated": "2025-10-07T15:05:26Z",
+    "Started": "2025-10-07T14:33:25Z",
+    "AdminUnit": "CAL FIRE San Mateo- Santa Cruz Unit",
+    "AdminUnitUrl": null,
+    "County": "San Mateo",
+    "Location": "Seaside School Road, San Gregorio",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -122.366039,
+    "Latitude": 37.320463,
+    "Type": "Wildfire",
+    "UniqueId": "4e227d77-89e7-4979-9939-fcc5ffa68845",
+    "Url": "https://www.fire.ca.gov/incidents/2025/10/7/school-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-10-07",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
