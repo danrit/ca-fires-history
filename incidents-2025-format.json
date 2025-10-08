@@ -13301,8 +13301,8 @@
   },
   {
     "Name": "School Fire",
-    "Final": false,
-    "Updated": "2025-10-07T17:58:45-07:00",
+    "Final": true,
+    "Updated": "2025-10-08T06:04:22Z",
     "Started": "2025-10-07T14:33:25Z",
     "AdminUnit": "CAL FIRE San Mateo- Santa Cruz Unit",
     "AdminUnitUrl": null,
@@ -13320,7 +13320,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-10-07",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
