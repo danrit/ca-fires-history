@@ -13398,5 +13398,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Rancho Fire ",
+    "Final": false,
+    "Updated": "2025-10-09T14:10:11Z",
+    "Started": "2025-10-09T13:56:40Z",
+    "AdminUnit": "CAL FIRE San Diego Unit",
+    "AdminUnitUrl": null,
+    "County": "San Diego",
+    "Location": "Highway 78 and Casner Road, East of Ramona",
+    "AcresBurned": 5.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.774334,
+    "Latitude": 33.076433,
+    "Type": "Wildfire",
+    "UniqueId": "563a5434-05ca-43d2-8028-7d05c9ee4602",
+    "Url": "https://www.fire.ca.gov/incidents/2025/10/9/rancho-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-10-09",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
