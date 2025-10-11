@@ -13401,8 +13401,8 @@
   },
   {
     "Name": "Rancho 3 Fire",
-    "Final": false,
-    "Updated": "2025-10-10T16:18:34-07:00",
+    "Final": true,
+    "Updated": "2025-10-10T22:00:48Z",
     "Started": "2025-10-09T13:08:00Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -13417,10 +13417,10 @@
     "Type": "Wildfire",
     "UniqueId": "55e1f98c-9529-4506-a70c-9e0dcd1390be",
     "Url": "https://www.fire.ca.gov/incidents/2025/10/9/rancho-3-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2025-10-10T22:00:27Z",
+    "ExtinguishedDateOnly": "2025-10-10",
     "StartedDateOnly": "2025-10-09",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
