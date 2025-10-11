@@ -13448,5 +13448,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Rock Fire",
+    "Final": false,
+    "Updated": "2025-10-11T16:04:32-07:00",
+    "Started": "2025-10-11T15:42:23Z",
+    "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
+    "AdminUnitUrl": null,
+    "County": "Lake",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -122.44521,
+    "Latitude": 38.885668,
+    "Type": "Wildfire",
+    "UniqueId": "4a9e5bab-2700-4f02-ba6a-6408daff194c",
+    "Url": "https://www.fire.ca.gov/incidents/2025/10/11/rock-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-10-11",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
