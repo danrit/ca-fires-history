@@ -13477,14 +13477,14 @@
   {
     "Name": "Black Rock Fire",
     "Final": false,
-    "Updated": "2025-10-12T12:33:53Z",
+    "Updated": "2025-10-12T14:00:47-07:00",
     "Started": "2025-10-12T10:30:27Z",
     "AdminUnit": "Joshua Tree National Park",
     "AdminUnitUrl": null,
     "County": "San Bernardino",
-    "Location": "Black Rock Canyon Campground south of Yucca Valley",
+    "Location": "Black Rock Canyon Campgroung south of Yucca Valley",
     "AcresBurned": 66.1,
-    "PercentContained": null,
+    "PercentContained": 25.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -116.393457,
@@ -13496,7 +13496,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-10-12",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
