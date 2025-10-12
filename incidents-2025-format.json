@@ -13473,5 +13473,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Blackrock Fire",
+    "Final": false,
+    "Updated": "2025-10-12T12:04:32-07:00",
+    "Started": "2025-10-12T10:30:27Z",
+    "AdminUnit": "CAL FIRE San Bernardino Unit",
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 66.1,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.389166,
+    "Latitude": 34.071666,
+    "Type": "Wildfire",
+    "UniqueId": "c2fc1e28-9afb-497f-99d3-889923a98c95",
+    "Url": "https://www.fire.ca.gov/incidents/2025/10/12/blackrock-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-10-12",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
