@@ -13498,5 +13498,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Ranch Fire",
+    "Final": false,
+    "Updated": "2025-10-15T17:05:14Z",
+    "Started": "2025-10-15T16:22:43Z",
+    "AdminUnit": "CAL FIRE Tulare Unit",
+    "AdminUnitUrl": null,
+    "County": "Tulare",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.843604,
+    "Latitude": 36.025508,
+    "Type": "Wildfire",
+    "UniqueId": "949a2c98-c78a-4af3-b26e-f17238cba107",
+    "Url": "https://www.fire.ca.gov/incidents/2025/10/15/ranch-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-10-15",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
