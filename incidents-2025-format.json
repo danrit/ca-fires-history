@@ -13551,8 +13551,8 @@
   },
   {
     "Name": "Grove Fire",
-    "Final": false,
-    "Updated": "2025-10-21T15:51:01Z",
+    "Final": true,
+    "Updated": "2025-10-21T21:32:11Z",
     "Started": "2025-10-21T12:24:43Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
@@ -13567,10 +13567,10 @@
     "Type": "Wildfire",
     "UniqueId": "8a5549c9-2dd3-448e-8b57-46c7e646ac99",
     "Url": "https://www.fire.ca.gov/incidents/2025/10/21/grove-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2025-10-21T15:45:00Z",
+    "ExtinguishedDateOnly": "2025-10-21",
     "StartedDateOnly": "2025-10-21",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
