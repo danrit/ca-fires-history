@@ -13573,5 +13573,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Slope Fire",
+    "Final": false,
+    "Updated": "2025-10-22T13:47:09Z",
+    "Started": "2025-10-22T10:54:00Z",
+    "AdminUnit": "CAL FIRE Tulare Unit",
+    "AdminUnitUrl": null,
+    "County": "Tulare",
+    "Location": "East of Fountain Springs",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.765302,
+    "Latitude": 35.909937,
+    "Type": "Wildfire",
+    "UniqueId": "62e3eb77-4a7a-4a50-83c2-c112dbaa651d",
+    "Url": "https://www.fire.ca.gov/incidents/2025/10/22/slope-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-10-22",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
