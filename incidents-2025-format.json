@@ -13602,14 +13602,14 @@
   {
     "Name": "Grant Fire ",
     "Final": false,
-    "Updated": "2025-10-26T15:25:21Z",
+    "Updated": "2025-10-26T16:50:46Z",
     "Started": "2025-10-26T15:14:24Z",
     "AdminUnit": "CAL FIRE Santa Clara Unit ",
     "AdminUnitUrl": null,
     "County": "Alameda",
     "Location": "East Bound 580 West of West Grant Line Road Altamont",
     "AcresBurned": 19.8,
-    "PercentContained": null,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -121.620807,
@@ -13617,11 +13617,11 @@
     "Type": "Wildfire",
     "UniqueId": "f69dcde3-24f7-4b06-8ec4-a2a2e1884297",
     "Url": "https://www.fire.ca.gov/incidents/2025/10/26/grant-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2025-10-26T16:00:10Z",
+    "ExtinguishedDateOnly": "2025-10-26",
     "StartedDateOnly": "2025-10-26",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
