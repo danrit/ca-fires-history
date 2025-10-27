@@ -13623,5 +13623,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Gyle Fire",
+    "Final": false,
+    "Updated": "2025-10-27T14:47:30Z",
+    "Started": "2025-10-27T13:09:29Z",
+    "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
+    "AdminUnitUrl": null,
+    "County": "Tehama",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 19.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -122.275786,
+    "Latitude": 40.001361,
+    "Type": "Wildfire",
+    "UniqueId": "88e7a844-f124-44ea-8000-35da04017bcd",
+    "Url": "https://www.fire.ca.gov/incidents/2025/10/27/gyle-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-10-27",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
