@@ -13601,8 +13601,8 @@
   },
   {
     "Name": "Grant Fire ",
-    "Final": false,
-    "Updated": "2025-10-26T16:50:46Z",
+    "Final": true,
+    "Updated": "2025-10-26T22:02:25Z",
     "Started": "2025-10-26T15:14:24Z",
     "AdminUnit": "CAL FIRE Santa Clara Unit ",
     "AdminUnitUrl": null,
@@ -13620,8 +13620,8 @@
     "ExtinguishedDate": "2025-10-26T16:00:10Z",
     "ExtinguishedDateOnly": "2025-10-26",
     "StartedDateOnly": "2025-10-26",
-    "IsActive": true,
-    "CalFireIncident": false,
+    "IsActive": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
