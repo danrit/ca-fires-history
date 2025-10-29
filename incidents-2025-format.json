@@ -13648,5 +13648,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Sophie Fire",
+    "Final": false,
+    "Updated": "2025-10-29T14:57:00Z",
+    "Started": "2025-10-29T14:17:51Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Mapes Road and Marie Street, Perris",
+    "AcresBurned": 12.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.273098,
+    "Latitude": 33.756323,
+    "Type": "Wildfire",
+    "UniqueId": "27b9f8cd-a1b4-4bb9-8f2a-2e75322ba48e",
+    "Url": "https://www.fire.ca.gov/incidents/2025/10/29/sophie-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-10-29",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
