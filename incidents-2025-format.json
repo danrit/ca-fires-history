@@ -13648,5 +13648,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Cherokee Fire",
+    "Final": false,
+    "Updated": "2025-10-28T17:12:43Z",
+    "Started": "2025-10-28T16:41:26Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.248325,
+    "Latitude": 33.784535,
+    "Type": "Wildfire",
+    "UniqueId": "fc16d892-48cb-4a46-bc6c-ade7949487be",
+    "Url": "https://www.fire.ca.gov/incidents/2025/10/28/cherokee-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-10-28",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
