@@ -13673,30 +13673,5 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
-  },
-  {
-    "Name": "Crocker Fire",
-    "Final": false,
-    "Updated": "2025-10-29T20:39:21Z",
-    "Started": "2025-10-29T18:11:18Z",
-    "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
-    "AdminUnitUrl": null,
-    "County": "Sonoma",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 25.0,
-    "PercentContained": null,
-    "ControlStatement": null,
-    "AgencyNames": "",
-    "Longitude": -122.998423,
-    "Latitude": 38.813617,
-    "Type": "Wildfire",
-    "UniqueId": "089c5be9-3443-4398-ab45-cc18c7c8d25a",
-    "Url": "https://www.fire.ca.gov/incidents/2025/10/29/crocker-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
-    "StartedDateOnly": "2025-10-29",
-    "IsActive": true,
-    "CalFireIncident": true,
-    "NotificationDesired": false
   }
 ]
