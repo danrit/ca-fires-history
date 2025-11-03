@@ -6277,7 +6277,7 @@
   {
     "Name": "Madre Fire",
     "Final": true,
-    "Updated": "2025-10-14T15:44:12Z",
+    "Updated": "2025-11-03T10:39:16Z",
     "Started": "2025-07-02T13:07:32Z",
     "AdminUnit": "Unified Command: Los Padres National Forest, Bureau of Land Management",
     "AdminUnitUrl": null,
@@ -6287,8 +6287,8 @@
     "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -120.041896,
-    "Latitude": 35.095516,
+    "Longitude": -119.982548,
+    "Latitude": 35.099242,
     "Type": "Wildfire",
     "UniqueId": "01e7e83e-1a4c-4f14-bd39-9ef36136a91f",
     "Url": "https://www.fire.ca.gov/incidents/2025/7/2/madre-fire/",
@@ -13702,7 +13702,7 @@
   {
     "Name": "Sage Fire",
     "Final": false,
-    "Updated": "2025-11-03T08:53:27Z",
+    "Updated": "2025-11-03T10:32:12Z",
     "Started": "2025-10-27T16:16:50Z",
     "AdminUnit": "Inyo National Forest",
     "AdminUnitUrl": null,
