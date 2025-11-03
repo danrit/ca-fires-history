@@ -13723,5 +13723,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Bummer Fire",
+    "Final": false,
+    "Updated": "2025-11-03T12:52:23Z",
+    "Started": "2025-10-29T12:51:00Z",
+    "AdminUnit": "Stanislaus National Forest",
+    "AdminUnitUrl": null,
+    "County": "Tuolumne",
+    "Location": "Forest Route 6N05, Bummers Flat",
+    "AcresBurned": 75.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.026064,
+    "Latitude": 38.305002,
+    "Type": "Wildfire",
+    "UniqueId": "d9f850ad-d72a-4fe6-9c10-5e140356b7af",
+    "Url": "https://www.fire.ca.gov/incidents/2025/10/29/bummer-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-10-29",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
