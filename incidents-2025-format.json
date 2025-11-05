@@ -13677,7 +13677,7 @@
   {
     "Name": "Scissors Fire",
     "Final": false,
-    "Updated": "2025-11-04T17:19:03Z",
+    "Updated": "2025-11-04T21:28:30Z",
     "Started": "2025-11-02T15:54:57Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -13695,7 +13695,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-11-02",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
