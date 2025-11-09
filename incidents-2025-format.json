@@ -13773,5 +13773,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Border 18 Fire",
+    "Final": false,
+    "Updated": "2025-11-08T15:47:24Z",
+    "Started": "2025-11-08T14:10:55Z",
+    "AdminUnit": "CAL FIRE San Diego Unit",
+    "AdminUnitUrl": null,
+    "County": "San Diego",
+    "Location": "Marron Valley Road south of Dulzura",
+    "AcresBurned": 60.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.761976,
+    "Latitude": 32.594887,
+    "Type": "Wildfire",
+    "UniqueId": "2a8b160f-6e69-4e79-848b-e8f77a8cc86c",
+    "Url": "https://www.fire.ca.gov/incidents/2025/11/8/border-18-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-11-08",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
