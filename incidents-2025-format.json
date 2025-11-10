@@ -13776,8 +13776,8 @@
   },
   {
     "Name": "Border 18 Fire",
-    "Final": false,
-    "Updated": "2025-11-10T09:00:54Z",
+    "Final": true,
+    "Updated": "2025-11-10T14:42:16Z",
     "Started": "2025-11-08T14:10:55Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -13792,8 +13792,8 @@
     "Type": "Wildfire",
     "UniqueId": "2a8b160f-6e69-4e79-848b-e8f77a8cc86c",
     "Url": "https://www.fire.ca.gov/incidents/2025/11/8/border-18-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2025-11-09T15:55:00Z",
+    "ExtinguishedDateOnly": "2025-11-09",
     "StartedDateOnly": "2025-11-08",
     "IsActive": false,
     "CalFireIncident": true,
@@ -13802,14 +13802,14 @@
   {
     "Name": "Highline Fire",
     "Final": false,
-    "Updated": "2025-11-10T14:03:03Z",
+    "Updated": "2025-11-10T14:39:05Z",
     "Started": "2025-11-09T08:55:54Z",
-    "AdminUnit": null,
+    "AdminUnit": "Bureau of Land Management ",
     "AdminUnitUrl": null,
     "County": "Imperial",
     "Location": "Boyd Road and Graeser Road, Northeast of Holtville",
     "AcresBurned": 10.3,
-    "PercentContained": null,
+    "PercentContained": 70.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -115.293446,
@@ -13821,7 +13821,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-11-09",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
