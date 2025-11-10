@@ -13798,5 +13798,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Highline Fire",
+    "Final": false,
+    "Updated": "2025-11-10T14:03:03Z",
+    "Started": "2025-11-09T08:55:54Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Imperial",
+    "Location": "Boyd Road and Graeser Road, Northeast of Holtville",
+    "AcresBurned": 10.3,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -115.293446,
+    "Latitude": 32.901984,
+    "Type": "Wildfire",
+    "UniqueId": "ce483b9d-a84b-486a-b8c6-fb271795d49b",
+    "Url": "https://www.fire.ca.gov/incidents/2025/11/9/highline-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-11-09",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
