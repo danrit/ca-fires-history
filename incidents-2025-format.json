@@ -13726,8 +13726,8 @@
   },
   {
     "Name": "Sage Fire",
-    "Final": false,
-    "Updated": "2025-11-12T16:36:46Z",
+    "Final": true,
+    "Updated": "2025-11-13T09:08:04Z",
     "Started": "2025-10-27T16:16:50Z",
     "AdminUnit": "Inyo National Forest",
     "AdminUnitUrl": null,
@@ -13742,11 +13742,11 @@
     "Type": "Wildfire",
     "UniqueId": "075f506d-0a46-474f-8734-fcfa7cd2ae74",
     "Url": "https://www.fire.ca.gov/incidents/2025/10/27/sage-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2025-11-12T16:20:00Z",
+    "ExtinguishedDateOnly": "2025-11-12",
     "StartedDateOnly": "2025-10-27",
-    "IsActive": true,
-    "CalFireIncident": true,
+    "IsActive": false,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
