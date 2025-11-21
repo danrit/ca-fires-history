@@ -13802,7 +13802,7 @@
   {
     "Name": "Highline Fire",
     "Final": true,
-    "Updated": "2025-11-14T21:57:08Z",
+    "Updated": "2025-11-21T12:25:03Z",
     "Started": "2025-11-09T08:55:54Z",
     "AdminUnit": "Bureau of Land Management ",
     "AdminUnitUrl": null,
@@ -13810,7 +13810,7 @@
     "Location": "Boyd Road and Graeser Road, Northeast of Holtville",
     "AcresBurned": 10.3,
     "PercentContained": 100.0,
-    "ControlStatement": null,
+    "ControlStatement": ".",
     "AgencyNames": "",
     "Longitude": -115.293446,
     "Latitude": 32.901984,
