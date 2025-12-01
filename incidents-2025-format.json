@@ -13848,5 +13848,30 @@
     "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Pack Fire",
+    "Final": false,
+    "Updated": "2025-12-01T07:47:35Z",
+    "Started": "2025-11-13T11:15:00Z",
+    "AdminUnit": "Inyo National Forest ",
+    "AdminUnitUrl": null,
+    "County": "Mono",
+    "Location": "McGee Creek Road, West of Highway 395, Crowley Lake",
+    "AcresBurned": 1974.0,
+    "PercentContained": 96.0,
+    "ControlStatement": null,
+    "AgencyNames": "Long Valley Fire Protection District, CHP, Crowley Lake Road Department, Mono County Emergency Management, SCE, AmeriGas,  Bishop Paiute Tribe, CDCR, Big Pine Fire Protection District, Mammoth Lakes Fire Department",
+    "Longitude": -118.788215,
+    "Latitude": 37.56243,
+    "Type": "Wildfire",
+    "UniqueId": "42ce05cd-de08-4d5f-8f0e-be53ba48dc3d",
+    "Url": "https://www.fire.ca.gov/incidents/2025/11/13/pack-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-11-13",
+    "IsActive": false,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
