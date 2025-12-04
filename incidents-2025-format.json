@@ -13873,5 +13873,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Beaver Fire",
+    "Final": false,
+    "Updated": "2025-12-04T12:52:03Z",
+    "Started": "2025-12-04T10:35:33Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Amador",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.3,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.347667,
+    "Latitude": 38.4835,
+    "Type": "Wildfire",
+    "UniqueId": "d34cc9cd-2663-483f-a11e-c2da18f0d289",
+    "Url": "https://www.fire.ca.gov/incidents/2025/12/4/beaver-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2025-12-04",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
