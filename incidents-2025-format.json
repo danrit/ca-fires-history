@@ -13876,15 +13876,15 @@
   },
   {
     "Name": "Beaver Fire",
-    "Final": false,
-    "Updated": "2025-12-04T13:22:18Z",
+    "Final": true,
+    "Updated": "2025-12-05T14:28:02Z",
     "Started": "2025-12-04T10:35:33Z",
     "AdminUnit": "El Dorado National Forest",
     "AdminUnitUrl": null,
     "County": "Amador",
     "Location": " Panther Creek Road North of the North Fork Mokelumne River, Amador County",
     "AcresBurned": 15.3,
-    "PercentContained": null,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -120.347667,
@@ -13895,8 +13895,8 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2025-12-04",
-    "IsActive": true,
-    "CalFireIncident": false,
+    "IsActive": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
