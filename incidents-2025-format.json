@@ -2,12 +2,12 @@
   {
     "Name": "Lamb Fire",
     "Final": false,
-    "Updated": "2026-01-24T17:38:57Z",
+    "Updated": "2026-01-24T18:10:33Z",
     "Started": "2026-01-24T14:17:06Z",
-    "AdminUnit": null,
+    "AdminUnit": "U.S. Forest Service Six Rivers National Forest",
     "AdminUnitUrl": null,
     "County": "Trinity",
-    "Location": "Unknown / TBD",
+    "Location": "Hastings Tie Road, three miles north of Mad River",
     "AcresBurned": 10.0,
     "PercentContained": null,
     "ControlStatement": null,
@@ -21,7 +21,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-01-24",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
