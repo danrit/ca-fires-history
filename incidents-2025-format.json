@@ -48,5 +48,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Sophie St / Hy 74 W Fire",
+    "Final": false,
+    "Updated": "2026-02-04T20:30:21Z",
+    "Started": "2026-02-04T20:17:09Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.258296,
+    "Latitude": 33.766672,
+    "Type": "Wildfire",
+    "UniqueId": "b88c1202-746d-4496-b909-0f6433ef52e1",
+    "Url": "https://www.fire.ca.gov/incidents/2026/2/4/sophie-st-hy-74-w-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-02-04",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
