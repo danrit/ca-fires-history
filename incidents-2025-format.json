@@ -1,8 +1,8 @@
 [
   {
     "Name": "Lamb Fire",
-    "Final": true,
-    "Updated": "2026-02-04T15:37:20Z",
+    "Final": false,
+    "Updated": "2026-02-06T10:20:59Z",
     "Started": "2026-01-24T14:17:06Z",
     "AdminUnit": "U.S. Forest Service Six Rivers National Forest",
     "AdminUnitUrl": null,
@@ -20,7 +20,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-01-24",
-    "IsActive": false,
+    "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
