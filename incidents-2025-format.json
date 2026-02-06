@@ -48,5 +48,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Ag Fire",
+    "Final": false,
+    "Updated": "2026-02-06T14:08:26Z",
+    "Started": "2026-02-06T13:01:09Z",
+    "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
+    "AdminUnitUrl": null,
+    "County": "Modoc",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.473025,
+    "Latitude": 41.525772,
+    "Type": "Wildfire",
+    "UniqueId": "94b577bd-a3da-427e-aef9-ce4e51d750ee",
+    "Url": "https://www.fire.ca.gov/incidents/2026/2/6/ag-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-02-06",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
