@@ -98,5 +98,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Valley Fire",
+    "Final": false,
+    "Updated": "2026-03-13T15:07:48Z",
+    "Started": "2026-03-13T13:51:43Z",
+    "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
+    "AdminUnitUrl": null,
+    "County": "Lassen",
+    "Location": "County Road 429, Pittville",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.325398,
+    "Latitude": 41.091881,
+    "Type": "Wildfire",
+    "UniqueId": "f8f00c08-2df8-4324-9f67-60d84e409fd9",
+    "Url": "https://www.fire.ca.gov/incidents/2026/3/13/valley-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-03-13",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
