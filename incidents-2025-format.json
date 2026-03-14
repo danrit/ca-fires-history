@@ -123,5 +123,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Union Fire",
+    "Final": false,
+    "Updated": "2026-03-13T18:39:05Z",
+    "Started": "2026-03-13T16:17:53Z",
+    "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
+    "AdminUnitUrl": null,
+    "County": "Trinity",
+    "Location": "Union Hill Road and Poplar Lane, Douglas City",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -122.941676,
+    "Latitude": 40.666832,
+    "Type": "Wildfire",
+    "UniqueId": "d74f38dd-d431-4b0d-ad0e-9c66ad4e4ebc",
+    "Url": "https://www.fire.ca.gov/incidents/2026/3/13/union-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-03-13",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
