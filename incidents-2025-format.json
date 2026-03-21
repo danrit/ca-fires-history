@@ -98,5 +98,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Canyon Fire",
+    "Final": false,
+    "Updated": "2026-03-21T15:17:19Z",
+    "Started": "2026-03-20T19:14:00Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Kern",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.288987,
+    "Latitude": 35.31376,
+    "Type": "Wildfire",
+    "UniqueId": "57e6d6fc-66db-4864-8929-a578cac494dc",
+    "Url": "https://www.fire.ca.gov/incidents/2026/3/20/canyon-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-03-20",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
