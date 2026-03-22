@@ -102,12 +102,12 @@
   {
     "Name": "Canyon Fire",
     "Final": false,
-    "Updated": "2026-03-21T15:17:19Z",
+    "Updated": "2026-03-22T10:31:42Z",
     "Started": "2026-03-20T19:14:00Z",
     "AdminUnit": null,
     "AdminUnitUrl": null,
     "County": "Kern",
-    "Location": "Unknown / TBD",
+    "Location": "Near Back Canyon Road ",
     "AcresBurned": 10.0,
     "PercentContained": null,
     "ControlStatement": null,
@@ -121,7 +121,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-03-20",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
