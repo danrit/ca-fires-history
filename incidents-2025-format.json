@@ -173,5 +173,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Almond Fire",
+    "Final": false,
+    "Updated": "2026-03-24T16:00:41Z",
+    "Started": "2026-03-24T13:53:25Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Almond Street / Bonita Avenue, Cabazon",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.773828,
+    "Latitude": 33.914311,
+    "Type": "Wildfire",
+    "UniqueId": "ee631649-6ddb-495e-b1df-3dde26148429",
+    "Url": "https://www.fire.ca.gov/incidents/2026/3/24/almond-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-03-24",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
