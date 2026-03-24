@@ -148,5 +148,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Derrick Fire",
+    "Final": false,
+    "Updated": "2026-03-24T12:04:43Z",
+    "Started": "2026-03-24T11:30:04Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.347595,
+    "Latitude": 36.603111,
+    "Type": "Wildfire",
+    "UniqueId": "52e04bc2-2e07-4b6d-9210-f699a542da3c",
+    "Url": "https://www.fire.ca.gov/incidents/2026/3/24/derrick-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-03-24",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
