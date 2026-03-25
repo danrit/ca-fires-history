@@ -223,5 +223,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Oso Fire",
+    "Final": false,
+    "Updated": "2026-03-24T20:54:07Z",
+    "Started": "2026-03-24T19:06:20Z",
+    "AdminUnit": "CAL FIRE Santa Clara Unit",
+    "AdminUnitUrl": null,
+    "County": "Stanislaus",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.282906,
+    "Latitude": 37.448285,
+    "Type": "Wildfire",
+    "UniqueId": "caa1ae68-931f-4ad0-911e-334235bdc101",
+    "Url": "https://www.fire.ca.gov/incidents/2026/3/24/oso-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-03-24",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
