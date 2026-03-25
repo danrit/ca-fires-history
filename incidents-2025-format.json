@@ -248,5 +248,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Paramount Fire",
+    "Final": false,
+    "Updated": "2026-03-25T15:37:40Z",
+    "Started": "2026-03-25T15:15:30Z",
+    "AdminUnit": "Kings County Fire Department",
+    "AdminUnitUrl": null,
+    "County": "Kings",
+    "Location": "25th Avenue, near Kings and Kern County Line",
+    "AcresBurned": 1000.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.882,
+    "Latitude": 35.823,
+    "Type": "Wildfire",
+    "UniqueId": "312d749f-1cf9-496a-93a6-c77a7cf2b617",
+    "Url": "https://www.fire.ca.gov/incidents/2026/3/25/paramount-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-03-25",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
