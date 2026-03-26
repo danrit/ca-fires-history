@@ -252,13 +252,13 @@
   {
     "Name": "Paramount Fire",
     "Final": false,
-    "Updated": "2026-03-25T17:24:01Z",
+    "Updated": "2026-03-25T18:20:53Z",
     "Started": "2026-03-25T15:15:30Z",
-    "AdminUnit": "Kings County Fire Department",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
     "County": "Kings",
     "Location": "25th Avenue, near Kings and Kern County Line",
-    "AcresBurned": 1000.0,
+    "AcresBurned": 2000.0,
     "PercentContained": 10.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -271,7 +271,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-03-25",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
