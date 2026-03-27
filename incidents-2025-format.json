@@ -273,5 +273,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Sheep Springs Fire",
+    "Final": false,
+    "Updated": "2026-03-27T15:59:45Z",
+    "Started": "2026-03-27T15:51:07Z",
+    "AdminUnit": "Unified Command: Kern County Fire Department & Bureau of Land Management - Desert District",
+    "AdminUnitUrl": null,
+    "County": "Kern",
+    "Location": "South of Hwy 395 & Brown Road, Ridgecrest",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.78,
+    "Latitude": 36.5,
+    "Type": "Wildfire",
+    "UniqueId": "43975eba-2d19-400a-be01-d99047a1c6be",
+    "Url": "https://www.fire.ca.gov/incidents/2026/3/27/sheep-springs-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-03-27",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
