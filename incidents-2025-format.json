@@ -298,5 +298,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Sunny Fire",
+    "Final": false,
+    "Updated": "2026-03-28T17:54:26Z",
+    "Started": "2026-03-28T13:46:37Z",
+    "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
+    "AdminUnitUrl": null,
+    "County": "Napa",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -122.467775,
+    "Latitude": 38.537939,
+    "Type": "Wildfire",
+    "UniqueId": "5001511b-8685-4f15-9ddf-640d879d2297",
+    "Url": "https://www.fire.ca.gov/incidents/2026/3/28/sunny-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-03-28",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
