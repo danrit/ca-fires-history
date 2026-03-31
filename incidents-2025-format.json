@@ -276,8 +276,8 @@
   },
   {
     "Name": "Sheep Springs Fire",
-    "Final": false,
-    "Updated": "2026-03-30T18:15:31Z",
+    "Final": true,
+    "Updated": "2026-03-30T21:52:42Z",
     "Started": "2026-03-27T15:51:07Z",
     "AdminUnit": "Unified Command: Kern County Fire Department & Bureau of Land Management -Desert District",
     "AdminUnitUrl": null,
@@ -295,7 +295,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-03-27",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -327,7 +327,7 @@
   {
     "Name": "Pin Fire",
     "Final": false,
-    "Updated": "2026-03-30T18:46:21Z",
+    "Updated": "2026-03-30T20:52:11Z",
     "Started": "2026-03-30T15:51:50Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
