@@ -323,5 +323,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Well Fire",
+    "Final": false,
+    "Updated": "2026-04-02T11:19:05Z",
+    "Started": "2026-04-02T10:10:50Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 150.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.313486,
+    "Latitude": 36.229742,
+    "Type": "Wildfire",
+    "UniqueId": "fd18afa4-2577-4655-942f-7e6998783f7d",
+    "Url": "https://www.fire.ca.gov/incidents/2026/4/2/well-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-04-02",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
