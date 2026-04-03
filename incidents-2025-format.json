@@ -326,8 +326,8 @@
   },
   {
     "Name": "Well Fire",
-    "Final": false,
-    "Updated": "2026-04-02T22:08:58Z",
+    "Final": true,
+    "Updated": "2026-04-03T07:55:01Z",
     "Started": "2026-04-02T10:10:50Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
@@ -345,7 +345,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-04-02",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
