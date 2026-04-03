@@ -348,5 +348,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Springs Fire",
+    "Final": false,
+    "Updated": "2026-04-03T12:05:23Z",
+    "Started": "2026-04-03T11:01:30Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Gilman Springs Road, East of Moreno Valley",
+    "AcresBurned": 50.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "Hemet City Fire Department; Riverside City Fire Department; Pechanga Fire Department; ",
+    "Longitude": -117.078415,
+    "Latitude": 33.891678,
+    "Type": "Wildfire",
+    "UniqueId": "8767de7a-c662-4dd0-965e-7fb6be9793f4",
+    "Url": "https://www.fire.ca.gov/incidents/2026/4/3/springs-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-04-03",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
