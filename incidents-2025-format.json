@@ -427,7 +427,7 @@
   {
     "Name": "Blue Fire",
     "Final": false,
-    "Updated": "2026-04-06T12:16:46Z",
+    "Updated": "2026-04-06T14:18:00Z",
     "Started": "2026-04-06T10:08:00Z",
     "AdminUnit": "Kern County Fire Department",
     "AdminUnitUrl": null,
@@ -446,7 +446,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-04-06",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
