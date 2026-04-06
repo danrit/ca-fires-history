@@ -423,5 +423,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Blue Fire",
+    "Final": false,
+    "Updated": "2026-04-06T12:16:46Z",
+    "Started": "2026-04-06T10:08:00Z",
+    "AdminUnit": "Kern County Fire Department",
+    "AdminUnitUrl": null,
+    "County": "Kern",
+    "Location": "Highway 155, West of Blue Mountain Road, Woody",
+    "AcresBurned": 15.4,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.814608,
+    "Latitude": 35.715926,
+    "Type": "Wildfire",
+    "UniqueId": "c7154033-1cf7-41e9-8442-0a318020786e",
+    "Url": "https://www.fire.ca.gov/incidents/2026/4/6/blue-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-04-06",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
