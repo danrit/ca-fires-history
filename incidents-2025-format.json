@@ -473,5 +473,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Bourbon Fire",
+    "Final": false,
+    "Updated": "2026-04-08T02:50:39Z",
+    "Started": "2026-04-08T02:02:13Z",
+    "AdminUnit": "CAL FIRE San Bernardino Unit",
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.00732,
+    "Latitude": 34.414446,
+    "Type": "Wildfire",
+    "UniqueId": "570d39ad-89ee-4cc8-b78b-d1daf10fd202",
+    "Url": "https://www.fire.ca.gov/incidents/2026/4/8/bourbon-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-04-08",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
