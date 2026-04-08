@@ -502,7 +502,7 @@
   {
     "Name": "Jess Fire",
     "Final": false,
-    "Updated": "2026-04-08T14:07:08Z",
+    "Updated": "2026-04-08T14:25:14Z",
     "Started": "2026-04-08T11:32:34Z",
     "AdminUnit": null,
     "AdminUnitUrl": null,
@@ -520,7 +520,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-04-08",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
