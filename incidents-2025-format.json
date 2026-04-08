@@ -448,5 +448,30 @@
     "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Swiss Fire",
+    "Final": false,
+    "Updated": "2026-04-07T17:45:04Z",
+    "Started": "2026-04-07T16:28:11Z",
+    "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+    "AdminUnitUrl": null,
+    "County": "Calaveras",
+    "Location": "6900 block Swiss Ranch Road, Mountain Ranch",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.405261,
+    "Latitude": 38.306181,
+    "Type": "Wildfire",
+    "UniqueId": "724258fc-5e0b-462f-9d51-8d63e5aaa56b",
+    "Url": "https://www.fire.ca.gov/incidents/2026/4/7/swiss-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-04-07",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
