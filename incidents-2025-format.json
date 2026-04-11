@@ -476,8 +476,8 @@
   },
   {
     "Name": "Bourbon Fire",
-    "Final": false,
-    "Updated": "2026-04-10T09:48:00Z",
+    "Final": true,
+    "Updated": "2026-04-10T22:04:55Z",
     "Started": "2026-04-08T02:02:13Z",
     "AdminUnit": "CAL FIRE San Bernardino Unit",
     "AdminUnitUrl": null,
@@ -492,10 +492,10 @@
     "Type": "Wildfire",
     "UniqueId": "570d39ad-89ee-4cc8-b78b-d1daf10fd202",
     "Url": "https://www.fire.ca.gov/incidents/2026/4/8/bourbon-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2026-04-10T09:48:44Z",
+    "ExtinguishedDateOnly": "2026-04-10",
     "StartedDateOnly": "2026-04-08",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -526,8 +526,8 @@
   },
   {
     "Name": "Rider Fire",
-    "Final": false,
-    "Updated": "2026-04-10T21:30:50Z",
+    "Final": true,
+    "Updated": "2026-04-10T22:04:32Z",
     "Started": "2026-04-10T14:59:04Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -545,7 +545,7 @@
     "ExtinguishedDate": "2026-04-10T19:56:28Z",
     "ExtinguishedDateOnly": "2026-04-10",
     "StartedDateOnly": "2026-04-10",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
