@@ -576,8 +576,8 @@
   },
   {
     "Name": "19th Fire",
-    "Final": false,
-    "Updated": "2026-04-14T19:48:21Z",
+    "Final": true,
+    "Updated": "2026-04-14T21:55:35Z",
     "Started": "2026-04-14T16:37:43Z",
     "AdminUnit": "Kings County Fire Department",
     "AdminUnitUrl": null,
@@ -592,10 +592,10 @@
     "Type": "Wildfire",
     "UniqueId": "83465b38-5c6d-4392-8448-86970f42bf82",
     "Url": "https://www.fire.ca.gov/incidents/2026/4/14/19th-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2026-04-14T17:30:00Z",
+    "ExtinguishedDateOnly": "2026-04-14",
     "StartedDateOnly": "2026-04-14",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   }
