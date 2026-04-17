@@ -676,8 +676,8 @@
   },
   {
     "Name": "Keaton Fire",
-    "Final": false,
-    "Updated": "2026-04-16T21:47:54Z",
+    "Final": true,
+    "Updated": "2026-04-17T06:03:01Z",
     "Started": "2026-04-16T15:22:27Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
@@ -695,7 +695,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-04-16",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
