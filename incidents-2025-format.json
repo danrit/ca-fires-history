@@ -773,5 +773,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Johnson Fire",
+    "Final": true,
+    "Updated": "2026-04-18T16:11:57Z",
+    "Started": "2026-04-18T12:52:58Z",
+    "AdminUnit": "Bureau of Land Management",
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Quarry Road and Central Road. Apple Valley",
+    "AcresBurned": 12.0,
+    "PercentContained": 100.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.171806,
+    "Latitude": 34.615749,
+    "Type": "Wildfire",
+    "UniqueId": "8c870ebc-7b53-4eda-bf16-2b95ee692184",
+    "Url": "https://www.fire.ca.gov/incidents/2026/4/18/johnson-fire/",
+    "ExtinguishedDate": "2026-04-18T15:30:00Z",
+    "ExtinguishedDateOnly": "2026-04-18",
+    "StartedDateOnly": "2026-04-18",
+    "IsActive": false,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
