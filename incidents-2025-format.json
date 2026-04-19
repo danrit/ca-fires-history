@@ -627,7 +627,7 @@
   {
     "Name": "Iona Fire ",
     "Final": false,
-    "Updated": "2026-04-17T13:46:46Z",
+    "Updated": "2026-04-18T18:41:47Z",
     "Started": "2026-04-16T16:54:55Z",
     "AdminUnit": "LA County Fire Department",
     "AdminUnitUrl": null,
@@ -651,8 +651,8 @@
   },
   {
     "Name": "Ember Fire ",
-    "Final": false,
-    "Updated": "2026-04-17T13:46:47Z",
+    "Final": true,
+    "Updated": "2026-04-18T18:38:42Z",
     "Started": "2026-04-16T17:01:39Z",
     "AdminUnit": "LA County Fire Department",
     "AdminUnitUrl": null,
@@ -667,10 +667,10 @@
     "Type": "Wildfire",
     "UniqueId": "3aa2187d-4e91-428a-8854-18a4c5913d64",
     "Url": "https://www.fire.ca.gov/incidents/2026/4/16/ember-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2026-04-18T18:30:00Z",
+    "ExtinguishedDateOnly": "2026-04-18",
     "StartedDateOnly": "2026-04-16",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
