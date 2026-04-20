@@ -802,7 +802,7 @@
   {
     "Name": "Skyline Fire",
     "Final": false,
-    "Updated": "2026-04-19T16:14:47Z",
+    "Updated": "2026-04-19T16:50:35Z",
     "Started": "2026-04-19T14:03:26Z",
     "AdminUnit": "CAL FIRE San Bernardino Unit",
     "AdminUnitUrl": null,
@@ -827,18 +827,18 @@
   {
     "Name": "Tumey Fire",
     "Final": false,
-    "Updated": "2026-04-19T16:17:08Z",
+    "Updated": "2026-04-19T16:59:59Z",
     "Started": "2026-04-19T14:02:00Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
     "County": "Fresno",
     "Location": "Panoche Road, Fresno",
-    "AcresBurned": 270.6,
+    "AcresBurned": 536.6,
     "PercentContained": 0.0,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -120.6435,
-    "Latitude": 36.6204,
+    "Longitude": -120.656805,
+    "Latitude": 36.616572,
     "Type": "Wildfire",
     "UniqueId": "c0c3e864-a454-4ba8-8fa0-e56fbfd6ab9d",
     "Url": "https://www.fire.ca.gov/incidents/2026/4/19/tumey-fire/",
@@ -846,7 +846,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-04-19",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
