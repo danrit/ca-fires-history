@@ -2,9 +2,9 @@
   {
     "Name": "Reynolds Fire",
     "Final": false,
-    "Updated": "2026-04-20T20:20:55Z",
+    "Updated": "2026-04-21T14:54:54Z",
     "Started": "2026-04-20T15:02:57Z",
-    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnit": "Merced County Fire Department",
     "AdminUnitUrl": null,
     "County": "Merced",
     "Location": "South Reynolds Ave and Christian Ave, Dos Palos",
@@ -21,7 +21,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-04-20",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
@@ -877,7 +877,7 @@
   {
     "Name": "Tumey Fire",
     "Final": false,
-    "Updated": "2026-04-21T14:16:23Z",
+    "Updated": "2026-04-21T14:24:18Z",
     "Started": "2026-04-19T14:02:00Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
