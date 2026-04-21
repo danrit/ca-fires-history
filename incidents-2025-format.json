@@ -2,7 +2,7 @@
   {
     "Name": "Reynolds Fire",
     "Final": false,
-    "Updated": "2026-04-20T20:10:01Z",
+    "Updated": "2026-04-20T20:20:55Z",
     "Started": "2026-04-20T15:02:57Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
@@ -901,8 +901,8 @@
   },
   {
     "Name": "Helios Fire",
-    "Final": false,
-    "Updated": "2026-04-20T17:11:17Z",
+    "Final": true,
+    "Updated": "2026-04-20T22:03:32Z",
     "Started": "2026-04-19T20:43:24Z",
     "AdminUnit": "CAL FIRE San Luis Obispo Unit",
     "AdminUnitUrl": null,
@@ -917,10 +917,10 @@
     "Type": "Wildfire",
     "UniqueId": "3c354867-68ad-4b7f-a7bf-5d7251b88646",
     "Url": "https://www.fire.ca.gov/incidents/2026/4/19/helios-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2026-04-20T22:02:53Z",
+    "ExtinguishedDateOnly": "2026-04-20",
     "StartedDateOnly": "2026-04-19",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
