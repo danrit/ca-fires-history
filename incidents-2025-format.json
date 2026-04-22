@@ -27,7 +27,7 @@
   {
     "Name": "Bonita Fire",
     "Final": false,
-    "Updated": "2026-04-20T17:35:06Z",
+    "Updated": "2026-04-22T08:45:46Z",
     "Started": "2026-04-20T11:17:24Z",
     "AdminUnit": "USFS - Sequoia National Forest",
     "AdminUnitUrl": null,
@@ -46,7 +46,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-04-20",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   },
   {
@@ -952,14 +952,14 @@
   {
     "Name": "Redrock Fire",
     "Final": false,
-    "Updated": "2026-04-21T19:00:24Z",
+    "Updated": "2026-04-22T08:51:28Z",
     "Started": "2026-04-21T15:59:13Z",
     "AdminUnit": "Kern County Fire Department",
     "AdminUnitUrl": null,
     "County": "Kern",
     "Location": "Redrock Randsburg road & Hwy 14, Gypsite",
-    "AcresBurned": 215.0,
-    "PercentContained": null,
+    "AcresBurned": 283.0,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -117.9112,
