@@ -877,7 +877,7 @@
   {
     "Name": "Tumey Fire",
     "Final": true,
-    "Updated": "2026-04-21T22:05:52Z",
+    "Updated": "2026-04-21T22:06:10Z",
     "Started": "2026-04-19T14:02:00Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
@@ -892,10 +892,10 @@
     "Type": "Wildfire",
     "UniqueId": "c0c3e864-a454-4ba8-8fa0-e56fbfd6ab9d",
     "Url": "https://www.fire.ca.gov/incidents/2026/4/19/tumey-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2026-04-21T22:06:06Z",
+    "ExtinguishedDateOnly": "2026-04-21",
     "StartedDateOnly": "2026-04-19",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
