@@ -977,7 +977,7 @@
   {
     "Name": "Lincoln Fire",
     "Final": false,
-    "Updated": "2026-04-23T00:09:33Z",
+    "Updated": "2026-04-23T08:49:26Z",
     "Started": "2026-04-22T21:06:29Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -986,7 +986,7 @@
     "AcresBurned": 17.0,
     "PercentContained": null,
     "ControlStatement": null,
-    "AgencyNames": "Palm Springs Fire, Soboba Fire ",
+    "AgencyNames": "",
     "Longitude": -116.078972,
     "Latitude": 33.540065,
     "Type": "Wildfire",
@@ -1002,7 +1002,7 @@
   {
     "Name": "Hog Fire ",
     "Final": false,
-    "Updated": "2026-04-23T08:10:25Z",
+    "Updated": "2026-04-23T09:02:28Z",
     "Started": "2026-04-23T06:43:30Z",
     "AdminUnit": "Sierra National Forest",
     "AdminUnitUrl": null,
