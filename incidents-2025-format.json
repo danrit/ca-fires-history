@@ -973,5 +973,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Lincoln St / Ave 70 Fire",
+    "Final": false,
+    "Updated": "2026-04-22T21:55:40Z",
+    "Started": "2026-04-22T21:06:29Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.078972,
+    "Latitude": 33.540065,
+    "Type": "Wildfire",
+    "UniqueId": "409e2a7f-6968-4809-a7f3-b4b70bd74291",
+    "Url": "https://www.fire.ca.gov/incidents/2026/4/22/lincoln-st-ave-70-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-04-22",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
