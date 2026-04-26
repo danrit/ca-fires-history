@@ -1026,8 +1026,8 @@
   },
   {
     "Name": "Lost Fire",
-    "Final": false,
-    "Updated": "2026-04-25T13:38:07Z",
+    "Final": true,
+    "Updated": "2026-04-25T22:15:34Z",
     "Started": "2026-04-24T20:05:32Z",
     "AdminUnit": "Kern County Fire Department",
     "AdminUnitUrl": null,
@@ -1045,7 +1045,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-04-24",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
