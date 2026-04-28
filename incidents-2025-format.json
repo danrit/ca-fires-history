@@ -1073,5 +1073,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Pine Fire",
+    "Final": false,
+    "Updated": "2026-04-28T12:37:05Z",
+    "Started": "2026-04-28T11:59:48Z",
+    "AdminUnit": "CAL FIRE San Benito-Monterey Unit",
+    "AdminUnitUrl": null,
+    "County": "Monterey",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 40.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.869922,
+    "Latitude": 36.165819,
+    "Type": "Wildfire",
+    "UniqueId": "3ccb43c8-cc08-432f-bb6a-007d59b872b4",
+    "Url": "https://www.fire.ca.gov/incidents/2026/4/28/pine-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-04-28",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
