@@ -1173,5 +1173,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Douglas Fire",
+    "Final": false,
+    "Updated": "2026-04-30T03:12:10Z",
+    "Started": "2026-04-30T02:40:27Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 25.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.491517,
+    "Latitude": 36.883029,
+    "Type": "Wildfire",
+    "UniqueId": "a1b88170-c656-48fe-95ae-62e743ae075a",
+    "Url": "https://www.fire.ca.gov/incidents/2026/4/30/douglas-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-04-30",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
