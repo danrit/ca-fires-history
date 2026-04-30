@@ -1148,5 +1148,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "San Benito Ave /w Panoche Rd Fire",
+    "Final": false,
+    "Updated": "2026-04-30T00:56:11Z",
+    "Started": "2026-04-30T00:06:58Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 300.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.361017,
+    "Latitude": 36.730983,
+    "Type": "Wildfire",
+    "UniqueId": "7fc17a2c-aef0-4d3b-ad48-48365dfa11ef",
+    "Url": "https://www.fire.ca.gov/incidents/2026/4/30/san-benito-ave-w-panoche-rd-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-04-30",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
