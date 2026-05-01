@@ -1227,7 +1227,7 @@
   {
     "Name": "Landmark Fire",
     "Final": false,
-    "Updated": "2026-05-01T14:48:27Z",
+    "Updated": "2026-05-01T15:59:55Z",
     "Started": "2026-05-01T13:28:25Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -1236,7 +1236,7 @@
     "AcresBurned": 10.0,
     "PercentContained": 25.0,
     "ControlStatement": null,
-    "AgencyNames": "San Diego Sheriff Department. \nUS Forrest Service - Cleveland National Forrest. ",
+    "AgencyNames": "San Diego Sheriff Department. \nUS Forest Service - Cleveland National Forrest. ",
     "Longitude": -116.523796,
     "Latitude": 33.228012,
     "Type": "Wildfire",
