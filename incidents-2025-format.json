@@ -1198,5 +1198,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Trinity Fire",
+    "Final": false,
+    "Updated": "2026-05-01T13:24:16Z",
+    "Started": "2026-05-01T11:54:49Z",
+    "AdminUnit": "CAL FIRE San Bernardino Unit - Unified Command with San Bernardino County Fire Department",
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Trinity Rd and Acanthus St. Phelan",
+    "AcresBurned": 18.6,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "San Bernardino County Sheriff",
+    "Longitude": -117.525153,
+    "Latitude": 34.417488,
+    "Type": "Wildfire",
+    "UniqueId": "5d410c0e-21e9-4880-9cbc-3ba97dd9d50e",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/1/trinity-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-01",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
