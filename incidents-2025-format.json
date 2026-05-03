@@ -1252,7 +1252,7 @@
   {
     "Name": "Mission Fire",
     "Final": false,
-    "Updated": "2026-05-03T06:19:46Z",
+    "Updated": "2026-05-03T07:21:43Z",
     "Started": "2026-05-02T12:26:35Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -1277,7 +1277,7 @@
   {
     "Name": "Gopher Fire",
     "Final": false,
-    "Updated": "2026-05-03T06:19:48Z",
+    "Updated": "2026-05-03T07:25:40Z",
     "Started": "2026-05-02T14:39:01Z",
     "AdminUnit": "Unified Command: CAL FIRE Riverside Unit and Cleveland National Forest ",
     "AdminUnitUrl": null,
@@ -1287,8 +1287,8 @@
     "PercentContained": 40.0,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -116.922673,
-    "Latitude": 33.463155,
+    "Longitude": -116.91934,
+    "Latitude": 33.463566,
     "Type": "Wildfire",
     "UniqueId": "f7af6142-3c44-4005-a255-6a0bed6544bd",
     "Url": "https://www.fire.ca.gov/incidents/2026/5/2/gopher-fire/",
