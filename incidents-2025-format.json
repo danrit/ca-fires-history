@@ -1523,5 +1523,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "1st Fire",
+    "Final": false,
+    "Updated": "2026-05-08T13:07:31Z",
+    "Started": "2026-05-08T10:36:01Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "East 1st Street and Pennsylvania Avenue, Beaumont",
+    "AcresBurned": 13.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -116.966021,
+    "Latitude": 33.9217,
+    "Type": "Wildfire",
+    "UniqueId": "8ab7c3b4-4542-4ee0-afc3-0d1dee5a5195",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/8/1st-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-08",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
