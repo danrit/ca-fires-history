@@ -1426,8 +1426,8 @@
   },
   {
     "Name": "Baker Fire",
-    "Final": false,
-    "Updated": "2026-05-07T16:06:54Z",
+    "Final": true,
+    "Updated": "2026-05-07T21:26:57Z",
     "Started": "2026-05-06T18:15:27Z",
     "AdminUnit": "Kern County Fire Department ",
     "AdminUnitUrl": null,
@@ -1445,7 +1445,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-05-06",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
