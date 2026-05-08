@@ -1477,7 +1477,7 @@
   {
     "Name": "Canyon Fire",
     "Final": false,
-    "Updated": "2026-05-07T17:54:16Z",
+    "Updated": "2026-05-07T18:22:15Z",
     "Started": "2026-05-07T15:54:35Z",
     "AdminUnit": "Bureau of Land Management",
     "AdminUnitUrl": null,
@@ -1497,6 +1497,31 @@
     "StartedDateOnly": "2026-05-07",
     "IsActive": true,
     "CalFireIncident": false,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Acorn Fire",
+    "Final": false,
+    "Updated": "2026-05-07T18:31:52Z",
+    "Started": "2026-05-07T14:52:18Z",
+    "AdminUnit": "Unified Command: CAL FIRE San Bernardino Unit & San Bernardino County Fire",
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Acorn Road and Hwy 138, Pinon Hills ",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.630638,
+    "Latitude": 34.432653,
+    "Type": "Wildfire",
+    "UniqueId": "dc6385e4-38c2-4697-bdb8-b623aab54957",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/7/acorn-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-07",
+    "IsActive": true,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
