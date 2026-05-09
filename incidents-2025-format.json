@@ -1577,7 +1577,7 @@
   {
     "Name": "Haven Fire",
     "Final": false,
-    "Updated": "2026-05-09T06:37:32Z",
+    "Updated": "2026-05-09T08:30:00Z",
     "Started": "2026-05-08T21:42:23Z",
     "AdminUnit": "US Bureau of Indian Affairs",
     "AdminUnitUrl": null,
@@ -1596,7 +1596,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-05-08",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
