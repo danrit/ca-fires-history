@@ -1573,5 +1573,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Haven Fire",
+    "Final": false,
+    "Updated": "2026-05-09T00:29:04Z",
+    "Started": "2026-05-08T21:42:23Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Imperial",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -114.62211,
+    "Latitude": 32.73624,
+    "Type": "Wildfire",
+    "UniqueId": "23fa20df-873a-4096-837a-e30a68b29ae5",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/8/haven-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-08",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
