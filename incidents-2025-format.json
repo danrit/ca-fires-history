@@ -1698,5 +1698,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Willow Fire ",
+    "Final": false,
+    "Updated": "2026-05-10T14:09:52Z",
+    "Started": "2026-05-10T14:02:51Z",
+    "AdminUnit": "Kern County Fire Department ",
+    "AdminUnitUrl": null,
+    "County": "Kern",
+    "Location": "120th St W & Rosamond Blvd, Rosamond",
+    "AcresBurned": 40.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.3448,
+    "Latitude": 34.8662,
+    "Type": "Wildfire",
+    "UniqueId": "b59aee07-23a7-4975-a2f8-bb47cc51953a",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/10/willow-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-10",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
