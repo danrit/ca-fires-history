@@ -1773,5 +1773,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Mayhew Fire ",
+    "Final": false,
+    "Updated": "2026-05-11T13:19:27Z",
+    "Started": "2026-05-11T12:37:59Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Temescal Canyon Road and Mayhew Road, Temescal Canyon",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "Cleveland National Forest; Corona Fire Department, March Fire Department; Riverside City Fire Department; CAL FIRE San Bernardino Unit",
+    "Longitude": -117.471416,
+    "Latitude": 33.762371,
+    "Type": "Wildfire",
+    "UniqueId": "bc4030fe-3e1c-469e-9513-839074a60fda",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/11/mayhew-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-11",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
