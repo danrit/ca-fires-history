@@ -1798,5 +1798,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Ramona Fire",
+    "Final": false,
+    "Updated": "2026-05-11T14:06:45Z",
+    "Started": "2026-05-11T12:16:41Z",
+    "AdminUnit": "CAL FIRE Riverside Unit ",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": " Lake Perris Drive and Ramona Expressway, unincorporated Perris ",
+    "AcresBurned": 10.0,
+    "PercentContained": 100.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.204183,
+    "Latitude": 33.845919,
+    "Type": "Wildfire",
+    "UniqueId": "38072cab-1319-4e37-8cf7-eff12add7f41",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/11/ramona-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-11",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
