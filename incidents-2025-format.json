@@ -1748,5 +1748,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Lake Fire",
+    "Final": true,
+    "Updated": "2026-05-11T12:23:48Z",
+    "Started": "2026-05-11T09:49:23Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "South Lake Ave and West Paige Ave, Westside",
+    "AcresBurned": 40.0,
+    "PercentContained": 100.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.139041,
+    "Latitude": 36.38595,
+    "Type": "Wildfire",
+    "UniqueId": "3e3f0399-f519-47dd-b8cb-09be4fae33e3",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/11/lake-fire/",
+    "ExtinguishedDate": "2026-05-11T12:00:00Z",
+    "ExtinguishedDateOnly": "2026-05-11",
+    "StartedDateOnly": "2026-05-11",
+    "IsActive": false,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
