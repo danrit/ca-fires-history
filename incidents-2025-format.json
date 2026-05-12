@@ -1826,8 +1826,8 @@
   },
   {
     "Name": "Bradley Fire",
-    "Final": false,
-    "Updated": "2026-05-11T16:25:48Z",
+    "Final": true,
+    "Updated": "2026-05-11T16:28:53Z",
     "Started": "2026-05-11T10:55:20Z",
     "AdminUnit": "CAL FIRE San Luis Obispo Unit",
     "AdminUnitUrl": null,
@@ -1842,10 +1842,10 @@
     "Type": "Wildfire",
     "UniqueId": "f0fc59fc-1fe0-4e4f-b8fb-bef190a41302",
     "Url": "https://www.fire.ca.gov/incidents/2026/5/11/bradley-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2026-05-11T15:02:00Z",
+    "ExtinguishedDateOnly": "2026-05-11",
     "StartedDateOnly": "2026-05-11",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
