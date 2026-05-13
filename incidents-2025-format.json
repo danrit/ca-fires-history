@@ -1873,5 +1873,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Bend Fire",
+    "Final": false,
+    "Updated": "2026-05-13T15:12:44Z",
+    "Started": "2026-05-13T14:04:26Z",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnitUrl": null,
+    "County": "Mariposa",
+    "Location": "Hwy 132 / West of Hwy 49, Coulterville",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.227326,
+    "Latitude": 37.706084,
+    "Type": "Wildfire",
+    "UniqueId": "78a2e264-0a44-4b0f-9b72-617764181ff2",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/13/bend-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-13",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
