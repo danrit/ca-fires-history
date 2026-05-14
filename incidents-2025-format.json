@@ -1998,5 +1998,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Camp Roberts Bob Fire",
+    "Final": false,
+    "Updated": "2026-05-14T13:01:15Z",
+    "Started": "2026-05-14T12:20:26Z",
+    "AdminUnit": "CAL FIRE San Luis Obispo Unit",
+    "AdminUnitUrl": null,
+    "County": "San Luis Obispo",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.811504,
+    "Latitude": 35.829565,
+    "Type": "Wildfire",
+    "UniqueId": "3ca054a6-c7e4-4969-b070-7644402a88b3",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/14/camp-roberts-bob-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-14",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
