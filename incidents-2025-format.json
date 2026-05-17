@@ -2173,5 +2173,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "James Fire",
+    "Final": false,
+    "Updated": "2026-05-17T01:09:28Z",
+    "Started": "2026-05-16T23:08:46Z",
+    "AdminUnit": "CAL FIRE Santa Clara Unit",
+    "AdminUnitUrl": null,
+    "County": "Contra Costa",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.825759,
+    "Latitude": 37.970915,
+    "Type": "Wildfire",
+    "UniqueId": "1545d4a0-bde9-45fb-81c6-426f8e4b597a",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/16/james-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-16",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
