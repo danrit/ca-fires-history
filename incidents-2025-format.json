@@ -2098,5 +2098,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Champlin Fire",
+    "Final": false,
+    "Updated": "2026-05-17T09:39:09Z",
+    "Started": "2026-05-17T09:05:45Z",
+    "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
+    "AdminUnitUrl": null,
+    "County": "Tehama",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -122.080013,
+    "Latitude": 39.969727,
+    "Type": "Wildfire",
+    "UniqueId": "2991ccc1-2ca3-4255-bf3a-b20b64c02d3e",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/17/champlin-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-17",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
