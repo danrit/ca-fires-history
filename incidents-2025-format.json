@@ -1952,7 +1952,7 @@
   {
     "Name": "Santa Rosa Island Fire",
     "Final": false,
-    "Updated": "2026-05-20T22:12:30Z",
+    "Updated": "2026-05-21T09:12:37Z",
     "Started": "2026-05-15T16:19:54Z",
     "AdminUnit": "National Park Service ",
     "AdminUnitUrl": null,
@@ -2202,7 +2202,7 @@
   {
     "Name": "Sandy Fire",
     "Final": false,
-    "Updated": "2026-05-21T07:09:41Z",
+    "Updated": "2026-05-21T09:56:43Z",
     "Started": "2026-05-18T10:50:10Z",
     "AdminUnit": "Ventura County Fire Department",
     "AdminUnitUrl": null,
@@ -2252,7 +2252,7 @@
   {
     "Name": "Burro Fire",
     "Final": false,
-    "Updated": "2026-05-20T17:05:18Z",
+    "Updated": "2026-05-21T09:26:54Z",
     "Started": "2026-05-18T13:26:18Z",
     "AdminUnit": "US Forest Service-Angeles National Forest",
     "AdminUnitUrl": null,
@@ -2377,7 +2377,7 @@
   {
     "Name": "Bain Fire",
     "Final": false,
-    "Updated": "2026-05-21T07:09:43Z",
+    "Updated": "2026-05-21T08:44:27Z",
     "Started": "2026-05-19T11:24:05Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -2386,7 +2386,7 @@
     "AcresBurned": 1456.0,
     "PercentContained": 39.0,
     "ControlStatement": null,
-    "AgencyNames": "Ontario Fire Department; CAL FIRE San Bernardino; CAL FIRE San Diego; Riverside City Fire Department ",
+    "AgencyNames": "Riverside County EMD; CDCR; Riverside PD; Riverside City Fire Department; SoCal Gas; Riverside County Parks; CAL OES; City of Jurupa Valley; ",
     "Longitude": -117.50467,
     "Latitude": 33.964077,
     "Type": "Wildfire",
@@ -2402,7 +2402,7 @@
   {
     "Name": "Tusil Fire",
     "Final": false,
-    "Updated": "2026-05-21T07:10:46Z",
+    "Updated": "2026-05-21T08:44:35Z",
     "Started": "2026-05-19T13:00:08Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -2427,7 +2427,7 @@
   {
     "Name": "Verona Fire",
     "Final": false,
-    "Updated": "2026-05-21T07:07:05Z",
+    "Updated": "2026-05-21T09:01:11Z",
     "Started": "2026-05-19T12:20:57Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -2502,7 +2502,7 @@
   {
     "Name": "Whitlock Fire",
     "Final": false,
-    "Updated": "2026-05-20T13:37:02Z",
+    "Updated": "2026-05-21T09:23:22Z",
     "Started": "2026-05-19T04:57:56Z",
     "AdminUnit": " Bureau of Land Management",
     "AdminUnitUrl": null,
@@ -2576,8 +2576,8 @@
   },
   {
     "Name": "Golden Fire",
-    "Final": false,
-    "Updated": "2026-05-20T21:41:59Z",
+    "Final": true,
+    "Updated": "2026-05-21T09:29:18Z",
     "Started": "2026-05-20T17:39:43Z",
     "AdminUnit": "CAL FIRE San Luis Obispo Unit",
     "AdminUnitUrl": null,
@@ -2592,10 +2592,10 @@
     "Type": "Wildfire",
     "UniqueId": "f5ee46e0-9d6d-4b5c-b54b-860727d07313",
     "Url": "https://www.fire.ca.gov/incidents/2026/5/20/golden-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2026-05-20T18:19:00Z",
+    "ExtinguishedDateOnly": "2026-05-20",
     "StartedDateOnly": "2026-05-20",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
