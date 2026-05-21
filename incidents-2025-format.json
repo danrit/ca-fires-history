@@ -2202,7 +2202,7 @@
   {
     "Name": "Sandy Fire",
     "Final": false,
-    "Updated": "2026-05-21T09:56:43Z",
+    "Updated": "2026-05-21T10:26:39Z",
     "Started": "2026-05-18T10:50:10Z",
     "AdminUnit": "Ventura County Fire Department",
     "AdminUnitUrl": null,
@@ -2377,7 +2377,7 @@
   {
     "Name": "Bain Fire",
     "Final": false,
-    "Updated": "2026-05-21T08:44:27Z",
+    "Updated": "2026-05-21T10:19:59Z",
     "Started": "2026-05-19T11:24:05Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -2502,13 +2502,13 @@
   {
     "Name": "Whitlock Fire",
     "Final": false,
-    "Updated": "2026-05-21T09:23:22Z",
+    "Updated": "2026-05-21T10:06:19Z",
     "Started": "2026-05-19T04:57:56Z",
     "AdminUnit": " Bureau of Land Management",
     "AdminUnitUrl": null,
     "County": "Imperial",
     "Location": "Whitlock Road and Graeser Road, near Holtville",
-    "AcresBurned": 100.0,
+    "AcresBurned": 95.5,
     "PercentContained": 40.0,
     "ControlStatement": null,
     "AgencyNames": "",
