@@ -2427,7 +2427,7 @@
   {
     "Name": "Verona Fire",
     "Final": false,
-    "Updated": "2026-05-22T11:45:21Z",
+    "Updated": "2026-05-22T14:27:48Z",
     "Started": "2026-05-19T12:20:57Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -2697,6 +2697,31 @@
     "StartedDateOnly": "2026-05-21",
     "IsActive": true,
     "CalFireIncident": true,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Irone Fire",
+    "Final": false,
+    "Updated": "2026-05-22T14:32:37Z",
+    "Started": "2026-05-22T14:22:40Z",
+    "AdminUnit": "Kern County Fire Department",
+    "AdminUnitUrl": null,
+    "County": "Kern",
+    "Location": "Irone Avenue and 140th Street West, Rosamond",
+    "AcresBurned": 205.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.3801,
+    "Latitude": 34.8689,
+    "Type": "Wildfire",
+    "UniqueId": "8402e8a8-84fd-413d-ba48-27c188805a86",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/22/irone-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-22",
+    "IsActive": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
