@@ -2202,7 +2202,7 @@
   {
     "Name": "Sandy Fire",
     "Final": false,
-    "Updated": "2026-05-22T09:15:54Z",
+    "Updated": "2026-05-22T11:43:24Z",
     "Started": "2026-05-18T10:50:10Z",
     "AdminUnit": "Ventura County Fire Department",
     "AdminUnitUrl": null,
@@ -2377,7 +2377,7 @@
   {
     "Name": "Bain Fire",
     "Final": false,
-    "Updated": "2026-05-22T07:11:39Z",
+    "Updated": "2026-05-22T11:43:34Z",
     "Started": "2026-05-19T11:24:05Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -2402,14 +2402,14 @@
   {
     "Name": "Tusil Fire",
     "Final": false,
-    "Updated": "2026-05-22T07:20:38Z",
+    "Updated": "2026-05-22T11:44:09Z",
     "Started": "2026-05-19T13:00:08Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
     "County": "San Diego",
     "Location": "Tusil Road, Campo Reservation",
     "AcresBurned": 820.0,
-    "PercentContained": 100.0,
+    "PercentContained": 90.0,
     "ControlStatement": null,
     "AgencyNames": "San Diego Sheriff's Office, California Highway Patrol, San Diego County Office of Emergency Services, United States Forest Service, United States Wildland Fire Service, California Governor's Office of Emergency Services, United States Bureau of Land Management, American Red Cross, United States Customs and Border Patrol, La Posta Band of Mission Indians, Manzanita Band of the Kumeyaay Nation, Campo Band of Mission Indians",
     "Longitude": -116.3825,
@@ -2427,7 +2427,7 @@
   {
     "Name": "Verona Fire",
     "Final": false,
-    "Updated": "2026-05-22T07:44:43Z",
+    "Updated": "2026-05-22T11:45:21Z",
     "Started": "2026-05-19T12:20:57Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
