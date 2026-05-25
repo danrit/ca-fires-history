@@ -2202,7 +2202,7 @@
   {
     "Name": "Sandy Fire",
     "Final": false,
-    "Updated": "2026-05-25T08:31:25Z",
+    "Updated": "2026-05-25T10:28:00Z",
     "Started": "2026-05-18T10:50:10Z",
     "AdminUnit": "Ventura County Fire Department",
     "AdminUnitUrl": null,
@@ -2822,6 +2822,31 @@
     "StartedDateOnly": "2026-05-24",
     "IsActive": false,
     "CalFireIncident": false,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Mtz/krn/bucknell Fire",
+    "Final": false,
+    "Updated": "2026-05-25T10:35:13Z",
+    "Started": "2026-05-23T18:11:56Z",
+    "AdminUnit": null,
+    "AdminUnitUrl": null,
+    "County": "Kern",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 25.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.739303,
+    "Latitude": 35.274235,
+    "Type": "Wildfire",
+    "UniqueId": "0c0ec6ab-2a26-4274-894c-875d88459c8e",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/23/mtz-krn-bucknell-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-23",
+    "IsActive": true,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
