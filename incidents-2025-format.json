@@ -2751,8 +2751,8 @@
   },
   {
     "Name": "Twist Fire",
-    "Final": false,
-    "Updated": "2026-05-24T18:49:29Z",
+    "Final": true,
+    "Updated": "2026-05-25T07:58:02Z",
     "Started": "2026-05-23T16:22:11Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -2770,14 +2770,14 @@
     "ExtinguishedDate": "2026-05-24T17:30:00Z",
     "ExtinguishedDateOnly": "2026-05-24",
     "StartedDateOnly": "2026-05-23",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
   {
     "Name": "Garden Grove HAZMAT",
     "Final": false,
-    "Updated": "2026-05-24T16:43:24Z",
+    "Updated": "2026-05-25T07:57:22Z",
     "Started": "2026-05-21T18:41:00Z",
     "AdminUnit": "Orange County Fire Authority",
     "AdminUnitUrl": null,
