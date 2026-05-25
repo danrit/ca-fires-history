@@ -2798,5 +2798,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Orange Fire",
+    "Final": true,
+    "Updated": "2026-05-24T20:56:13Z",
+    "Started": "2026-05-24T19:57:56Z",
+    "AdminUnit": "Orange Cove Fire Protection District",
+    "AdminUnitUrl": null,
+    "County": "Tulare",
+    "Location": "Avenue 448 and Road 124, Orange Cove",
+    "AcresBurned": 20.0,
+    "PercentContained": 100.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.296016,
+    "Latitude": 36.602544,
+    "Type": "Wildfire",
+    "UniqueId": "1f5def9f-69f4-4991-b49d-0b422b501700",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/24/orange-fire/",
+    "ExtinguishedDate": "2026-05-24T20:45:00Z",
+    "ExtinguishedDateOnly": "2026-05-24",
+    "StartedDateOnly": "2026-05-24",
+    "IsActive": false,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
