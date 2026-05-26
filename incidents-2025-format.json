@@ -1952,7 +1952,7 @@
   {
     "Name": "Santa Rosa Island Fire",
     "Final": false,
-    "Updated": "2026-05-25T08:31:14Z",
+    "Updated": "2026-05-25T18:09:45Z",
     "Started": "2026-05-15T16:19:54Z",
     "AdminUnit": "National Park Service ",
     "AdminUnitUrl": null,
@@ -2202,14 +2202,14 @@
   {
     "Name": "Sandy Fire",
     "Final": false,
-    "Updated": "2026-05-25T12:36:56Z",
+    "Updated": "2026-05-25T17:51:08Z",
     "Started": "2026-05-18T10:50:10Z",
     "AdminUnit": "Ventura County Fire Department",
     "AdminUnitUrl": null,
     "County": "Ventura",
     "Location": "Off Sandy Ave, Simi Valley",
     "AcresBurned": 2183.0,
-    "PercentContained": 75.0,
+    "PercentContained": 90.0,
     "ControlStatement": "",
     "AgencyNames": "",
     "Longitude": -118.744109,
@@ -2377,7 +2377,7 @@
   {
     "Name": "Bain Fire",
     "Final": false,
-    "Updated": "2026-05-25T08:31:33Z",
+    "Updated": "2026-05-25T18:09:49Z",
     "Started": "2026-05-19T11:24:05Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -2427,7 +2427,7 @@
   {
     "Name": "Verona Fire",
     "Final": false,
-    "Updated": "2026-05-25T08:31:40Z",
+    "Updated": "2026-05-25T18:09:42Z",
     "Started": "2026-05-19T12:20:57Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
