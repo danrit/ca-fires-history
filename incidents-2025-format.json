@@ -2201,8 +2201,8 @@
   },
   {
     "Name": "Sandy Fire",
-    "Final": true,
-    "Updated": "2026-05-27T22:00:00Z",
+    "Final": false,
+    "Updated": "2026-05-28T10:03:43Z",
     "Started": "2026-05-18T10:50:10Z",
     "AdminUnit": "Ventura County Fire Department",
     "AdminUnitUrl": null,
