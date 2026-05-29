@@ -2848,5 +2848,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Henry Fire ",
+    "Final": false,
+    "Updated": "2026-05-29T14:38:39Z",
+    "Started": "2026-05-29T14:26:51Z",
+    "AdminUnit": "CAL FIRE Santa Clara Unit ",
+    "AdminUnitUrl": null,
+    "County": "Contra Costa",
+    "Location": "John Henry Johnson Parkway, Pittsburg CA",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.920464,
+    "Latitude": 38.009602,
+    "Type": "Wildfire",
+    "UniqueId": "9c726442-725b-43b8-a49f-3ec1d50833ba",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/29/henry-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-29",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
