@@ -2948,5 +2948,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Nevada Fire",
+    "Final": false,
+    "Updated": "2026-05-31T16:29:37Z",
+    "Started": "2026-05-31T14:15:08Z",
+    "AdminUnit": "CAL FIRE San Bernardino Unit",
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Nevada Road, Phelan",
+    "AcresBurned": 11.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.50852,
+    "Latitude": 34.454,
+    "Type": "Wildfire",
+    "UniqueId": "6d9c03f1-15d3-40bf-b6c3-9a610e180245",
+    "Url": "https://www.fire.ca.gov/incidents/2026/5/31/nevada-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-05-31",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
