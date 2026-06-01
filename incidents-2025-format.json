@@ -1952,7 +1952,7 @@
   {
     "Name": "Santa Rosa Island Fire",
     "Final": false,
-    "Updated": "2026-05-31T08:02:02Z",
+    "Updated": "2026-06-01T07:01:17Z",
     "Started": "2026-05-15T16:19:54Z",
     "AdminUnit": "National Park Service ",
     "AdminUnitUrl": null,
@@ -1970,7 +1970,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-05-15",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -2926,8 +2926,8 @@
   },
   {
     "Name": "School Fire",
-    "Final": false,
-    "Updated": "2026-05-31T07:04:59Z",
+    "Final": true,
+    "Updated": "2026-06-01T06:51:46Z",
     "Started": "2026-05-30T17:24:06Z",
     "AdminUnit": "CAL FIRE Butte Unit",
     "AdminUnitUrl": null,
@@ -2945,7 +2945,7 @@
     "ExtinguishedDate": "2026-05-31T06:00:00Z",
     "ExtinguishedDateOnly": "2026-05-31",
     "StartedDateOnly": "2026-05-30",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
