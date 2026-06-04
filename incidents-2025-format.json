@@ -3027,7 +3027,7 @@
   {
     "Name": "Border 6 Fire",
     "Final": false,
-    "Updated": "2026-06-04T07:58:09Z",
+    "Updated": "2026-06-04T10:09:28Z",
     "Started": "2026-06-01T13:54:22Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -3202,14 +3202,14 @@
   {
     "Name": "Deer Fire",
     "Final": false,
-    "Updated": "2026-06-03T20:57:26Z",
+    "Updated": "2026-06-04T08:32:47Z",
     "Started": "2026-06-03T18:07:51Z",
     "AdminUnit": "CAL FIRE Santa Clara Unit",
     "AdminUnitUrl": null,
     "County": "Contra Costa",
     "Location": "West End of St. Regis Avenue, Brentwood",
     "AcresBurned": 48.3,
-    "PercentContained": null,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -121.751171,
@@ -3226,8 +3226,8 @@
   },
   {
     "Name": "Holland Fire",
-    "Final": false,
-    "Updated": "2026-06-04T06:44:31Z",
+    "Final": true,
+    "Updated": "2026-06-04T08:49:48Z",
     "Started": "2026-06-03T17:22:27Z",
     "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
     "AdminUnitUrl": null,
@@ -3245,7 +3245,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-06-03",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
