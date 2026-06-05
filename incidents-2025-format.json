@@ -3398,5 +3398,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Waltz Fire",
+    "Final": false,
+    "Updated": "2026-06-05T13:42:53Z",
+    "Started": "2026-06-05T12:50:51Z",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnitUrl": null,
+    "County": "Mariposa",
+    "Location": "South Waltz Road, Cathey's Valley ",
+    "AcresBurned": 100.0,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.245512,
+    "Latitude": 37.378149,
+    "Type": "Wildfire",
+    "UniqueId": "748385a0-7bfe-4563-9c63-50af2d65b170",
+    "Url": "https://www.fire.ca.gov/incidents/2026/6/5/waltz-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-06-05",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
