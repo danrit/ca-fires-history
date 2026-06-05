@@ -3301,8 +3301,8 @@
   },
   {
     "Name": "Pinnacle Fire",
-    "Final": false,
-    "Updated": "2026-06-04T20:41:03Z",
+    "Final": true,
+    "Updated": "2026-06-05T06:16:32Z",
     "Started": "2026-06-04T15:27:32Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -3320,14 +3320,14 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-06-04",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
   {
     "Name": "Lake Fire",
-    "Final": false,
-    "Updated": "2026-06-05T01:27:34Z",
+    "Final": true,
+    "Updated": "2026-06-05T06:15:36Z",
     "Started": "2026-06-04T22:46:34Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
@@ -3345,7 +3345,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-06-04",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
