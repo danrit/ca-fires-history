@@ -3027,7 +3027,7 @@
   {
     "Name": "Border 6 Fire",
     "Final": false,
-    "Updated": "2026-06-05T17:51:53Z",
+    "Updated": "2026-06-05T18:18:23Z",
     "Started": "2026-06-01T13:54:22Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -3252,14 +3252,14 @@
   {
     "Name": "Walker Fire",
     "Final": false,
-    "Updated": "2026-06-05T06:25:29Z",
+    "Updated": "2026-06-05T18:13:08Z",
     "Started": "2026-06-04T13:11:10Z",
     "AdminUnit": "Kern County Fire Department",
     "AdminUnitUrl": null,
     "County": "Kern",
     "Location": "Bodfish Road and Walser Road, Caliente",
     "AcresBurned": 138.0,
-    "PercentContained": 55.0,
+    "PercentContained": 75.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -118.5368,
@@ -3427,7 +3427,7 @@
   {
     "Name": "Metz Fire",
     "Final": false,
-    "Updated": "2026-06-05T17:33:28Z",
+    "Updated": "2026-06-05T19:01:42Z",
     "Started": "2026-06-05T13:36:57Z",
     "AdminUnit": "CAL FIRE San Benito-Monterey Unit",
     "AdminUnitUrl": null,
@@ -3452,7 +3452,7 @@
   {
     "Name": "Macy Fire",
     "Final": false,
-    "Updated": "2026-06-05T16:35:36Z",
+    "Updated": "2026-06-05T19:30:00Z",
     "Started": "2026-06-05T15:43:22Z",
     "AdminUnit": "Los Angeles County Fire Department",
     "AdminUnitUrl": null,
