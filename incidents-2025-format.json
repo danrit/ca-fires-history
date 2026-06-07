@@ -3573,5 +3573,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Cotton Fire",
+    "Final": false,
+    "Updated": "2026-06-07T13:33:32Z",
+    "Started": "2026-06-07T12:26:11Z",
+    "AdminUnit": "CAL FIRE San Luis Obispo Unit",
+    "AdminUnitUrl": null,
+    "County": "San Luis Obispo",
+    "Location": "Hwy 41 at the Kern County Line",
+    "AcresBurned": 25.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.194339,
+    "Latitude": 35.778884,
+    "Type": "Wildfire",
+    "UniqueId": "03025b02-a5dd-464a-a647-cb0265184067",
+    "Url": "https://www.fire.ca.gov/incidents/2026/6/7/cotton-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-06-07",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
