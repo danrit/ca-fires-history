@@ -3548,5 +3548,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Palm Fire",
+    "Final": false,
+    "Updated": "2026-06-06T20:33:40Z",
+    "Started": "2026-06-06T18:01:13Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 11.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.391217,
+    "Latitude": 36.209064,
+    "Type": "Wildfire",
+    "UniqueId": "27f0a069-7750-4e9d-93b9-568b614d2c38",
+    "Url": "https://www.fire.ca.gov/incidents/2026/6/6/palm-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-06-06",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
