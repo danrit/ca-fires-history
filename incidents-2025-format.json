@@ -3623,5 +3623,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Lassen Fire",
+    "Final": false,
+    "Updated": "2026-06-08T02:39:26Z",
+    "Started": "2026-06-07T23:36:53Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 79.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.103716,
+    "Latitude": 36.22629,
+    "Type": "Wildfire",
+    "UniqueId": "1ed6a637-665e-402c-91a7-4e01327d3820",
+    "Url": "https://www.fire.ca.gov/incidents/2026/6/7/lassen-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-06-07",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
