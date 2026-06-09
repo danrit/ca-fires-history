@@ -3702,7 +3702,7 @@
   {
     "Name": "Sorrento Fire ",
     "Final": false,
-    "Updated": "2026-06-08T17:53:44Z",
+    "Updated": "2026-06-08T20:05:45Z",
     "Started": "2026-06-08T10:34:37Z",
     "AdminUnit": "San Diego Fire Rescue",
     "AdminUnitUrl": null,
@@ -3727,7 +3727,7 @@
   {
     "Name": "Putah Fire",
     "Final": false,
-    "Updated": "2026-06-08T17:57:10Z",
+    "Updated": "2026-06-08T20:02:50Z",
     "Started": "2026-06-08T11:34:58Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -3736,7 +3736,7 @@
     "AcresBurned": 361.7,
     "PercentContained": 15.0,
     "ControlStatement": null,
-    "AgencyNames": "Winters Fire Department, Dixon Fire Department, Madison Fire Protection District, Montezuma Fire Protection District, West Plainfiled Fire Protection District, Caltrans, California Highway Patrol, Yolo County Sheriff's Office",
+    "AgencyNames": "Winters Fire Department, Dixon Fire Department, Vacaville Fire Protection District, Madison Fire Protection District, Montezuma Fire Protection District, West Plainfield Fire Protection District, Caltrans, California Highway Patrol, Yolo County Sheriff's Office",
     "Longitude": -122.06874,
     "Latitude": 38.51751,
     "Type": "Wildfire",
