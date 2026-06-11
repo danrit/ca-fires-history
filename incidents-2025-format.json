@@ -3752,14 +3752,14 @@
   {
     "Name": "Bagby Fire",
     "Final": false,
-    "Updated": "2026-06-11T08:56:57Z",
+    "Updated": "2026-06-11T11:52:11Z",
     "Started": "2026-06-08T20:26:15Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
     "County": "Mariposa",
     "Location": "Bagby Recreational Campground, Bear Valley, CA",
     "AcresBurned": 25.1,
-    "PercentContained": 75.0,
+    "PercentContained": 83.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -120.11414,
@@ -3902,7 +3902,7 @@
   {
     "Name": "Jefford Fire",
     "Final": false,
-    "Updated": "2026-06-11T09:46:14Z",
+    "Updated": "2026-06-11T11:52:13Z",
     "Started": "2026-06-10T12:26:28Z",
     "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
     "AdminUnitUrl": null,
@@ -3927,7 +3927,7 @@
   {
     "Name": "Turkey Fire",
     "Final": false,
-    "Updated": "2026-06-11T09:13:10Z",
+    "Updated": "2026-06-11T11:37:47Z",
     "Started": "2026-06-10T17:31:14Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -3977,7 +3977,7 @@
   {
     "Name": "Stone Fire",
     "Final": false,
-    "Updated": "2026-06-10T21:58:00Z",
+    "Updated": "2026-06-11T11:52:14Z",
     "Started": "2026-06-10T15:42:19Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
