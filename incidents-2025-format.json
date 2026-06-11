@@ -4073,5 +4073,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Simpson Fire",
+    "Final": false,
+    "Updated": "2026-06-11T15:35:11Z",
+    "Started": "2026-06-11T13:57:51Z",
+    "AdminUnit": "CAL FIRE Riverside Unit",
+    "AdminUnitUrl": null,
+    "County": "Riverside",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.13656,
+    "Latitude": 33.706812,
+    "Type": "Wildfire",
+    "UniqueId": "6f35b438-574e-45e3-a503-84ae8faabcc9",
+    "Url": "https://www.fire.ca.gov/incidents/2026/6/11/simpson-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-06-11",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
