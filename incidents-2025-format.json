@@ -4102,7 +4102,7 @@
   {
     "Name": "Linden Fire",
     "Final": false,
-    "Updated": "2026-06-12T14:40:01Z",
+    "Updated": "2026-06-12T14:40:56Z",
     "Started": "2026-06-12T14:35:58Z",
     "AdminUnit": "Redding Fire Department",
     "AdminUnitUrl": null,
@@ -4122,6 +4122,31 @@
     "StartedDateOnly": "2026-06-12",
     "IsActive": true,
     "CalFireIncident": false,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Santa Fe Fire",
+    "Final": false,
+    "Updated": "2026-06-12T15:31:24Z",
+    "Started": "2026-06-12T14:22:14Z",
+    "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
+    "AdminUnitUrl": null,
+    "County": "Madera",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 13.5,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.161096,
+    "Latitude": 37.141599,
+    "Type": "Wildfire",
+    "UniqueId": "7567f739-c644-4c10-b116-d4643d0feb72",
+    "Url": "https://www.fire.ca.gov/incidents/2026/6/12/santa-fe-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-06-12",
+    "IsActive": true,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
