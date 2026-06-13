@@ -4173,5 +4173,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Solar Fire",
+    "Final": false,
+    "Updated": "2026-06-13T12:37:43Z",
+    "Started": "2026-06-13T12:06:07Z",
+    "AdminUnit": "CAL FIRE San Luis Obispo Unit",
+    "AdminUnitUrl": null,
+    "County": "San Luis Obispo",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 100.0,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.919311,
+    "Latitude": 35.346861,
+    "Type": "Wildfire",
+    "UniqueId": "aa4acd5d-1fff-42c8-a900-e8569aa9fbfc",
+    "Url": "https://www.fire.ca.gov/incidents/2026/6/13/solar-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-06-13",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
