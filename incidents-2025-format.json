@@ -3727,7 +3727,7 @@
   {
     "Name": "Putah Fire",
     "Final": false,
-    "Updated": "2026-06-13T06:54:17Z",
+    "Updated": "2026-06-13T21:58:40Z",
     "Started": "2026-06-08T11:34:58Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -3752,7 +3752,7 @@
   {
     "Name": "Bagby Fire",
     "Final": false,
-    "Updated": "2026-06-13T07:11:55Z",
+    "Updated": "2026-06-13T21:58:43Z",
     "Started": "2026-06-08T20:26:15Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
@@ -3926,8 +3926,8 @@
   },
   {
     "Name": "Turkey Fire",
-    "Final": false,
-    "Updated": "2026-06-12T19:04:31Z",
+    "Final": true,
+    "Updated": "2026-06-13T21:59:09Z",
     "Started": "2026-06-10T17:31:14Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -3945,7 +3945,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-06-10",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -4227,7 +4227,7 @@
   {
     "Name": "Custer",
     "Final": false,
-    "Updated": "2026-06-13T18:23:47Z",
+    "Updated": "2026-06-13T21:24:02Z",
     "Started": "2026-06-13T13:40:53Z",
     "AdminUnit": "CAL FIRE San Bernadino Unit",
     "AdminUnitUrl": null,
@@ -4252,7 +4252,7 @@
   {
     "Name": "Lemon Fire",
     "Final": false,
-    "Updated": "2026-06-13T18:46:15Z",
+    "Updated": "2026-06-13T22:03:05Z",
     "Started": "2026-06-13T14:11:34Z",
     "AdminUnit": "Los Angeles County Fire Department",
     "AdminUnitUrl": null,
@@ -4347,6 +4347,31 @@
     "StartedDateOnly": "2026-06-13",
     "IsActive": true,
     "CalFireIncident": false,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Crossing Fire",
+    "Final": false,
+    "Updated": "2026-06-13T21:31:38Z",
+    "Started": "2026-06-13T07:04:46Z",
+    "AdminUnit": "Kern County Fire Department  ",
+    "AdminUnitUrl": null,
+    "County": "Kern",
+    "Location": "Near Hwy 178 and Hwy 14",
+    "AcresBurned": 111.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.9026,
+    "Latitude": 35.6028,
+    "Type": "Wildfire",
+    "UniqueId": "e85158e3-c44d-48b5-a9d7-29b6b839509b",
+    "Url": "https://www.fire.ca.gov/incidents/2026/6/13/crossing-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-06-13",
+    "IsActive": true,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
