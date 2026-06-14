@@ -4373,5 +4373,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Bernardino Fire",
+    "Final": false,
+    "Updated": "2026-06-14T09:25:08Z",
+    "Started": "2026-06-14T07:47:37Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Bernardino/Manning Ave",
+    "AcresBurned": 30.0,
+    "PercentContained": 100.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.424616,
+    "Latitude": 36.603435,
+    "Type": "Wildfire",
+    "UniqueId": "00b1f06e-aefc-462a-8021-11106ade89f0",
+    "Url": "https://www.fire.ca.gov/incidents/2026/6/14/bernardino-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-06-14",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
