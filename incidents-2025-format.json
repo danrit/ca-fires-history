@@ -3752,7 +3752,7 @@
   {
     "Name": "Bagby Fire",
     "Final": false,
-    "Updated": "2026-06-13T21:58:43Z",
+    "Updated": "2026-06-14T11:49:50Z",
     "Started": "2026-06-08T20:26:15Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
@@ -4202,14 +4202,14 @@
   {
     "Name": "Telephone",
     "Final": false,
-    "Updated": "2026-06-14T11:28:59Z",
+    "Updated": "2026-06-14T12:30:20Z",
     "Started": "2026-06-13T13:02:12Z",
     "AdminUnit": "San Bernadino County Fire",
     "AdminUnitUrl": null,
     "County": "San Bernardino",
     "Location": "Telephone Rd and Summit Valley Rd, Hesperia",
     "AcresBurned": 14.7,
-    "PercentContained": 90.0,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "CAL FIRE San Bernardino",
     "Longitude": -117.323074,
@@ -4227,7 +4227,7 @@
   {
     "Name": "Custer",
     "Final": false,
-    "Updated": "2026-06-14T07:06:33Z",
+    "Updated": "2026-06-14T11:43:32Z",
     "Started": "2026-06-13T13:40:53Z",
     "AdminUnit": "CAL FIRE San Bernadino Unit",
     "AdminUnitUrl": null,
@@ -4402,7 +4402,7 @@
   {
     "Name": "Pony Fire",
     "Final": false,
-    "Updated": "2026-06-14T10:44:37Z",
+    "Updated": "2026-06-14T11:43:27Z",
     "Started": "2026-06-14T09:07:06Z",
     "AdminUnit": "CAL FIRE Tulare Unit",
     "AdminUnitUrl": null,
