@@ -4548,5 +4548,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Boulder Fire",
+    "Final": false,
+    "Updated": "2026-06-15T11:39:04Z",
+    "Started": "2026-06-15T10:38:21Z",
+    "AdminUnit": "CAL FIRE San Luis Obispo Unit",
+    "AdminUnitUrl": null,
+    "County": "San Luis Obispo",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 6.0,
+    "PercentContained": 100.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.913717,
+    "Latitude": 35.342625,
+    "Type": "Wildfire",
+    "UniqueId": "d7692842-687c-46b4-a1e9-b804659c0f8b",
+    "Url": "https://www.fire.ca.gov/incidents/2026/6/15/boulder-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-06-15",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
