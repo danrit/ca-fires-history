@@ -4827,7 +4827,7 @@
   {
     "Name": "Lost Fire",
     "Final": false,
-    "Updated": "2026-06-19T12:40:22Z",
+    "Updated": "2026-06-19T14:15:28Z",
     "Started": "2026-06-18T10:03:13Z",
     "AdminUnit": "Unified Command: Kern County Fire & Bureau of Land Management",
     "AdminUnitUrl": null,
@@ -4947,6 +4947,31 @@
     "StartedDateOnly": "2026-06-18",
     "IsActive": true,
     "CalFireIncident": true,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Border Fire",
+    "Final": false,
+    "Updated": "2026-06-19T14:20:34Z",
+    "Started": "2026-06-19T14:16:46Z",
+    "AdminUnit": "Kern County Fire Department",
+    "AdminUnitUrl": null,
+    "County": "Kern",
+    "Location": "110Th St W & Avenue A, Rosamond",
+    "AcresBurned": 40.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.32404,
+    "Latitude": 34.82226,
+    "Type": "Wildfire",
+    "UniqueId": "c00d0b9b-5313-4a2a-b482-5ee04b211f3c",
+    "Url": "https://www.fire.ca.gov/incidents/2026/6/19/border-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-06-19",
+    "IsActive": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
