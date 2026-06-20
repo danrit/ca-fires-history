@@ -4627,7 +4627,7 @@
   {
     "Name": "Shore Fire",
     "Final": false,
-    "Updated": "2026-06-20T05:58:40Z",
+    "Updated": "2026-06-20T07:55:13Z",
     "Started": "2026-06-15T15:23:54Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -4952,7 +4952,7 @@
   {
     "Name": "Star Fire",
     "Final": false,
-    "Updated": "2026-06-20T06:11:38Z",
+    "Updated": "2026-06-20T07:53:12Z",
     "Started": "2026-06-19T17:06:15Z",
     "AdminUnit": "Kern County Fire Department",
     "AdminUnitUrl": null,
@@ -4962,8 +4962,8 @@
     "PercentContained": 37.0,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -118.7289,
-    "Latitude": 35.28477,
+    "Longitude": -118.659357,
+    "Latitude": 35.271924,
     "Type": "Wildfire",
     "UniqueId": "e10afec4-10e1-47c0-ae38-166f8c6e4974",
     "Url": "https://www.fire.ca.gov/incidents/2026/6/19/star-fire/",
