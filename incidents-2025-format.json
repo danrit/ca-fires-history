@@ -5173,30 +5173,5 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
-  },
-  {
-    "Name": "Whittemore Fire",
-    "Final": false,
-    "Updated": "2026-06-21T22:02:59Z",
-    "Started": "2026-06-21T16:29:15Z",
-    "AdminUnit": "Modoc National Forest",
-    "AdminUnitUrl": null,
-    "County": "Modoc",
-    "Location": "Near Clear Lake National Refuge",
-    "AcresBurned": 20.0,
-    "PercentContained": null,
-    "ControlStatement": null,
-    "AgencyNames": "",
-    "Longitude": -120.73865,
-    "Latitude": 41.62131,
-    "Type": "Wildfire",
-    "UniqueId": "e43b2d8b-bc08-4ee6-a037-1b47bcfda282",
-    "Url": "https://www.fire.ca.gov/incidents/2026/6/21/whittemore-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
-    "StartedDateOnly": "2026-06-21",
-    "IsActive": true,
-    "CalFireIncident": true,
-    "NotificationDesired": false
   }
 ]
