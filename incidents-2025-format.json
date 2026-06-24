@@ -4627,7 +4627,7 @@
   {
     "Name": "Shore Fire",
     "Final": false,
-    "Updated": "2026-06-23T09:13:13Z",
+    "Updated": "2026-06-24T12:13:56Z",
     "Started": "2026-06-15T15:23:54Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -5277,14 +5277,14 @@
   {
     "Name": "Rocky Fire",
     "Final": false,
-    "Updated": "2026-06-23T19:38:57Z",
+    "Updated": "2026-06-24T12:21:29Z",
     "Started": "2026-06-23T15:30:21Z",
     "AdminUnit": "Bureau of Land Management ",
     "AdminUnitUrl": null,
     "County": "Modoc",
     "Location": "South of Delta Lake, Modoc",
     "AcresBurned": 276.0,
-    "PercentContained": 0.0,
+    "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -120.630333,
@@ -5296,7 +5296,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-06-23",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   },
   {
