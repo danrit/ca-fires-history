@@ -4627,14 +4627,14 @@
   {
     "Name": "Shore Fire",
     "Final": false,
-    "Updated": "2026-06-25T10:44:20Z",
+    "Updated": "2026-06-25T13:32:50Z",
     "Started": "2026-06-15T15:23:54Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
     "County": "Riverside",
     "Location": "San Timoteo Canyon Road, S/W of Calimesa",
     "AcresBurned": 3085.0,
-    "PercentContained": 98.0,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -117.114847,
@@ -5427,12 +5427,12 @@
   {
     "Name": "Corral Fire",
     "Final": false,
-    "Updated": "2026-06-25T11:26:17Z",
+    "Updated": "2026-06-25T13:36:03Z",
     "Started": "2026-06-25T09:27:20Z",
-    "AdminUnit": null,
+    "AdminUnit": "Bureau of Land Management:  Northern California District",
     "AdminUnitUrl": null,
     "County": "Lassen",
-    "Location": "Unknown / TBD",
+    "Location": "Hwy 395 and Wendel Road, Litchfield",
     "AcresBurned": 17.0,
     "PercentContained": null,
     "ControlStatement": null,
@@ -5446,7 +5446,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-06-25",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
