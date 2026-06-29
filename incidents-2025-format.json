@@ -5152,7 +5152,7 @@
   {
     "Name": "Sandy Fire",
     "Final": false,
-    "Updated": "2026-06-28T11:25:58Z",
+    "Updated": "2026-06-29T06:07:35Z",
     "Started": "2026-06-21T15:32:09Z",
     "AdminUnit": "Sequoia National Forest",
     "AdminUnitUrl": null,
@@ -5171,7 +5171,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-06-21",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
@@ -5777,7 +5777,7 @@
   {
     "Name": "Romero Fire",
     "Final": false,
-    "Updated": "2026-06-28T21:46:46Z",
+    "Updated": "2026-06-29T06:02:04Z",
     "Started": "2026-06-28T16:36:06Z",
     "AdminUnit": "Bureau of Land Management Northern California District",
     "AdminUnitUrl": null,
@@ -5796,7 +5796,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-06-28",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
