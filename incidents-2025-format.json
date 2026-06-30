@@ -5873,5 +5873,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Owl Fire",
+    "Final": false,
+    "Updated": "2026-06-30T10:43:05Z",
+    "Started": "2026-06-30T10:12:44Z",
+    "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+    "AdminUnitUrl": null,
+    "County": "Tuolumne",
+    "Location": "Highway 108, Green Springs",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.59758,
+    "Latitude": 37.848787,
+    "Type": "Wildfire",
+    "UniqueId": "2280884a-2708-4e2f-ac2e-710b6358a308",
+    "Url": "https://www.fire.ca.gov/incidents/2026/6/30/owl-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-06-30",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
