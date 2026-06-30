@@ -5827,7 +5827,7 @@
   {
     "Name": "Head Fire",
     "Final": false,
-    "Updated": "2026-06-30T12:20:56Z",
+    "Updated": "2026-06-30T13:29:22Z",
     "Started": "2026-06-29T06:26:48Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -5902,7 +5902,7 @@
   {
     "Name": "Mathews Fire",
     "Final": false,
-    "Updated": "2026-06-30T12:28:16Z",
+    "Updated": "2026-06-30T13:44:31Z",
     "Started": "2026-06-30T11:42:54Z",
     "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
     "AdminUnitUrl": null,
@@ -5912,8 +5912,8 @@
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -122.312055,
-    "Latitude": 40.670472,
+    "Longitude": -122.31325,
+    "Latitude": 40.67013,
     "Type": "Wildfire",
     "UniqueId": "fe55bd0d-b2a5-4f93-8b01-b03b6699c9a2",
     "Url": "https://www.fire.ca.gov/incidents/2026/6/30/mathews-fire/",
