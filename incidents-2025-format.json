@@ -5827,7 +5827,7 @@
   {
     "Name": "Head Fire",
     "Final": false,
-    "Updated": "2026-06-29T19:18:28Z",
+    "Updated": "2026-06-30T05:30:16Z",
     "Started": "2026-06-29T06:26:48Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -5836,7 +5836,7 @@
     "AcresBurned": 98.0,
     "PercentContained": 50.0,
     "ControlStatement": null,
-    "AgencyNames": "South Lake Fire Protection District, Lake County Fire Protection District, Napa County Fire Department",
+    "AgencyNames": "South Lake Fire Protection District, Lake County Fire Protection District, Napa County Fire Department, St. Helena City Fire Department",
     "Longitude": -122.355094,
     "Latitude": 38.827779,
     "Type": "Wildfire",
