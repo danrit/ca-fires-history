@@ -6152,9 +6152,9 @@
   {
     "Name": "Nash Fire",
     "Final": false,
-    "Updated": "2026-07-03T10:02:18Z",
+    "Updated": "2026-07-03T12:03:26Z",
     "Started": "2026-07-02T19:47:31Z",
-    "AdminUnit": "Unified Command-Barstow Fire, San Bernardino County Fire, and BLM",
+    "AdminUnit": "Unified Command-BLM and US Wildland Fire Service",
     "AdminUnitUrl": null,
     "County": "San Bernardino",
     "Location": "Marks Road and Clay River Road, Barstow",
@@ -6172,6 +6172,31 @@
     "StartedDateOnly": "2026-07-02",
     "IsActive": true,
     "CalFireIncident": false,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Pine Fire",
+    "Final": false,
+    "Updated": "2026-07-03T12:25:24Z",
+    "Started": "2026-07-03T10:16:22Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "East Trimmer Springs Road, Piedra",
+    "AcresBurned": 20.0,
+    "PercentContained": 75.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.368,
+    "Latitude": 36.83,
+    "Type": "Wildfire",
+    "UniqueId": "3f7b1dc7-88e1-4d8a-8499-8fe7f8918270",
+    "Url": "https://www.fire.ca.gov/incidents/2026/7/3/pine-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-07-03",
+    "IsActive": true,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
