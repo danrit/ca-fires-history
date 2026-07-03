@@ -5952,7 +5952,7 @@
   {
     "Name": "Range Fire",
     "Final": false,
-    "Updated": "2026-07-03T06:20:20Z",
+    "Updated": "2026-07-03T09:09:15Z",
     "Started": "2026-06-30T15:27:18Z",
     "AdminUnit": "USMC Camp Pendleton",
     "AdminUnitUrl": null,
@@ -5970,7 +5970,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-06-30",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -6152,7 +6152,7 @@
   {
     "Name": "Nash Fire",
     "Final": false,
-    "Updated": "2026-07-03T06:59:59Z",
+    "Updated": "2026-07-03T10:02:18Z",
     "Started": "2026-07-02T19:47:31Z",
     "AdminUnit": "Unified Command-Barstow Fire, San Bernardino County Fire, and BLM",
     "AdminUnitUrl": null,
@@ -6162,8 +6162,8 @@
     "PercentContained": 25.0,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -116.95974,
-    "Latitude": 34.88491,
+    "Longitude": -116.95981,
+    "Latitude": 34.88606,
     "Type": "Wildfire",
     "UniqueId": "ee1b530d-5e83-4d2f-8e36-005569b421e6",
     "Url": "https://www.fire.ca.gov/incidents/2026/7/2/nash-fire/",
