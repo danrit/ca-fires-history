@@ -6302,13 +6302,13 @@
   {
     "Name": "Landrum Fire",
     "Final": false,
-    "Updated": "2026-07-04T11:21:30Z",
+    "Updated": "2026-07-04T13:56:31Z",
     "Started": "2026-07-04T10:32:16Z",
-    "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
+    "AdminUnit": "Amador Fire Department",
     "AdminUnitUrl": null,
     "County": "Amador",
     "Location": "Landrum Street, Plymouth",
-    "AcresBurned": 15.0,
+    "AcresBurned": 12.0,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -6321,7 +6321,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-07-04",
     "IsActive": true,
-    "CalFireIncident": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
