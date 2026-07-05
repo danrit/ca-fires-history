@@ -6252,7 +6252,7 @@
   {
     "Name": "Franklin Fire",
     "Final": false,
-    "Updated": "2026-07-04T20:28:50Z",
+    "Updated": "2026-07-05T06:07:20Z",
     "Started": "2026-07-03T21:56:59Z",
     "AdminUnit": "CAL FIRE Santa Clara Unit",
     "AdminUnitUrl": null,
@@ -6352,12 +6352,12 @@
   {
     "Name": "Wright Fire",
     "Final": false,
-    "Updated": "2026-07-05T01:12:57Z",
+    "Updated": "2026-07-05T06:06:07Z",
     "Started": "2026-07-04T22:52:23Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
     "County": "Merced",
-    "Location": "Unknown / TBD",
+    "Location": "Billy Wright Road, Los Banos ",
     "AcresBurned": 45.0,
     "PercentContained": 100.0,
     "ControlStatement": null,
