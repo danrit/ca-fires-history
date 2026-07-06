@@ -6573,5 +6573,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Priest Fire",
+    "Final": false,
+    "Updated": "2026-07-06T15:02:07Z",
+    "Started": "2026-07-06T14:25:00Z",
+    "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+    "AdminUnitUrl": null,
+    "County": "Tuolumne",
+    "Location": "Old Priest Grade, Big Oak Flat",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.293232,
+    "Latitude": 37.816265,
+    "Type": "Wildfire",
+    "UniqueId": "d2e2f55d-a944-489d-a8e0-70e134bc3381",
+    "Url": "https://www.fire.ca.gov/incidents/2026/7/6/priest-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-07-06",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
