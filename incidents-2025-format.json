@@ -6152,7 +6152,7 @@
   {
     "Name": "Nash Fire",
     "Final": false,
-    "Updated": "2026-07-05T20:54:39Z",
+    "Updated": "2026-07-06T22:01:01Z",
     "Started": "2026-07-02T19:47:31Z",
     "AdminUnit": "US Wildland Fire Service",
     "AdminUnitUrl": null,
@@ -6202,7 +6202,7 @@
   {
     "Name": "Inspiration Fire",
     "Final": false,
-    "Updated": "2026-07-05T20:54:36Z",
+    "Updated": "2026-07-06T22:00:58Z",
     "Started": "2026-07-03T18:33:29Z",
     "AdminUnit": "US Forest Service - Angeles National Forest  ",
     "AdminUnitUrl": null,
@@ -6602,13 +6602,13 @@
   {
     "Name": "Pipeline Fire",
     "Final": false,
-    "Updated": "2026-07-06T20:45:24Z",
+    "Updated": "2026-07-06T23:15:23Z",
     "Started": "2026-07-06T16:13:43Z",
     "AdminUnit": "Camp Pendleton Fire",
     "AdminUnitUrl": null,
     "County": "San Diego",
     "Location": "Stuart Mesa Road & Hammond Drive, Camp Pendleton",
-    "AcresBurned": 919.3,
+    "AcresBurned": 1064.5,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -6627,7 +6627,7 @@
   {
     "Name": "Martins Fire",
     "Final": false,
-    "Updated": "2026-07-06T20:03:52Z",
+    "Updated": "2026-07-06T22:12:24Z",
     "Started": "2026-07-06T16:09:30Z",
     "AdminUnit": "Los Angeles County Fire Department ",
     "AdminUnitUrl": null,
