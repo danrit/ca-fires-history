@@ -6873,5 +6873,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Peach Fire",
+    "Final": false,
+    "Updated": "2026-07-09T04:03:24Z",
+    "Started": "2026-07-09T02:13:10Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 55.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.718417,
+    "Latitude": 36.605424,
+    "Type": "Wildfire",
+    "UniqueId": "05cb4a59-f59a-455d-b3c3-ac8574b30cd5",
+    "Url": "https://www.fire.ca.gov/incidents/2026/7/9/peach-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-07-09",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
