@@ -6898,5 +6898,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Tiger Fire",
+    "Final": false,
+    "Updated": "2026-07-09T12:39:21Z",
+    "Started": "2026-07-09T11:39:03Z",
+    "AdminUnit": "CAL FIRE Tulare Unit",
+    "AdminUnitUrl": null,
+    "County": "Tulare",
+    "Location": "Cedar Brook Trail, California Hot Springs",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.6485,
+    "Latitude": 35.8735,
+    "Type": "Wildfire",
+    "UniqueId": "c605a0ce-901b-4ab9-a85b-04be604d1ab8",
+    "Url": "https://www.fire.ca.gov/incidents/2026/7/9/tiger-fire/",
+    "ExtinguishedDate": "2026-07-09T12:39:03Z",
+    "ExtinguishedDateOnly": "2026-07-09",
+    "StartedDateOnly": "2026-07-09",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
