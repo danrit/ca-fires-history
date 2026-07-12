@@ -7398,5 +7398,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Jacobs Fire",
+    "Final": false,
+    "Updated": "2026-07-12T00:13:40Z",
+    "Started": "2026-07-11T23:41:38Z",
+    "AdminUnit": "CAL FIRE Fresno-Kings Unit",
+    "AdminUnitUrl": null,
+    "County": "Fresno",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 15.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -119.313813,
+    "Latitude": 36.610077,
+    "Type": "Wildfire",
+    "UniqueId": "5928ed0f-a488-424c-81b0-d6ed4e034402",
+    "Url": "https://www.fire.ca.gov/incidents/2026/7/11/jacobs-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-07-11",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
