@@ -6702,7 +6702,7 @@
   {
     "Name": "Volcano Fire",
     "Final": false,
-    "Updated": "2026-07-13T07:08:58Z",
+    "Updated": "2026-07-13T11:32:27Z",
     "Started": "2026-07-07T14:52:02Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -6711,7 +6711,7 @@
     "AcresBurned": 138.0,
     "PercentContained": 95.0,
     "ControlStatement": null,
-    "AgencyNames": "Murrieta Fire Department; Riverside County Emergency Management Department; Riverside County Sheriff; CAL FIRE San Diego; Cleveland National Forest",
+    "AgencyNames": "",
     "Longitude": -117.29852,
     "Latitude": 33.5244,
     "Type": "Wildfire",
