@@ -6677,7 +6677,7 @@
   {
     "Name": "3-1 Pit Fire",
     "Final": false,
-    "Updated": "2026-07-16T01:37:59Z",
+    "Updated": "2026-07-16T15:35:38Z",
     "Started": "2026-07-07T20:35:02Z",
     "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
     "AdminUnitUrl": null,
@@ -7152,7 +7152,7 @@
   {
     "Name": "Union Fire",
     "Final": true,
-    "Updated": "2026-07-12T16:38:04Z",
+    "Updated": "2026-07-16T16:11:03Z",
     "Started": "2026-07-09T21:49:08Z",
     "AdminUnit": "CAL FIRE San Benito-Monterey Unit",
     "AdminUnitUrl": null,
@@ -7527,7 +7527,7 @@
   {
     "Name": "Ledson Fire",
     "Final": false,
-    "Updated": "2026-07-16T14:38:49Z",
+    "Updated": "2026-07-16T15:28:26Z",
     "Started": "2026-07-13T20:02:01Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -7852,7 +7852,7 @@
   {
     "Name": "Thorn Fire",
     "Final": false,
-    "Updated": "2026-07-16T15:01:05Z",
+    "Updated": "2026-07-16T15:19:13Z",
     "Started": "2026-07-15T22:45:00Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
