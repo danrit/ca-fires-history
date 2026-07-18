@@ -6677,7 +6677,7 @@
   {
     "Name": "3-1 Pit Fire",
     "Final": false,
-    "Updated": "2026-07-18T03:16:33Z",
+    "Updated": "2026-07-18T15:15:58Z",
     "Started": "2026-07-07T20:35:02Z",
     "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
     "AdminUnitUrl": null,
@@ -7926,8 +7926,8 @@
   },
   {
     "Name": "Cotton Fire",
-    "Final": false,
-    "Updated": "2026-07-18T00:37:06Z",
+    "Final": true,
+    "Updated": "2026-07-18T15:37:15Z",
     "Started": "2026-07-16T09:32:00Z",
     "AdminUnit": "Kern County Fire Department",
     "AdminUnitUrl": null,
@@ -7942,10 +7942,10 @@
     "Type": "Wildfire",
     "UniqueId": "8d002a4b-5c54-4c75-a6d9-d058d170015e",
     "Url": "https://www.fire.ca.gov/incidents/2026/7/16/cotton-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2026-07-18T06:00:46Z",
+    "ExtinguishedDateOnly": "2026-07-18",
     "StartedDateOnly": "2026-07-16",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -8077,7 +8077,7 @@
   {
     "Name": "Garden Fire",
     "Final": false,
-    "Updated": "2026-07-18T14:38:22Z",
+    "Updated": "2026-07-18T15:15:51Z",
     "Started": "2026-07-17T03:16:14Z",
     "AdminUnit": "Sacramento City Fire Department",
     "AdminUnitUrl": null,
