@@ -7277,7 +7277,7 @@
   {
     "Name": "Twain Fire",
     "Final": false,
-    "Updated": "2026-07-18T03:16:10Z",
+    "Updated": "2026-07-18T16:08:58Z",
     "Started": "2026-07-11T18:48:27Z",
     "AdminUnit": "Plumas National Forest",
     "AdminUnitUrl": null,
@@ -7902,7 +7902,7 @@
   {
     "Name": "3-6 Fire",
     "Final": false,
-    "Updated": "2026-07-18T14:55:28Z",
+    "Updated": "2026-07-18T16:59:28Z",
     "Started": "2026-07-16T02:05:24Z",
     "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
     "AdminUnitUrl": null,
@@ -8052,7 +8052,7 @@
   {
     "Name": "Morgan Fire",
     "Final": false,
-    "Updated": "2026-07-18T14:55:13Z",
+    "Updated": "2026-07-18T16:19:40Z",
     "Started": "2026-07-17T08:14:21Z",
     "AdminUnit": "CAL FIRE Santa Clara Unit",
     "AdminUnitUrl": null,
@@ -8071,7 +8071,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-07-17",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   },
   {
