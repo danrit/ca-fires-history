@@ -7852,7 +7852,7 @@
   {
     "Name": "Thorn Fire",
     "Final": false,
-    "Updated": "2026-07-19T13:45:01Z",
+    "Updated": "2026-07-19T17:25:07Z",
     "Started": "2026-07-15T15:45:00Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -7977,7 +7977,7 @@
   {
     "Name": "Lynwood Fire",
     "Final": false,
-    "Updated": "2026-07-19T15:02:37Z",
+    "Updated": "2026-07-19T17:49:13Z",
     "Started": "2026-07-16T18:06:39Z",
     "AdminUnit": "Unified Command: San Bernardino County Fire, CAL FIRE, USFS San Bernardino National Forest",
     "AdminUnitUrl": null,
@@ -8152,13 +8152,13 @@
   {
     "Name": "Brook Fire",
     "Final": false,
-    "Updated": "2026-07-19T17:06:38Z",
+    "Updated": "2026-07-19T18:37:01Z",
     "Started": "2026-07-17T19:11:17Z",
     "AdminUnit": "CAL FIRE Shasta-Trinity Unit",
     "AdminUnitUrl": null,
     "County": "Shasta",
     "Location": "Elk Trail and Highline Trail Bella Vista",
-    "AcresBurned": 410.0,
+    "AcresBurned": 501.5,
     "PercentContained": 15.0,
     "ControlStatement": null,
     "AgencyNames": "",
