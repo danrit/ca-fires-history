@@ -8398,5 +8398,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Line Fire",
+    "Final": false,
+    "Updated": "2026-07-20T21:58:47Z",
+    "Started": "2026-07-20T13:49:52Z",
+    "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
+    "AdminUnitUrl": null,
+    "County": "Tuolumne",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.528017,
+    "Latitude": 37.92036,
+    "Type": "Wildfire",
+    "UniqueId": "e10b46c2-d23e-4cd6-aa46-88dd5caff470",
+    "Url": "https://www.fire.ca.gov/incidents/2026/7/20/line-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-07-20",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
