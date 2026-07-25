@@ -8127,7 +8127,7 @@
   {
     "Name": "Biscar Fire",
     "Final": false,
-    "Updated": "2026-07-25T15:38:36Z",
+    "Updated": "2026-07-25T18:35:49Z",
     "Started": "2026-07-18T18:55:09Z",
     "AdminUnit": "Bureau of Land Management - Northern California",
     "AdminUnitUrl": null,
@@ -8527,14 +8527,14 @@
   {
     "Name": "Rider Fire",
     "Final": false,
-    "Updated": "2026-07-25T02:59:29Z",
+    "Updated": "2026-07-25T17:11:53Z",
     "Started": "2026-07-21T20:32:42Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
     "County": "Riverside",
     "Location": "Mead Valley",
     "AcresBurned": 140.0,
-    "PercentContained": 98.0,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -117.264023,
@@ -8802,7 +8802,7 @@
   {
     "Name": "Fields Fire",
     "Final": false,
-    "Updated": "2026-07-25T13:31:41Z",
+    "Updated": "2026-07-25T19:12:51Z",
     "Started": "2026-07-23T20:46:46Z",
     "AdminUnit": "CAL FIRE Madera-Mariposa-Merced Unit",
     "AdminUnitUrl": null,
@@ -8877,7 +8877,7 @@
   {
     "Name": "Cinder Complex",
     "Final": false,
-    "Updated": "2026-07-25T16:14:33Z",
+    "Updated": "2026-07-25T19:12:55Z",
     "Started": "2026-07-25T00:15:00Z",
     "AdminUnit": "CAL FIRE San Bernardino Unit, Bureau of Land Management, CHP, United States Forest Service",
     "AdminUnitUrl": null,
