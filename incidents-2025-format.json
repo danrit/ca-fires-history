@@ -8427,7 +8427,7 @@
   {
     "Name": "Rock Fire",
     "Final": false,
-    "Updated": "2026-07-28T18:31:52Z",
+    "Updated": "2026-07-28T20:03:09Z",
     "Started": "2026-07-20T23:50:53Z",
     "AdminUnit": "Unified Command: CAL FIRE San Bernardino-Inyo-Mono Unit, Inyo National Forest, Inyo County Sheriff's Department",
     "AdminUnitUrl": null,
@@ -8802,7 +8802,7 @@
   {
     "Name": "Cinder Complex",
     "Final": false,
-    "Updated": "2026-07-28T18:31:56Z",
+    "Updated": "2026-07-28T20:03:12Z",
     "Started": "2026-07-25T00:15:00Z",
     "AdminUnit": "CAL FIRE San Bernardino-Inyo-Mono Unit, Bureau of Land Management, CHP, United States Forest Service",
     "AdminUnitUrl": null,
@@ -8927,13 +8927,13 @@
   {
     "Name": "Dove Fire",
     "Final": false,
-    "Updated": "2026-07-28T17:57:02Z",
+    "Updated": "2026-07-28T20:03:29Z",
     "Started": "2026-07-26T21:48:46Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
     "County": "Tuolumne",
     "Location": "Highway 108 & Mill Villa Road, Sonora",
-    "AcresBurned": 224.9,
+    "AcresBurned": 225.7,
     "PercentContained": 25.0,
     "ControlStatement": null,
     "AgencyNames": "Sonora City Fire Department, California Highway Patrol (CHP), Sonora City Police, Tuolumne County Sheriff, Tuolumne County Officer of Emergency Services\n",
