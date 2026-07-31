@@ -7552,7 +7552,7 @@
   {
     "Name": "Chute Fire",
     "Final": false,
-    "Updated": "2026-07-31T13:32:53Z",
+    "Updated": "2026-07-31T17:28:11Z",
     "Started": "2026-07-13T15:20:13Z",
     "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
     "AdminUnitUrl": null,
@@ -8452,14 +8452,14 @@
   {
     "Name": "Rock Fire",
     "Final": false,
-    "Updated": "2026-07-31T14:31:42Z",
+    "Updated": "2026-07-31T16:52:34Z",
     "Started": "2026-07-20T23:50:53Z",
     "AdminUnit": "Inyo National Forest",
     "AdminUnitUrl": null,
     "County": "Inyo",
     "Location": "Black Rock Springs Road and Hwy 395, Poverty Hills",
     "AcresBurned": 12008.0,
-    "PercentContained": 85.0,
+    "PercentContained": 88.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -118.24765,
@@ -8952,7 +8952,7 @@
   {
     "Name": "Dove Fire",
     "Final": false,
-    "Updated": "2026-07-31T14:23:17Z",
+    "Updated": "2026-07-31T17:16:02Z",
     "Started": "2026-07-26T21:48:46Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -9302,7 +9302,7 @@
   {
     "Name": "Woodside Fire",
     "Final": false,
-    "Updated": "2026-07-31T14:03:44Z",
+    "Updated": "2026-07-31T16:12:26Z",
     "Started": "2026-07-30T20:43:26Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
