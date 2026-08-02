@@ -9473,5 +9473,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Feliz Fire",
+    "Final": false,
+    "Updated": "2026-08-01T23:50:00Z",
+    "Started": "2026-08-01T22:39:08Z",
+    "AdminUnit": "CAL FIRE Mendocino Unit",
+    "AdminUnitUrl": null,
+    "County": "Mendocino",
+    "Location": "Feliz Creek Road, Hopland  ",
+    "AcresBurned": 200.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -123.165331,
+    "Latitude": 38.989719,
+    "Type": "Wildfire",
+    "UniqueId": "2d912e74-c1d1-4fc0-9f6b-e7392c2a86ca",
+    "Url": "https://www.fire.ca.gov/incidents/2026/8/1/feliz-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-08-01",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
