@@ -8827,7 +8827,7 @@
   {
     "Name": "Cinder Complex",
     "Final": false,
-    "Updated": "2026-08-02T14:25:59Z",
+    "Updated": "2026-08-02T17:13:31Z",
     "Started": "2026-07-25T00:15:00Z",
     "AdminUnit": "CAL FIRE San Bernardino, Inyo, Mono Unit ",
     "AdminUnitUrl": null,
@@ -8927,7 +8927,7 @@
   {
     "Name": "Mines Fire",
     "Final": false,
-    "Updated": "2026-08-01T03:13:19Z",
+    "Updated": "2026-08-02T17:25:31Z",
     "Started": "2026-07-26T21:08:31Z",
     "AdminUnit": "CAL FIRE Santa Clara Unit",
     "AdminUnitUrl": null,
@@ -9102,7 +9102,7 @@
   {
     "Name": "Fish Fire",
     "Final": false,
-    "Updated": "2026-08-01T15:20:43Z",
+    "Updated": "2026-08-02T17:16:39Z",
     "Started": "2026-07-27T19:44:22Z",
     "AdminUnit": "Kern County Fire Department",
     "AdminUnitUrl": null,
@@ -9302,7 +9302,7 @@
   {
     "Name": "Woodside Fire",
     "Final": false,
-    "Updated": "2026-08-02T15:45:06Z",
+    "Updated": "2026-08-02T19:21:50Z",
     "Started": "2026-07-30T20:43:26Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -9477,13 +9477,13 @@
   {
     "Name": "Feliz Fire",
     "Final": false,
-    "Updated": "2026-08-02T16:52:16Z",
+    "Updated": "2026-08-02T18:41:55Z",
     "Started": "2026-08-01T22:39:08Z",
     "AdminUnit": "CAL FIRE Mendocino Unit",
     "AdminUnitUrl": null,
     "County": "Mendocino",
     "Location": "Feliz Creek Road, Hopland  ",
-    "AcresBurned": 841.0,
+    "AcresBurned": 872.0,
     "PercentContained": 10.0,
     "ControlStatement": null,
     "AgencyNames": "",
