@@ -8951,8 +8951,8 @@
   },
   {
     "Name": "Dove Fire",
-    "Final": false,
-    "Updated": "2026-08-02T01:56:09Z",
+    "Final": true,
+    "Updated": "2026-08-02T21:17:52Z",
     "Started": "2026-07-26T21:48:46Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -8970,7 +8970,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-07-26",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -9302,7 +9302,7 @@
   {
     "Name": "Woodside Fire",
     "Final": false,
-    "Updated": "2026-08-02T19:35:24Z",
+    "Updated": "2026-08-02T21:13:02Z",
     "Started": "2026-07-30T20:43:26Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -9311,7 +9311,7 @@
     "AcresBurned": 151.5,
     "PercentContained": 50.0,
     "ControlStatement": null,
-    "AgencyNames": "",
+    "AgencyNames": "North Sonoma Coast FPD, Timber Cove FPD, South Coast FPD, Gold Ridge Fire, Sonoma County Fire District, California State Parks, California Highway Patrol, Sonoma County Sheriff's Office, Sonoma County Department of Emergency Management, PG&E",
     "Longitude": -123.32409,
     "Latitude": 38.56686,
     "Type": "Wildfire",
@@ -9452,7 +9452,7 @@
   {
     "Name": "Parsons Fire",
     "Final": false,
-    "Updated": "2026-08-02T20:47:54Z",
+    "Updated": "2026-08-02T21:09:25Z",
     "Started": "2026-08-01T19:36:34Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
@@ -9477,7 +9477,7 @@
   {
     "Name": "Feliz Fire",
     "Final": false,
-    "Updated": "2026-08-02T20:03:45Z",
+    "Updated": "2026-08-02T22:01:43Z",
     "Started": "2026-08-01T22:39:08Z",
     "AdminUnit": "CAL FIRE Mendocino Unit",
     "AdminUnitUrl": null,
