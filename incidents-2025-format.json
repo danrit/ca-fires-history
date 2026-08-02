@@ -8452,14 +8452,14 @@
   {
     "Name": "Rock Fire",
     "Final": false,
-    "Updated": "2026-08-02T04:51:16Z",
+    "Updated": "2026-08-02T15:13:25Z",
     "Started": "2026-07-20T23:50:53Z",
     "AdminUnit": "Inyo National Forest",
     "AdminUnitUrl": null,
     "County": "Inyo",
     "Location": "Black Rock Springs Road and Hwy 395, Poverty Hills",
     "AcresBurned": 12008.0,
-    "PercentContained": 92.0,
+    "PercentContained": 94.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -118.24765,
@@ -9152,7 +9152,7 @@
   {
     "Name": "Green Fire",
     "Final": false,
-    "Updated": "2026-08-02T14:26:12Z",
+    "Updated": "2026-08-02T17:01:54Z",
     "Started": "2026-07-28T00:42:30Z",
     "AdminUnit": "Unified Command: CAL FIRE, United States Forest Service -  San Bernardino National Forest",
     "AdminUnitUrl": null,
@@ -9302,7 +9302,7 @@
   {
     "Name": "Woodside Fire",
     "Final": false,
-    "Updated": "2026-08-02T13:23:59Z",
+    "Updated": "2026-08-02T15:45:06Z",
     "Started": "2026-07-30T20:43:26Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -9427,7 +9427,7 @@
   {
     "Name": "Grade Fire",
     "Final": false,
-    "Updated": "2026-08-02T14:26:06Z",
+    "Updated": "2026-08-02T16:29:52Z",
     "Started": "2026-07-31T21:13:07Z",
     "AdminUnit": "Unified Command: CAL FIRE San Diego Unit and USFS",
     "AdminUnitUrl": null,
@@ -9477,7 +9477,7 @@
   {
     "Name": "Feliz Fire",
     "Final": false,
-    "Updated": "2026-08-02T13:20:37Z",
+    "Updated": "2026-08-02T16:52:16Z",
     "Started": "2026-08-01T22:39:08Z",
     "AdminUnit": "CAL FIRE Mendocino Unit",
     "AdminUnitUrl": null,
