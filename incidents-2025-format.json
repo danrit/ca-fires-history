@@ -9302,7 +9302,7 @@
   {
     "Name": "Woodside Fire",
     "Final": false,
-    "Updated": "2026-08-02T19:21:50Z",
+    "Updated": "2026-08-02T19:35:24Z",
     "Started": "2026-07-30T20:43:26Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -9427,7 +9427,7 @@
   {
     "Name": "Grade Fire",
     "Final": false,
-    "Updated": "2026-08-02T16:29:52Z",
+    "Updated": "2026-08-02T20:52:04Z",
     "Started": "2026-07-31T21:13:07Z",
     "AdminUnit": "Unified Command: CAL FIRE San Diego Unit and USFS",
     "AdminUnitUrl": null,
@@ -9452,14 +9452,14 @@
   {
     "Name": "Parsons Fire",
     "Final": false,
-    "Updated": "2026-08-02T02:49:11Z",
+    "Updated": "2026-08-02T20:47:54Z",
     "Started": "2026-08-01T19:36:34Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
     "County": "Fresno",
     "Location": "Highway 198 & Parsons Road, Coalinga",
     "AcresBurned": 275.0,
-    "PercentContained": 90.0,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -120.3964,
@@ -9477,7 +9477,7 @@
   {
     "Name": "Feliz Fire",
     "Final": false,
-    "Updated": "2026-08-02T18:41:55Z",
+    "Updated": "2026-08-02T20:03:45Z",
     "Started": "2026-08-01T22:39:08Z",
     "AdminUnit": "CAL FIRE Mendocino Unit",
     "AdminUnitUrl": null,
