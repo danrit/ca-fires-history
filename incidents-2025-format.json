@@ -8126,8 +8126,8 @@
   },
   {
     "Name": "Biscar Fire",
-    "Final": false,
-    "Updated": "2026-07-31T13:46:34Z",
+    "Final": true,
+    "Updated": "2026-08-04T22:38:47Z",
     "Started": "2026-07-18T18:55:09Z",
     "AdminUnit": "Bureau of Land Management - Northern California",
     "AdminUnitUrl": null,
@@ -8452,7 +8452,7 @@
   {
     "Name": "Rock Fire",
     "Final": false,
-    "Updated": "2026-08-04T01:34:22Z",
+    "Updated": "2026-08-04T22:22:13Z",
     "Started": "2026-07-20T23:50:53Z",
     "AdminUnit": "Inyo National Forest",
     "AdminUnitUrl": null,
@@ -8927,13 +8927,13 @@
   {
     "Name": "Mines Fire",
     "Final": false,
-    "Updated": "2026-08-04T16:02:29Z",
+    "Updated": "2026-08-04T22:04:15Z",
     "Started": "2026-07-26T21:08:31Z",
     "AdminUnit": "CAL FIRE Santa Clara Unit",
     "AdminUnitUrl": null,
     "County": "Santa Clara",
     "Location": "Mines Road and San Antonio Valley Road, San Antone Valley",
-    "AcresBurned": 283.0,
+    "AcresBurned": 282.0,
     "PercentContained": 95.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -9076,8 +9076,8 @@
   },
   {
     "Name": "Junction 2 Fire",
-    "Final": false,
-    "Updated": "2026-07-31T03:40:10Z",
+    "Final": true,
+    "Updated": "2026-08-04T22:38:25Z",
     "Started": "2026-07-27T03:51:19Z",
     "AdminUnit": "US Wildland Fire Service",
     "AdminUnitUrl": null,
@@ -9302,7 +9302,7 @@
   {
     "Name": "Woodside Fire",
     "Final": false,
-    "Updated": "2026-08-04T16:39:28Z",
+    "Updated": "2026-08-04T22:36:54Z",
     "Started": "2026-07-30T20:43:26Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -9477,7 +9477,7 @@
   {
     "Name": "Feliz Fire",
     "Final": false,
-    "Updated": "2026-08-04T16:02:31Z",
+    "Updated": "2026-08-04T22:36:50Z",
     "Started": "2026-08-01T22:39:08Z",
     "AdminUnit": "CAL FIRE Mendocino Unit",
     "AdminUnitUrl": null,
@@ -9527,7 +9527,7 @@
   {
     "Name": "Gann Fire",
     "Final": false,
-    "Updated": "2026-08-04T20:23:17Z",
+    "Updated": "2026-08-04T23:01:24Z",
     "Started": "2026-08-04T00:27:56Z",
     "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit, Calaveras County Sheriff’s Office",
     "AdminUnitUrl": null,
