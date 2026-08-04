@@ -9527,7 +9527,7 @@
   {
     "Name": "Gann Fire",
     "Final": false,
-    "Updated": "2026-08-04T18:16:18Z",
+    "Updated": "2026-08-04T20:23:17Z",
     "Started": "2026-08-04T00:27:56Z",
     "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit, Calaveras County Sheriff’s Office",
     "AdminUnitUrl": null,
@@ -9597,6 +9597,31 @@
     "StartedDateOnly": "2026-08-04",
     "IsActive": true,
     "CalFireIncident": true,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Haskett Fire ",
+    "Final": false,
+    "Updated": "2026-08-04T20:42:28Z",
+    "Started": "2026-08-04T20:28:42Z",
+    "AdminUnit": "Los Angeles County Fire Department",
+    "AdminUnitUrl": null,
+    "County": "Los Angeles",
+    "Location": "Cheseboro Road and Mount Emma Road, Little Rock ",
+    "AcresBurned": 35.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.03026,
+    "Latitude": 34.50622,
+    "Type": "Wildfire",
+    "UniqueId": "643c940e-ec0f-4b38-b731-43576bf940fc",
+    "Url": "https://www.fire.ca.gov/incidents/2026/8/4/haskett-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-08-04",
+    "IsActive": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
