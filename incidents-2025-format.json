@@ -6677,7 +6677,7 @@
   {
     "Name": "3-1 Pit Fire",
     "Final": false,
-    "Updated": "2026-08-05T00:07:45Z",
+    "Updated": "2026-08-05T21:30:06Z",
     "Started": "2026-07-07T20:35:02Z",
     "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
     "AdminUnitUrl": null,
@@ -7252,7 +7252,7 @@
   {
     "Name": "Loomis Fire",
     "Final": false,
-    "Updated": "2026-08-05T00:07:48Z",
+    "Updated": "2026-08-05T21:30:50Z",
     "Started": "2026-07-12T06:47:57Z",
     "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
     "AdminUnitUrl": null,
@@ -9477,7 +9477,7 @@
   {
     "Name": "Feliz Fire",
     "Final": false,
-    "Updated": "2026-08-05T14:12:20Z",
+    "Updated": "2026-08-05T21:43:36Z",
     "Started": "2026-08-01T22:39:08Z",
     "AdminUnit": "CAL FIRE Mendocino Unit",
     "AdminUnitUrl": null,
@@ -9527,7 +9527,7 @@
   {
     "Name": "Gann Fire",
     "Final": false,
-    "Updated": "2026-08-05T19:38:21Z",
+    "Updated": "2026-08-05T22:13:02Z",
     "Started": "2026-08-04T00:27:56Z",
     "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit, Calaveras County Sheriff’s Office",
     "AdminUnitUrl": null,
@@ -9727,13 +9727,13 @@
   {
     "Name": "Anderson Fire",
     "Final": false,
-    "Updated": "2026-08-05T20:34:09Z",
+    "Updated": "2026-08-05T22:03:47Z",
     "Started": "2026-08-05T19:37:41Z",
-    "AdminUnit": "CAL FIRE Mendocino Unit",
+    "AdminUnit": "Unified Command: CAL FIRE Mendocino Unit; Covelo Fire Protection District",
     "AdminUnitUrl": null,
     "County": "Mendocino",
-    "Location": "Unknown / TBD",
-    "AcresBurned": 80.0,
+    "Location": "Highway 162, South of Covelo ",
+    "AcresBurned": 205.0,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
