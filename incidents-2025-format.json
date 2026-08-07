@@ -9527,7 +9527,7 @@
   {
     "Name": "Gann Fire",
     "Final": false,
-    "Updated": "2026-08-07T22:35:44Z",
+    "Updated": "2026-08-07T23:12:52Z",
     "Started": "2026-08-04T00:27:56Z",
     "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit, Calaveras County Sheriff’s Office",
     "AdminUnitUrl": null,
@@ -9802,7 +9802,7 @@
   {
     "Name": "Beaver Fire",
     "Final": false,
-    "Updated": "2026-08-07T22:31:55Z",
+    "Updated": "2026-08-07T23:39:56Z",
     "Started": "2026-08-07T22:03:50Z",
     "AdminUnit": "CAL FIRE San Diego Unit",
     "AdminUnitUrl": null,
@@ -9812,8 +9812,8 @@
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -116.78962,
-    "Latitude": 32.73163,
+    "Longitude": -116.82686,
+    "Latitude": 32.735132,
     "Type": "Wildfire",
     "UniqueId": "618cdfcc-5c3f-43d9-920c-1f0b1c071bdc",
     "Url": "https://www.fire.ca.gov/incidents/2026/8/7/beaver-fire/",
