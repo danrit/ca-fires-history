@@ -6677,7 +6677,7 @@
   {
     "Name": "3-1 Pit Fire",
     "Final": false,
-    "Updated": "2026-08-05T21:30:06Z",
+    "Updated": "2026-08-07T04:45:50Z",
     "Started": "2026-07-07T20:35:02Z",
     "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
     "AdminUnitUrl": null,
@@ -6695,7 +6695,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-07-07",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -7252,7 +7252,7 @@
   {
     "Name": "Loomis Fire",
     "Final": false,
-    "Updated": "2026-08-05T21:30:50Z",
+    "Updated": "2026-08-07T04:45:27Z",
     "Started": "2026-07-12T06:47:57Z",
     "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
     "AdminUnitUrl": null,
@@ -7270,7 +7270,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-07-12",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -9702,7 +9702,7 @@
   {
     "Name": "Buzzard Fire",
     "Final": false,
-    "Updated": "2026-08-07T03:45:16Z",
+    "Updated": "2026-08-07T05:14:29Z",
     "Started": "2026-08-05T15:29:49Z",
     "AdminUnit": "",
     "AdminUnitUrl": null,
