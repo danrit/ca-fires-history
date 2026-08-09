@@ -7552,7 +7552,7 @@
   {
     "Name": "Chute Fire",
     "Final": false,
-    "Updated": "2026-08-09T14:08:22Z",
+    "Updated": "2026-08-09T15:31:07Z",
     "Started": "2026-07-13T15:20:13Z",
     "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
     "AdminUnitUrl": null,
@@ -7570,7 +7570,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-07-13",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -9527,7 +9527,7 @@
   {
     "Name": "Gann Fire",
     "Final": false,
-    "Updated": "2026-08-09T13:38:56Z",
+    "Updated": "2026-08-09T15:28:40Z",
     "Started": "2026-08-04T00:27:56Z",
     "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit, Calaveras County Sheriff’s Office",
     "AdminUnitUrl": null,
@@ -10052,13 +10052,13 @@
   {
     "Name": "Hatchet Fire",
     "Final": false,
-    "Updated": "2026-08-09T14:18:51Z",
+    "Updated": "2026-08-09T15:28:50Z",
     "Started": "2026-08-09T10:06:39Z",
     "AdminUnit": "CAL FIRE Tulare Unit",
     "AdminUnitUrl": null,
     "County": "Tulare",
     "Location": "West of Highway 190 and Southwest of Springville",
-    "AcresBurned": 250.0,
+    "AcresBurned": 450.0,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
