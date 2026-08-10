@@ -9527,7 +9527,7 @@
   {
     "Name": "Gann Fire",
     "Final": false,
-    "Updated": "2026-08-10T20:29:04Z",
+    "Updated": "2026-08-10T21:44:41Z",
     "Started": "2026-08-04T00:27:56Z",
     "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit, Calaveras County Sheriff’s Office",
     "AdminUnitUrl": null,
@@ -10077,7 +10077,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-08-10T19:26:36Z",
+    "Updated": "2026-08-10T21:46:40Z",
     "Started": "2026-08-09T17:44:40Z",
     "AdminUnit": "Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -10197,6 +10197,31 @@
     "StartedDateOnly": "2026-08-10",
     "IsActive": true,
     "CalFireIncident": true,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Hawk Fire",
+    "Final": false,
+    "Updated": "2026-08-10T21:50:14Z",
+    "Started": "2026-08-10T21:13:26Z",
+    "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
+    "AdminUnitUrl": null,
+    "County": "El Dorado",
+    "Location": "Hawk Haven Lane, Fair Play",
+    "AcresBurned": 40.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.65301,
+    "Latitude": 38.611608,
+    "Type": "Wildfire",
+    "UniqueId": "fcca8d8f-b39e-411e-a9a0-d68669f86611",
+    "Url": "https://www.fire.ca.gov/incidents/2026/8/10/hawk-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-08-10",
+    "IsActive": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
