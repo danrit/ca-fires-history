@@ -9852,7 +9852,7 @@
   {
     "Name": "Holser Fire",
     "Final": false,
-    "Updated": "2026-08-10T17:44:29Z",
+    "Updated": "2026-08-11T19:55:10Z",
     "Started": "2026-08-08T20:02:00Z",
     "AdminUnit": "Ventura County Fire Department",
     "AdminUnitUrl": null,
@@ -9877,13 +9877,13 @@
   {
     "Name": "MP18 Fire",
     "Final": false,
-    "Updated": "2026-08-11T13:29:24Z",
+    "Updated": "2026-08-11T19:19:00Z",
     "Started": "2026-08-08T02:04:41Z",
     "AdminUnit": "BIA Hoopa Valley Tribe",
     "AdminUnitUrl": null,
     "County": "Humboldt",
     "Location": "Highway 96 at Norton Creek, north of Hoopa",
-    "AcresBurned": 1563.0,
+    "AcresBurned": 2106.5,
     "PercentContained": 10.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -9977,7 +9977,7 @@
   {
     "Name": "Bug Fire",
     "Final": false,
-    "Updated": "2026-08-11T16:31:49Z",
+    "Updated": "2026-08-11T19:56:48Z",
     "Started": "2026-08-08T23:08:51Z",
     "AdminUnit": "Bureau of Land Management - Carson City District",
     "AdminUnitUrl": null,
@@ -10077,7 +10077,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-08-11T18:29:25Z",
+    "Updated": "2026-08-11T20:25:38Z",
     "Started": "2026-08-09T17:44:40Z",
     "AdminUnit": "CAL FIRE San Benito-Monterey Unit;Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
