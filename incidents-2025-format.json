@@ -9527,7 +9527,7 @@
   {
     "Name": "Gann Fire",
     "Final": false,
-    "Updated": "2026-08-11T15:48:36Z",
+    "Updated": "2026-08-11T17:32:56Z",
     "Started": "2026-08-04T00:27:56Z",
     "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit, Calaveras County Sheriff’s Office",
     "AdminUnitUrl": null,
@@ -10077,9 +10077,9 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-08-11T16:44:18Z",
+    "Updated": "2026-08-11T17:50:53Z",
     "Started": "2026-08-09T17:44:40Z",
-    "AdminUnit": "CAL FIRE San Benito-Monterey Unit;Los Padres National Forest",
+    "AdminUnit": "CAL FIRE San Benito-Monterey Unit;Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
     "County": "Monterey",
     "Location": "Southeast of Loma Vista",
