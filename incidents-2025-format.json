@@ -9527,7 +9527,7 @@
   {
     "Name": "Gann Fire",
     "Final": false,
-    "Updated": "2026-08-11T17:32:56Z",
+    "Updated": "2026-08-11T21:10:45Z",
     "Started": "2026-08-04T00:27:56Z",
     "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit, Calaveras County Sheriff’s Office",
     "AdminUnitUrl": null,
@@ -9951,8 +9951,8 @@
   },
   {
     "Name": "Walnut Fire ",
-    "Final": false,
-    "Updated": "2026-08-11T18:43:42Z",
+    "Final": true,
+    "Updated": "2026-08-11T21:04:37Z",
     "Started": "2026-08-08T22:51:41Z",
     "AdminUnit": "Burbank Fire Department",
     "AdminUnitUrl": null,
@@ -9970,7 +9970,7 @@
     "ExtinguishedDate": "2026-08-11T15:00:00Z",
     "ExtinguishedDateOnly": "2026-08-11",
     "StartedDateOnly": "2026-08-08",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -10077,7 +10077,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-08-11T20:25:38Z",
+    "Updated": "2026-08-11T21:15:18Z",
     "Started": "2026-08-09T17:44:40Z",
     "AdminUnit": "CAL FIRE San Benito-Monterey Unit;Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
