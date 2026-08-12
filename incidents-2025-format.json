@@ -9527,7 +9527,7 @@
   {
     "Name": "Gann Fire",
     "Final": false,
-    "Updated": "2026-08-12T16:20:23Z",
+    "Updated": "2026-08-12T17:52:49Z",
     "Started": "2026-08-04T00:27:56Z",
     "AdminUnit": "Unified Command: CAL FIRE Tuolumne-Calaveras Unit, Calaveras County Sheriff’s Office",
     "AdminUnitUrl": null,
@@ -9877,7 +9877,7 @@
   {
     "Name": "MP18 Fire",
     "Final": false,
-    "Updated": "2026-08-12T14:13:37Z",
+    "Updated": "2026-08-12T18:48:52Z",
     "Started": "2026-08-08T02:04:41Z",
     "AdminUnit": "BIA Hoopa Valley Tribe",
     "AdminUnitUrl": null,
@@ -9977,7 +9977,7 @@
   {
     "Name": "Bug Fire",
     "Final": false,
-    "Updated": "2026-08-12T15:56:25Z",
+    "Updated": "2026-08-12T18:39:31Z",
     "Started": "2026-08-08T23:08:51Z",
     "AdminUnit": "Bureau of Land Management - Carson City District",
     "AdminUnitUrl": null,
@@ -10052,13 +10052,13 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-08-12T16:59:38Z",
+    "Updated": "2026-08-12T18:44:46Z",
     "Started": "2026-08-09T17:44:40Z",
     "AdminUnit": "Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
     "County": "Monterey",
     "Location": "Southeast of Loma Vista",
-    "AcresBurned": 3150.0,
+    "AcresBurned": 3774.0,
     "PercentContained": 5.0,
     "ControlStatement": null,
     "AgencyNames": "",
