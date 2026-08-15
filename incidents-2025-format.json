@@ -10077,13 +10077,13 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-08-15T03:02:47Z",
+    "Updated": "2026-08-15T14:26:58Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
     "County": "Monterey",
     "Location": "Southeast of Loma Vista",
-    "AcresBurned": 4545.0,
+    "AcresBurned": 4655.0,
     "PercentContained": 12.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -10327,7 +10327,7 @@
   {
     "Name": "Talbot Fire",
     "Final": false,
-    "Updated": "2026-08-15T01:08:08Z",
+    "Updated": "2026-08-15T14:01:38Z",
     "Started": "2026-08-12T22:26:27Z",
     "AdminUnit": "Unified Command: USFS - Tahoe National Forest, CAL FIRE Nevada-Yuba-Placer Unit",
     "AdminUnitUrl": null,
@@ -10452,7 +10452,7 @@
   {
     "Name": "Woods Fire",
     "Final": false,
-    "Updated": "2026-08-15T00:48:29Z",
+    "Updated": "2026-08-15T14:18:01Z",
     "Started": "2026-08-09T14:31:51Z",
     "AdminUnit": "USFS - Stanislaus National Forest",
     "AdminUnitUrl": null,
