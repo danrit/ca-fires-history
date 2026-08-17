@@ -10077,7 +10077,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-08-17T01:08:14Z",
+    "Updated": "2026-08-17T02:29:17Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
@@ -10327,7 +10327,7 @@
   {
     "Name": "Talbot Fire",
     "Final": false,
-    "Updated": "2026-08-17T01:08:07Z",
+    "Updated": "2026-08-17T03:07:08Z",
     "Started": "2026-08-12T22:26:27Z",
     "AdminUnit": "Unified Command: USFS - Tahoe National Forest, CAL FIRE Nevada-Yuba-Placer Unit",
     "AdminUnitUrl": null,
@@ -10477,14 +10477,14 @@
   {
     "Name": "Taffle Fire",
     "Final": false,
-    "Updated": "2026-08-16T14:12:04Z",
+    "Updated": "2026-08-17T03:04:03Z",
     "Started": "2026-08-14T19:46:44Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
     "County": "Riverside",
     "Location": "Taffle Ranch Rd and Louis Lane, 5 miles Southeast of Hemet",
     "AcresBurned": 77.0,
-    "PercentContained": 80.0,
+    "PercentContained": 85.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -116.883557,
@@ -10577,7 +10577,7 @@
   {
     "Name": "Sorrento Fire",
     "Final": false,
-    "Updated": "2026-08-17T01:24:22Z",
+    "Updated": "2026-08-17T02:33:38Z",
     "Started": "2026-08-16T22:15:11Z",
     "AdminUnit": "San Diego Fire & Rescue",
     "AdminUnitUrl": null,
