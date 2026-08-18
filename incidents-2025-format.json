@@ -9902,7 +9902,7 @@
   {
     "Name": "Holser Fire",
     "Final": false,
-    "Updated": "2026-08-17T00:15:20Z",
+    "Updated": "2026-08-18T16:30:35Z",
     "Started": "2026-08-08T20:02:00Z",
     "AdminUnit": "Ventura County Fire Department",
     "AdminUnitUrl": null,
@@ -9977,7 +9977,7 @@
   {
     "Name": "Bug Fire",
     "Final": false,
-    "Updated": "2026-08-18T00:04:34Z",
+    "Updated": "2026-08-18T16:01:05Z",
     "Started": "2026-08-08T23:08:51Z",
     "AdminUnit": "Bureau of Land Management - Carson City District",
     "AdminUnitUrl": null,
@@ -10077,7 +10077,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-08-18T15:38:29Z",
+    "Updated": "2026-08-18T16:07:57Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
@@ -10327,7 +10327,7 @@
   {
     "Name": "Talbot Fire",
     "Final": false,
-    "Updated": "2026-08-17T16:14:04Z",
+    "Updated": "2026-08-18T16:36:04Z",
     "Started": "2026-08-12T22:26:27Z",
     "AdminUnit": "USFS - Tahoe National Forest",
     "AdminUnitUrl": null,
@@ -10452,7 +10452,7 @@
   {
     "Name": "Woods Fire",
     "Final": false,
-    "Updated": "2026-08-17T23:51:29Z",
+    "Updated": "2026-08-18T16:39:12Z",
     "Started": "2026-08-09T14:31:51Z",
     "AdminUnit": "USFS - Stanislaus National Forest",
     "AdminUnitUrl": null,
@@ -10577,13 +10577,13 @@
   {
     "Name": "Sorrento Fire",
     "Final": false,
-    "Updated": "2026-08-18T04:57:20Z",
+    "Updated": "2026-08-18T16:29:51Z",
     "Started": "2026-08-16T22:15:11Z",
     "AdminUnit": "San Diego Fire & Rescue",
     "AdminUnitUrl": null,
     "County": "San Diego",
     "Location": "Sorrento Valley Boulevard and Carmel Mountain Road",
-    "AcresBurned": 130.6,
+    "AcresBurned": 138.0,
     "PercentContained": 60.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -10626,8 +10626,8 @@
   },
   {
     "Name": "Flynn Fire",
-    "Final": false,
-    "Updated": "2026-08-18T14:16:34Z",
+    "Final": true,
+    "Updated": "2026-08-18T16:39:55Z",
     "Started": "2026-08-18T02:05:11Z",
     "AdminUnit": "CAL FIRE Santa Clara Unit",
     "AdminUnitUrl": null,
@@ -10639,13 +10639,13 @@
     "AgencyNames": "",
     "Longitude": -121.654327,
     "Latitude": 37.719908,
-    "Type": "Fire",
+    "Type": "Wildfire",
     "UniqueId": "8eca941d-2377-4090-ac1d-980224ab6886",
     "Url": "https://www.fire.ca.gov/incidents/2026/8/17/flynn-fire/",
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-08-18",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
