@@ -9852,7 +9852,7 @@
   {
     "Name": "MP18 Fire",
     "Final": false,
-    "Updated": "2026-08-19T14:41:37Z",
+    "Updated": "2026-08-19T18:31:41Z",
     "Started": "2026-08-08T02:04:41Z",
     "AdminUnit": "BIA Hoopa Valley Tribe",
     "AdminUnitUrl": null,
@@ -10077,7 +10077,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-08-19T16:29:41Z",
+    "Updated": "2026-08-19T17:40:36Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
@@ -10652,13 +10652,13 @@
   {
     "Name": "Williams Fire",
     "Final": false,
-    "Updated": "2026-08-19T13:54:52Z",
+    "Updated": "2026-08-19T17:39:46Z",
     "Started": "2026-08-19T03:47:22Z",
     "AdminUnit": "CAL FIRE Mendocino Unit",
     "AdminUnitUrl": null,
     "County": "Mendocino",
     "Location": "Mendocino Pass Rd, Covelo  ",
-    "AcresBurned": 19.0,
+    "AcresBurned": 18.7,
     "PercentContained": 50.0,
     "ControlStatement": null,
     "AgencyNames": "",
