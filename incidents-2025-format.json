@@ -10077,7 +10077,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-08-20T13:11:07Z",
+    "Updated": "2026-08-20T13:59:31Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
@@ -10326,8 +10326,8 @@
   },
   {
     "Name": "Talbot Fire",
-    "Final": false,
-    "Updated": "2026-08-20T02:44:17Z",
+    "Final": true,
+    "Updated": "2026-08-20T14:08:01Z",
     "Started": "2026-08-12T22:26:27Z",
     "AdminUnit": "USFS - Tahoe National Forest",
     "AdminUnitUrl": null,
@@ -10342,10 +10342,10 @@
     "Type": "Wildfire",
     "UniqueId": "ded923b7-e9bb-4e74-9da3-87deb20a3e1b",
     "Url": "https://www.fire.ca.gov/incidents/2026/8/12/talbot-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2026-08-19T14:01:41Z",
+    "ExtinguishedDateOnly": "2026-08-19",
     "StartedDateOnly": "2026-08-12",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
