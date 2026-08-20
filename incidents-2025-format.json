@@ -10777,7 +10777,7 @@
   {
     "Name": "Chia Fire",
     "Final": false,
-    "Updated": "2026-08-20T21:35:05Z",
+    "Updated": "2026-08-20T23:07:23Z",
     "Started": "2026-08-20T19:06:03Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -10787,8 +10787,8 @@
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
-    "Longitude": -116.835267,
-    "Latitude": 33.484386,
+    "Longitude": -116.828747,
+    "Latitude": 33.488147,
     "Type": "Wildfire",
     "UniqueId": "36f7e3a9-f1a9-4f7f-925e-2aeca150e658",
     "Url": "https://www.fire.ca.gov/incidents/2026/8/20/chia-fire/",
@@ -10802,7 +10802,7 @@
   {
     "Name": "Loma Fire",
     "Final": false,
-    "Updated": "2026-08-20T22:01:16Z",
+    "Updated": "2026-08-20T23:29:50Z",
     "Started": "2026-08-20T20:29:16Z",
     "AdminUnit": "CAL FIRE Tuolumne-Calaveras Unit",
     "AdminUnitUrl": null,
@@ -10827,13 +10827,13 @@
   {
     "Name": "Rose Fire",
     "Final": false,
-    "Updated": "2026-08-20T22:20:29Z",
+    "Updated": "2026-08-20T23:30:51Z",
     "Started": "2026-08-20T20:58:24Z",
     "AdminUnit": "CAL FIRE Siskiyou Unit",
     "AdminUnitUrl": null,
     "County": "Siskiyou",
     "Location": "Bonanza Road in Montague ",
-    "AcresBurned": 4.0,
+    "AcresBurned": 3.0,
     "PercentContained": null,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -10846,7 +10846,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-08-20",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
