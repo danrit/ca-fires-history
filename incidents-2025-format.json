@@ -10873,5 +10873,30 @@
     "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Grant Fire",
+    "Final": false,
+    "Updated": "2026-08-21T11:11:08Z",
+    "Started": "2026-08-21T09:33:22Z",
+    "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
+    "AdminUnitUrl": null,
+    "County": "Sacramento",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 18.2,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -121.187226,
+    "Latitude": 38.559162,
+    "Type": "Wildfire",
+    "UniqueId": "5e0f3014-4e8e-4505-94c1-c9afc078989e",
+    "Url": "https://www.fire.ca.gov/incidents/2026/8/21/grant-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-08-21",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
