@@ -9852,7 +9852,7 @@
   {
     "Name": "MP18 Fire",
     "Final": false,
-    "Updated": "2026-08-21T22:39:27Z",
+    "Updated": "2026-08-22T15:47:10Z",
     "Started": "2026-08-08T02:04:41Z",
     "AdminUnit": "BIA Hoopa Valley Tribe",
     "AdminUnitUrl": null,
@@ -9902,14 +9902,14 @@
   {
     "Name": "Holser Fire",
     "Final": false,
-    "Updated": "2026-08-21T20:59:49Z",
+    "Updated": "2026-08-22T15:38:28Z",
     "Started": "2026-08-08T20:02:00Z",
     "AdminUnit": "Ventura County Fire Department",
     "AdminUnitUrl": null,
     "County": "Ventura",
     "Location": "Holser Canyon Rd, North of City of Piru ",
     "AcresBurned": 167.0,
-    "PercentContained": 95.0,
+    "PercentContained": 100.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -118.737863,
@@ -10077,7 +10077,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-08-22T15:09:23Z",
+    "Updated": "2026-08-22T16:10:38Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
@@ -10727,7 +10727,7 @@
   {
     "Name": "Drum Fire",
     "Final": false,
-    "Updated": "2026-08-22T02:21:47Z",
+    "Updated": "2026-08-22T16:00:23Z",
     "Started": "2026-08-20T00:47:00Z",
     "AdminUnit": "Santa Barbara County Fire Department",
     "AdminUnitUrl": null,
