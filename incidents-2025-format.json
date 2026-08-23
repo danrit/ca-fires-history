@@ -10077,7 +10077,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-08-23T01:52:39Z",
+    "Updated": "2026-08-23T02:28:23Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
@@ -10652,7 +10652,7 @@
   {
     "Name": "Alpaugh Fire",
     "Final": false,
-    "Updated": "2026-08-21T17:11:00Z",
+    "Updated": "2026-08-23T02:28:20Z",
     "Started": "2026-08-19T21:40:50Z",
     "AdminUnit": "Unified Command: Tulare County Fire Department and BLM - Central California District",
     "AdminUnitUrl": null,
@@ -11027,13 +11027,13 @@
   {
     "Name": "Peach Fire",
     "Final": false,
-    "Updated": "2026-08-23T01:40:19Z",
+    "Updated": "2026-08-23T02:44:52Z",
     "Started": "2026-08-22T23:30:48Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
     "County": "Fresno",
     "Location": "Peach Ave & Manning Ave, Selma CA",
-    "AcresBurned": 38.0,
+    "AcresBurned": 40.0,
     "PercentContained": 75.0,
     "ControlStatement": null,
     "AgencyNames": "",
