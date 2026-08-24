@@ -11098,5 +11098,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "4-1 Fire",
+    "Final": false,
+    "Updated": "2026-08-24T23:28:13Z",
+    "Started": "2026-08-24T22:22:59Z",
+    "AdminUnit": "CAL FIRE Lassen-Modoc Unit",
+    "AdminUnitUrl": null,
+    "County": "Modoc",
+    "Location": "Russel Slough, Southwest of County Rd 68 & County Rd 50",
+    "AcresBurned": 20.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.465667,
+    "Latitude": 41.689167,
+    "Type": "Wildfire",
+    "UniqueId": "20c16664-f935-4302-82fc-7da0f9bfc53f",
+    "Url": "https://www.fire.ca.gov/incidents/2026/8/24/4-1-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-08-24",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
