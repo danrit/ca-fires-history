@@ -11077,7 +11077,7 @@
   {
     "Name": "Alper Fire ",
     "Final": true,
-    "Updated": "2026-08-25T05:03:22Z",
+    "Updated": "2026-08-25T13:32:13Z",
     "Started": "2026-08-23T23:45:55Z",
     "AdminUnit": "Kern County Fire Department",
     "AdminUnitUrl": null,
@@ -11095,7 +11095,7 @@
     "ExtinguishedDate": "2026-08-25T05:03:18Z",
     "ExtinguishedDateOnly": "2026-08-25",
     "StartedDateOnly": "2026-08-23",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
