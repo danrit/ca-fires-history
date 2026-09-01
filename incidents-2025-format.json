@@ -11523,5 +11523,30 @@
     "IsActive": true,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Blake Fire",
+    "Final": false,
+    "Updated": "2026-09-01T08:03:50Z",
+    "Started": "2026-09-01T06:23:14Z",
+    "AdminUnit": "CAL FIRE San Bernardino Unit",
+    "AdminUnitUrl": null,
+    "County": "San Bernardino",
+    "Location": "Unknown / TBD",
+    "AcresBurned": 10.5,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -117.3527,
+    "Latitude": 34.150576,
+    "Type": "Wildfire",
+    "UniqueId": "28c343c7-e18f-4efe-8284-74acc427159f",
+    "Url": "https://www.fire.ca.gov/incidents/2026/8/31/blake-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-09-01",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
