@@ -10077,7 +10077,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-09-04T01:16:37Z",
+    "Updated": "2026-09-04T13:28:36Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
@@ -11227,7 +11227,7 @@
   {
     "Name": "Plaskett Fire",
     "Final": false,
-    "Updated": "2026-09-04T05:22:31Z",
+    "Updated": "2026-09-04T13:35:08Z",
     "Started": "2026-08-26T18:01:28Z",
     "AdminUnit": "USFS - Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -11827,12 +11827,12 @@
   {
     "Name": "Airport Fire",
     "Final": false,
-    "Updated": "2026-09-04T09:21:41Z",
+    "Updated": "2026-09-04T13:14:36Z",
     "Started": "2026-09-04T08:44:20Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
     "County": "Riverside",
-    "Location": "Higgins Drive and Deputy Manny Villegas Way, near Coac",
+    "Location": "Higgins Drive and Deputy Manny Villegas Way, near Coachella",
     "AcresBurned": 50.0,
     "PercentContained": null,
     "ControlStatement": null,
