@@ -10077,13 +10077,13 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-09-08T20:50:20Z",
+    "Updated": "2026-09-08T23:24:42Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
     "County": "Monterey",
     "Location": "Southeast of Loma Vista",
-    "AcresBurned": 25164.7,
+    "AcresBurned": 25380.0,
     "PercentContained": 27.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -11227,7 +11227,7 @@
   {
     "Name": "Plaskett Fire",
     "Final": false,
-    "Updated": "2026-09-08T20:50:24Z",
+    "Updated": "2026-09-08T22:31:37Z",
     "Started": "2026-08-26T18:01:28Z",
     "AdminUnit": "USFS - Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -11677,7 +11677,7 @@
   {
     "Name": "Gibby Fire",
     "Final": false,
-    "Updated": "2026-09-08T15:25:51Z",
+    "Updated": "2026-09-08T21:53:33Z",
     "Started": "2026-09-02T22:02:08Z",
     "AdminUnit": "Orange County Fire Authority",
     "AdminUnitUrl": null,
