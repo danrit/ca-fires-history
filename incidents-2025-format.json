@@ -10077,7 +10077,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-09-11T01:18:17Z",
+    "Updated": "2026-09-11T13:40:25Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
@@ -11227,7 +11227,7 @@
   {
     "Name": "Plaskett Fire",
     "Final": false,
-    "Updated": "2026-09-11T01:21:21Z",
+    "Updated": "2026-09-11T13:42:24Z",
     "Started": "2026-08-26T18:01:28Z",
     "AdminUnit": "USFS - Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -12102,14 +12102,14 @@
   {
     "Name": "Steele Fire",
     "Final": false,
-    "Updated": "2026-09-11T03:55:50Z",
+    "Updated": "2026-09-11T14:10:12Z",
     "Started": "2026-09-09T16:59:02Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
     "County": "Napa",
     "Location": "9400 block of Steele Canyon Road, Napa County ",
     "AcresBurned": 51.0,
-    "PercentContained": 48.0,
+    "PercentContained": 68.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -122.1886,
@@ -12177,7 +12177,7 @@
   {
     "Name": "Lucas Fire",
     "Final": false,
-    "Updated": "2026-09-11T08:01:32Z",
+    "Updated": "2026-09-11T14:10:02Z",
     "Started": "2026-09-10T16:18:08Z",
     "AdminUnit": "CAL FIRE Mendocino Unit",
     "AdminUnitUrl": null,
