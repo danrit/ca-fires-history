@@ -10077,7 +10077,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-09-11T21:21:18Z",
+    "Updated": "2026-09-11T21:57:10Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Los Padres National Forest;Monterey County Sheriff's Department",
     "AdminUnitUrl": null,
@@ -11227,7 +11227,7 @@
   {
     "Name": "Plaskett Fire",
     "Final": false,
-    "Updated": "2026-09-11T21:18:00Z",
+    "Updated": "2026-09-11T21:56:32Z",
     "Started": "2026-08-26T18:01:28Z",
     "AdminUnit": "USFS - Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -12177,7 +12177,7 @@
   {
     "Name": "Lucas Fire",
     "Final": false,
-    "Updated": "2026-09-11T21:22:21Z",
+    "Updated": "2026-09-11T22:35:00Z",
     "Started": "2026-09-10T16:18:08Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -12222,6 +12222,31 @@
     "StartedDateOnly": "2026-09-11",
     "IsActive": true,
     "CalFireIncident": true,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Pouch",
+    "Final": false,
+    "Updated": "2026-09-12T00:03:30Z",
+    "Started": "2026-09-11T23:16:46Z",
+    "AdminUnit": "CAL FIRE San Luis Obispo Unit",
+    "AdminUnitUrl": null,
+    "County": "San Luis Obispo",
+    "Location": "Highway 1 & Mail Pouch Lane San Luis Obispo",
+    "AcresBurned": 5.0,
+    "PercentContained": 20.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.690062,
+    "Latitude": 35.313395,
+    "Type": "Wildfire",
+    "UniqueId": "5c377c5d-be0a-48d9-bee8-197228239d1d",
+    "Url": "https://www.fire.ca.gov/incidents/2026/9/11/pouch/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-09-11",
+    "IsActive": true,
+    "CalFireIncident": false,
     "NotificationDesired": false
   }
 ]
