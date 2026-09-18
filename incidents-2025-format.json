@@ -11252,7 +11252,7 @@
   {
     "Name": "Plaskett Fire",
     "Final": false,
-    "Updated": "2026-09-18T15:58:35Z",
+    "Updated": "2026-09-18T19:44:35Z",
     "Started": "2026-08-26T18:01:28Z",
     "AdminUnit": "USFS - Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -12202,7 +12202,7 @@
   {
     "Name": "Lucas Fire",
     "Final": false,
-    "Updated": "2026-09-18T17:13:23Z",
+    "Updated": "2026-09-18T18:18:44Z",
     "Started": "2026-09-10T16:18:08Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -12427,9 +12427,9 @@
   {
     "Name": "Floriston Fire",
     "Final": false,
-    "Updated": "2026-09-18T16:57:53Z",
+    "Updated": "2026-09-18T19:31:22Z",
     "Started": "2026-09-16T17:01:00Z",
-    "AdminUnit": "Unified Command: CAL FIRE Nevada-Yuba-Placer Unit;Nevada County Sheriff’s Office;California Highway Patrol;USFS - Humboldt-Toiyabe National Forest",
+    "AdminUnit": "Unified Command: California Highway Patrol;Nevada County Sheriff’s Office;CAL FIRE Nevada-Yuba-Placer Unit;USFS - Humboldt-Toiyabe National Forest",
     "AdminUnitUrl": null,
     "County": "Nevada",
     "Location": "I-80 and Floriston Way, 9 miles northeast of Truckee",
@@ -12502,7 +12502,7 @@
   {
     "Name": "Moss Landing Power Plant Fire",
     "Final": false,
-    "Updated": "2026-09-18T17:41:47Z",
+    "Updated": "2026-09-18T19:10:09Z",
     "Started": "2026-09-18T16:24:14Z",
     "AdminUnit": "CAL FIRE San Benito-Monterey Unit",
     "AdminUnitUrl": null,
