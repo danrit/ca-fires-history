@@ -10102,7 +10102,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-09-20T01:22:22Z",
+    "Updated": "2026-09-20T14:05:43Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Monterey County Sheriff's Department;Unified Command: Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -11252,7 +11252,7 @@
   {
     "Name": "Plaskett Fire",
     "Final": false,
-    "Updated": "2026-09-20T01:24:38Z",
+    "Updated": "2026-09-20T13:45:27Z",
     "Started": "2026-08-26T18:01:28Z",
     "AdminUnit": "USFS - Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -12402,13 +12402,13 @@
   {
     "Name": "Dome Fire ",
     "Final": false,
-    "Updated": "2026-09-20T04:50:59Z",
+    "Updated": "2026-09-20T13:48:17Z",
     "Started": "2026-09-15T15:28:00Z",
     "AdminUnit": "National Park Service",
     "AdminUnitUrl": null,
     "County": "Mariposa",
     "Location": "North of Wawona Dome, Yosemite National Park ",
-    "AcresBurned": 2384.0,
+    "AcresBurned": 2667.0,
     "PercentContained": 15.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -12427,7 +12427,7 @@
   {
     "Name": "Floriston Fire",
     "Final": false,
-    "Updated": "2026-09-20T02:11:52Z",
+    "Updated": "2026-09-20T15:05:19Z",
     "Started": "2026-09-16T17:01:00Z",
     "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit;Nevada County Sheriff’s Office;Unified Command: California Highway Patrol;USFS - Humboldt-Toiyabe National Forest;USFS - Tahoe National Forest",
     "AdminUnitUrl": null,
@@ -12527,7 +12527,7 @@
   {
     "Name": "Gustin Fire",
     "Final": false,
-    "Updated": "2026-09-20T01:16:38Z",
+    "Updated": "2026-09-20T15:23:18Z",
     "Started": "2026-09-19T04:27:32Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
