@@ -10102,7 +10102,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-09-21T01:21:50Z",
+    "Updated": "2026-09-21T13:42:54Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Monterey County Sheriff's Department;Unified Command: Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -11252,7 +11252,7 @@
   {
     "Name": "Plaskett Fire",
     "Final": false,
-    "Updated": "2026-09-20T13:45:27Z",
+    "Updated": "2026-09-21T13:39:29Z",
     "Started": "2026-08-26T18:01:28Z",
     "AdminUnit": "USFS - Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -12597,6 +12597,31 @@
     "StartedDateOnly": "2026-09-21",
     "IsActive": true,
     "CalFireIncident": false,
+    "NotificationDesired": false
+  },
+  {
+    "Name": "Mineral Fire ",
+    "Final": false,
+    "Updated": "2026-09-21T13:42:47Z",
+    "Started": "2026-09-20T13:07:10Z",
+    "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit;Placer County Sheriff's Office",
+    "AdminUnitUrl": null,
+    "County": "Placer",
+    "Location": "Iowa Hill Rd west of Iowa Hill",
+    "AcresBurned": 5.0,
+    "PercentContained": 0.0,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -120.871037,
+    "Latitude": 39.105732,
+    "Type": "Wildfire",
+    "UniqueId": "b5ad4146-8e14-47de-ab04-4dd1ddc88f6e",
+    "Url": "https://www.fire.ca.gov/incidents/2026/9/20/mineral-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-09-20",
+    "IsActive": true,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
