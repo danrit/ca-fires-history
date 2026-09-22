@@ -12201,8 +12201,8 @@
   },
   {
     "Name": "Lucas Fire",
-    "Final": false,
-    "Updated": "2026-09-21T01:08:45Z",
+    "Final": true,
+    "Updated": "2026-09-22T04:47:11Z",
     "Started": "2026-09-10T16:18:08Z",
     "AdminUnit": "CAL FIRE Sonoma-Lake-Napa Unit",
     "AdminUnitUrl": null,
@@ -12217,10 +12217,10 @@
     "Type": "Wildfire",
     "UniqueId": "21bc394c-05e3-4599-a25e-ab5965f10430",
     "Url": "https://www.fire.ca.gov/incidents/2026/9/10/lucas-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2026-09-22T04:46:58Z",
+    "ExtinguishedDateOnly": "2026-09-22",
     "StartedDateOnly": "2026-09-10",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -12526,8 +12526,8 @@
   },
   {
     "Name": "Gustin Fire",
-    "Final": false,
-    "Updated": "2026-09-22T01:27:49Z",
+    "Final": true,
+    "Updated": "2026-09-22T04:47:37Z",
     "Started": "2026-09-19T04:27:32Z",
     "AdminUnit": "CAL FIRE Riverside Unit",
     "AdminUnitUrl": null,
@@ -12545,7 +12545,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-09-19",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
@@ -12577,7 +12577,7 @@
   {
     "Name": "Chileno Fire",
     "Final": false,
-    "Updated": "2026-09-22T01:56:50Z",
+    "Updated": "2026-09-22T07:19:57Z",
     "Started": "2026-09-21T00:37:52Z",
     "AdminUnit": "Marin County Fire Department",
     "AdminUnitUrl": null,
@@ -12602,7 +12602,7 @@
   {
     "Name": "Mineral Fire ",
     "Final": false,
-    "Updated": "2026-09-21T15:59:08Z",
+    "Updated": "2026-09-22T05:00:36Z",
     "Started": "2026-09-20T13:07:10Z",
     "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit;Placer County Sheriff's Office",
     "AdminUnitUrl": null,
