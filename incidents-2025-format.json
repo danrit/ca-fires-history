@@ -12801,8 +12801,8 @@
   },
   {
     "Name": "Karchner Fire",
-    "Final": false,
-    "Updated": "2026-09-28T21:22:23Z",
+    "Final": true,
+    "Updated": "2026-09-29T14:11:49Z",
     "Started": "2026-09-28T19:36:00Z",
     "AdminUnit": "CAL FIRE Nevada-Yuba-Placer Unit",
     "AdminUnitUrl": null,
@@ -12820,14 +12820,14 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-09-28",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
   {
     "Name": "Floral Fire",
-    "Final": false,
-    "Updated": "2026-09-28T22:39:30Z",
+    "Final": true,
+    "Updated": "2026-09-29T14:11:17Z",
     "Started": "2026-09-28T20:18:57Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
@@ -12845,7 +12845,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-09-28",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   },
