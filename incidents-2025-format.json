@@ -10102,7 +10102,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-09-30T00:58:06Z",
+    "Updated": "2026-09-30T17:28:56Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Monterey County Sheriff's Department;Unified Command: Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -12402,13 +12402,13 @@
   {
     "Name": "Dome Fire ",
     "Final": false,
-    "Updated": "2026-09-30T00:56:47Z",
+    "Updated": "2026-09-30T18:54:32Z",
     "Started": "2026-09-15T15:28:00Z",
     "AdminUnit": "National Park Service",
     "AdminUnitUrl": null,
     "County": "Mariposa",
     "Location": "North of Wawona Dome, Yosemite National Park ",
-    "AcresBurned": 5484.2,
+    "AcresBurned": 5739.0,
     "PercentContained": 39.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -12752,7 +12752,7 @@
   {
     "Name": "Juniper Fire",
     "Final": false,
-    "Updated": "2026-09-27T18:26:38Z",
+    "Updated": "2026-09-30T16:18:29Z",
     "Started": "2026-09-25T20:34:50Z",
     "AdminUnit": "BLM - California Desert District",
     "AdminUnitUrl": null,
@@ -12777,7 +12777,7 @@
   {
     "Name": "Blind Fire",
     "Final": false,
-    "Updated": "2026-09-29T03:20:32Z",
+    "Updated": "2026-09-30T16:18:26Z",
     "Started": "2026-09-26T21:58:38Z",
     "AdminUnit": "BLM - Central California District",
     "AdminUnitUrl": null,
