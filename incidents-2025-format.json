@@ -12923,5 +12923,30 @@
     "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Clay Fire",
+    "Final": false,
+    "Updated": "2026-09-30T20:13:37Z",
+    "Started": "2026-09-30T17:54:31Z",
+    "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
+    "AdminUnitUrl": null,
+    "County": "Sacramento",
+    "Location": "Clay East Road, Herald",
+    "AcresBurned": 15.9,
+    "PercentContained": 40.0,
+    "ControlStatement": null,
+    "AgencyNames": "Sacramento Metropolitan Fire District, Herald Fire Protection District",
+    "Longitude": -121.135507,
+    "Latitude": 38.336172,
+    "Type": "Wildfire",
+    "UniqueId": "c7a5e1ad-79d1-4823-a1a5-f4852cb71eec",
+    "Url": "https://www.fire.ca.gov/incidents/2026/9/30/clay-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-09-30",
+    "IsActive": true,
+    "CalFireIncident": true,
+    "NotificationDesired": false
   }
 ]
