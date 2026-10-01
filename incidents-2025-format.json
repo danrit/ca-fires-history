@@ -12948,5 +12948,30 @@
     "IsActive": true,
     "CalFireIncident": true,
     "NotificationDesired": false
+  },
+  {
+    "Name": "Grapevine Fire",
+    "Final": false,
+    "Updated": "2026-10-01T05:15:18Z",
+    "Started": "2026-10-01T03:07:50Z",
+    "AdminUnit": "Kern County Fire Department",
+    "AdminUnitUrl": null,
+    "County": "Kern",
+    "Location": "Northbound Interstate 5 at Lebec Road",
+    "AcresBurned": 100.0,
+    "PercentContained": null,
+    "ControlStatement": null,
+    "AgencyNames": "",
+    "Longitude": -118.923001,
+    "Latitude": 34.924093,
+    "Type": "Wildfire",
+    "UniqueId": "6da81c42-ee31-47ef-9dc5-014b5b7db026",
+    "Url": "https://www.fire.ca.gov/incidents/2026/9/30/grapevine-fire/",
+    "ExtinguishedDate": "",
+    "ExtinguishedDateOnly": "",
+    "StartedDateOnly": "2026-10-01",
+    "IsActive": true,
+    "CalFireIncident": false,
+    "NotificationDesired": false
   }
 ]
