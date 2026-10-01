@@ -10102,7 +10102,7 @@
   {
     "Name": "Timber Fire ",
     "Final": false,
-    "Updated": "2026-09-30T17:28:56Z",
+    "Updated": "2026-10-01T15:37:03Z",
     "Started": "2026-08-09T03:35:00Z",
     "AdminUnit": "Monterey County Sheriff's Department;Unified Command: Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -11251,8 +11251,8 @@
   },
   {
     "Name": "Plaskett Fire",
-    "Final": false,
-    "Updated": "2026-09-30T00:58:41Z",
+    "Final": true,
+    "Updated": "2026-10-01T15:32:06Z",
     "Started": "2026-08-26T18:01:28Z",
     "AdminUnit": "USFS - Los Padres National Forest",
     "AdminUnitUrl": null,
@@ -11270,7 +11270,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-08-26",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -12402,13 +12402,13 @@
   {
     "Name": "Dome Fire ",
     "Final": false,
-    "Updated": "2026-10-01T00:28:16Z",
+    "Updated": "2026-10-01T15:37:00Z",
     "Started": "2026-09-15T15:28:00Z",
     "AdminUnit": "National Park Service",
     "AdminUnitUrl": null,
     "County": "Mariposa",
     "Location": "North of Wawona Dome, Yosemite National Park ",
-    "AcresBurned": 5739.0,
+    "AcresBurned": 5777.0,
     "PercentContained": 40.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -12927,7 +12927,7 @@
   {
     "Name": "Clay Fire",
     "Final": false,
-    "Updated": "2026-10-01T00:52:31Z",
+    "Updated": "2026-10-01T15:38:20Z",
     "Started": "2026-09-30T17:54:31Z",
     "AdminUnit": "CAL FIRE Amador-El Dorado Unit",
     "AdminUnitUrl": null,
@@ -12952,7 +12952,7 @@
   {
     "Name": "Grapevine Fire",
     "Final": false,
-    "Updated": "2026-10-01T05:15:18Z",
+    "Updated": "2026-10-01T13:08:19Z",
     "Started": "2026-10-01T03:07:50Z",
     "AdminUnit": "Kern County Fire Department",
     "AdminUnitUrl": null,
