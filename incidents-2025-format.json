@@ -13577,14 +13577,14 @@
   {
     "Name": "Surgone Fire",
     "Final": false,
-    "Updated": "2026-10-15T02:38:02Z",
+    "Updated": "2026-10-15T14:10:02Z",
     "Started": "2026-10-11T19:25:24Z",
     "AdminUnit": "CAL FIRE Humboldt-Del Norte Unit",
     "AdminUnitUrl": null,
     "County": "Humboldt",
     "Location": "State Highway 169, Surgone",
     "AcresBurned": 64.0,
-    "PercentContained": 55.0,
+    "PercentContained": 60.0,
     "ControlStatement": null,
     "AgencyNames": "",
     "Longitude": -123.857639,
@@ -13601,8 +13601,8 @@
   },
   {
     "Name": "Bike Fire",
-    "Final": false,
-    "Updated": "2026-10-14T21:18:26Z",
+    "Final": true,
+    "Updated": "2026-10-15T14:47:20Z",
     "Started": "2026-10-11T20:57:42Z",
     "AdminUnit": "Los Angeles County Fire Department",
     "AdminUnitUrl": null,
@@ -13620,7 +13620,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-10-11",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -13726,8 +13726,8 @@
   },
   {
     "Name": "Horse Fire ",
-    "Final": false,
-    "Updated": "2026-10-14T02:48:05Z",
+    "Final": true,
+    "Updated": "2026-10-15T14:47:02Z",
     "Started": "2026-10-13T19:59:00Z",
     "AdminUnit": "CAL FIRE Fresno-Kings Unit",
     "AdminUnitUrl": null,
@@ -13745,7 +13745,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-10-13",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
