@@ -13802,13 +13802,13 @@
   {
     "Name": "Henderson Fire",
     "Final": false,
-    "Updated": "2026-10-17T05:38:52Z",
+    "Updated": "2026-10-17T13:15:37Z",
     "Started": "2026-10-15T21:35:52Z",
     "AdminUnit": "Camp Pendleton Fire Department",
     "AdminUnitUrl": null,
     "County": "San Diego",
     "Location": "Henderson St., cross of Brown St. , Camp Pendleton",
-    "AcresBurned": 2079.0,
+    "AcresBurned": 3132.0,
     "PercentContained": 20.0,
     "ControlStatement": null,
     "AgencyNames": "",
@@ -13827,7 +13827,7 @@
   {
     "Name": "Norte Fire ",
     "Final": false,
-    "Updated": "2026-10-17T07:32:54Z",
+    "Updated": "2026-10-17T13:27:51Z",
     "Started": "2026-10-16T18:33:00Z",
     "AdminUnit": "Orange County Fire Authority",
     "AdminUnitUrl": null,
