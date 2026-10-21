@@ -14127,7 +14127,7 @@
   {
     "Name": "Buckhorn Fire",
     "Final": false,
-    "Updated": "2026-10-21T18:29:11Z",
+    "Updated": "2026-10-21T20:43:35Z",
     "Started": "2026-10-21T08:41:18Z",
     "AdminUnit": "",
     "AdminUnitUrl": null,
@@ -14146,7 +14146,7 @@
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-10-21",
     "IsActive": true,
-    "CalFireIncident": false,
+    "CalFireIncident": true,
     "NotificationDesired": false
   }
 ]
