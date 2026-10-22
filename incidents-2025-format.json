@@ -13977,7 +13977,7 @@
   {
     "Name": "Cooley Fire",
     "Final": false,
-    "Updated": "2026-10-22T00:28:37Z",
+    "Updated": "2026-10-22T02:40:21Z",
     "Started": "2026-10-17T00:05:39Z",
     "AdminUnit": "CAL FIRE Mendocino Unit",
     "AdminUnitUrl": null,
@@ -14052,7 +14052,7 @@
   {
     "Name": "Soda Fire",
     "Final": false,
-    "Updated": "2026-10-21T03:09:55Z",
+    "Updated": "2026-10-22T02:38:17Z",
     "Started": "2026-10-19T04:42:06Z",
     "AdminUnit": "USFS - Klamath National Forest",
     "AdminUnitUrl": null,
@@ -14101,8 +14101,8 @@
   },
   {
     "Name": "Hay Fire",
-    "Final": false,
-    "Updated": "2026-10-21T15:06:20Z",
+    "Final": true,
+    "Updated": "2026-10-22T04:31:10Z",
     "Started": "2026-10-20T19:02:46Z",
     "AdminUnit": "Vacaville Fire Protection District",
     "AdminUnitUrl": null,
@@ -14120,14 +14120,14 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-10-20",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
   {
     "Name": "Buckhorn Fire",
-    "Final": false,
-    "Updated": "2026-10-21T20:43:35Z",
+    "Final": true,
+    "Updated": "2026-10-22T04:32:11Z",
     "Started": "2026-10-21T08:41:18Z",
     "AdminUnit": "",
     "AdminUnitUrl": null,
@@ -14145,7 +14145,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-10-21",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
