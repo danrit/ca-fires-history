@@ -13826,8 +13826,8 @@
   },
   {
     "Name": "Norte Fire ",
-    "Final": false,
-    "Updated": "2026-10-23T18:18:27Z",
+    "Final": true,
+    "Updated": "2026-10-24T05:03:08Z",
     "Started": "2026-10-16T18:33:00Z",
     "AdminUnit": "Orange County Fire Authority",
     "AdminUnitUrl": null,
@@ -13842,10 +13842,10 @@
     "Type": "Wildfire",
     "UniqueId": "87ebb8be-5f37-4e03-b01a-7350c6fb597d",
     "Url": "https://www.fire.ca.gov/incidents/2026/10/16/norte-fire/",
-    "ExtinguishedDate": "",
-    "ExtinguishedDateOnly": "",
+    "ExtinguishedDate": "2026-10-24T05:03:01Z",
+    "ExtinguishedDateOnly": "2026-10-24",
     "StartedDateOnly": "2026-10-16",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -13977,7 +13977,7 @@
   {
     "Name": "Cooley Fire",
     "Final": false,
-    "Updated": "2026-10-24T00:16:19Z",
+    "Updated": "2026-10-24T01:29:33Z",
     "Started": "2026-10-17T00:05:39Z",
     "AdminUnit": "CAL FIRE Mendocino Unit",
     "AdminUnitUrl": null,
