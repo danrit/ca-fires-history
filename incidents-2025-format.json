@@ -14051,8 +14051,8 @@
   },
   {
     "Name": "Soda Fire",
-    "Final": false,
-    "Updated": "2026-10-27T20:50:36Z",
+    "Final": true,
+    "Updated": "2026-10-29T05:00:14Z",
     "Started": "2026-10-19T04:42:06Z",
     "AdminUnit": "USFS - Klamath National Forest",
     "AdminUnitUrl": null,
@@ -14070,7 +14070,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-10-19",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": false,
     "NotificationDesired": false
   },
@@ -14151,8 +14151,8 @@
   },
   {
     "Name": "Lassen Fire",
-    "Final": false,
-    "Updated": "2026-10-27T22:18:16Z",
+    "Final": true,
+    "Updated": "2026-10-29T05:01:15Z",
     "Started": "2026-10-27T18:50:08Z",
     "AdminUnit": "CAL FIRE Tehama-Glenn Unit",
     "AdminUnitUrl": null,
@@ -14170,7 +14170,7 @@
     "ExtinguishedDate": "",
     "ExtinguishedDateOnly": "",
     "StartedDateOnly": "2026-10-27",
-    "IsActive": true,
+    "IsActive": false,
     "CalFireIncident": true,
     "NotificationDesired": false
   }
